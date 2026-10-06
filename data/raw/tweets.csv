@@ -1,0 +1,502 @@
+id,date,source,company,ticker,text,intended_sentiment,intended_event
+tw_0193,2026-08-01,twitter,Procter & Gamble Co.,PG,"PG 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0204,2026-08-01,twitter,Exxon Mobil Corp.,XOM,"XOM crushed earnings, calls printing today",positive,Other
+tw_0208,2026-08-01,twitter,Alphabet Inc.,GOOGL,"GOOGL deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0281,2026-08-01,twitter,Exxon Mobil Corp.,XOM,"XOM up on the ceasefire news, tensions finally cooling off #markets",positive,Geopolitical
+tw_0406,2026-08-01,twitter,Caterpillar Inc.,CAT,inflation data wrecking CAT premarket,negative,Macroeconomic
+tw_0412,2026-08-01,twitter,Pfizer Inc.,PFE,watching PFE react to the geopolitical headlines this morning,neutral,Geopolitical
+tw_0414,2026-08-01,twitter,NVIDIA Corp.,NVDA,"NVDA teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0489,2026-08-01,twitter,Exxon Mobil Corp.,XOM,"XOM up on the ceasefire news, tensions finally cooling off #markets",positive,Geopolitical
+tw_0008,2026-08-02,twitter,Boeing Co.,BA,"BA earnings next week, setting price alerts",neutral,Other
+tw_0045,2026-08-02,twitter,Pfizer Inc.,PFE,"PFE confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0065,2026-08-02,twitter,Bank of America Corp.,BAC,"BAC getting hit hard, sanctions headlines are brutal rn",negative,Geopolitical
+tw_0101,2026-08-02,twitter,Chevron Corp.,CVX,"CVX missed big, puts are free money rn",negative,Other
+tw_0117,2026-08-02,twitter,Coca-Cola Co.,KO,"KO ripping on the inflation print, rate cut hopes back on",positive,Macroeconomic
+tw_0269,2026-08-02,twitter,Johnson & Johnson,JNJ,JNJ flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0313,2026-08-02,twitter,Chevron Corp.,CVX,CVX launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0350,2026-08-02,twitter,Amazon.com Inc.,AMZN,watching AMZN react to the geopolitical headlines this morning,neutral,Geopolitical
+tw_0434,2026-08-02,twitter,Pfizer Inc.,PFE,"PFE bleeding, rates up again and nobody wants risk rn",negative,Macroeconomic
+tw_0026,2026-08-03,twitter,Microsoft Corp.,MSFT,"MSFT bankruptcy talk trending, not good",negative,Credit Event
+tw_0082,2026-08-03,twitter,Johnson & Johnson,JNJ,"JNJ crushed earnings, calls printing today",positive,Other
+tw_0085,2026-08-03,twitter,Alphabet Inc.,GOOGL,"GOOGL ripping on the inflation print, rate cut hopes back on",positive,Macroeconomic
+tw_0098,2026-08-03,twitter,Procter & Gamble Co.,PG,"PG deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0102,2026-08-03,twitter,Alphabet Inc.,GOOGL,"GOOGL teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0186,2026-08-03,twitter,Bank of America Corp.,BAC,"BAC up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0239,2026-08-03,twitter,Amazon.com Inc.,AMZN,AMZN flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0268,2026-08-03,twitter,NVIDIA Corp.,NVDA,"NVDA bankruptcy talk trending, not good",negative,Credit Event
+tw_0404,2026-08-03,twitter,Boeing Co.,BA,"BA deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0031,2026-08-04,twitter,Johnson & Johnson,JNJ,"JNJ confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0154,2026-08-04,twitter,Bank of America Corp.,BAC,"BAC up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0211,2026-08-04,twitter,Pfizer Inc.,PFE,"PFE refinancing news out, digesting the details",neutral,Credit Event
+tw_0249,2026-08-04,twitter,Pfizer Inc.,PFE,"PFE confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0258,2026-08-04,twitter,Exxon Mobil Corp.,XOM,"XOM up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0290,2026-08-04,twitter,Bank of America Corp.,BAC,"BAC confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0442,2026-08-04,twitter,Procter & Gamble Co.,PG,"PG confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0023,2026-08-05,twitter,Pfizer Inc.,PFE,"PFE up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0073,2026-08-05,twitter,Apple Inc.,AAPL,inflation data wrecking AAPL premarket,negative,Macroeconomic
+tw_0119,2026-08-05,twitter,Coca-Cola Co.,KO,"KO new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0219,2026-08-05,twitter,Exxon Mobil Corp.,XOM,"XOM teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0278,2026-08-05,twitter,Apple Inc.,AAPL,"AAPL 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0336,2026-08-05,twitter,Alphabet Inc.,GOOGL,"GOOGL crushed earnings, calls printing today",positive,Other
+tw_0349,2026-08-05,twitter,Procter & Gamble Co.,PG,"PG crushed earnings, calls printing today",positive,Other
+tw_0416,2026-08-05,twitter,Bank of America Corp.,BAC,"BAC earnings next week, setting price alerts",neutral,Other
+tw_0419,2026-08-05,twitter,Coca-Cola Co.,KO,KO flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0462,2026-08-05,twitter,Coca-Cola Co.,KO,"KO new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0475,2026-08-05,twitter,Microsoft Corp.,MSFT,"MSFT new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0492,2026-08-05,twitter,Johnson & Johnson,JNJ,"JNJ up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0012,2026-08-06,twitter,Coca-Cola Co.,KO,KO launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0133,2026-08-06,twitter,Caterpillar Inc.,CAT,"CAT new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0148,2026-08-06,twitter,Caterpillar Inc.,CAT,"CAT default risk headlines are scary, bonds cratering",negative,Credit Event
+tw_0223,2026-08-06,twitter,NVIDIA Corp.,NVDA,"NVDA missed big, puts are free money rn",negative,Other
+tw_0291,2026-08-06,twitter,Pfizer Inc.,PFE,watching PFE react to the geopolitical headlines this morning,neutral,Geopolitical
+tw_0306,2026-08-06,twitter,Bank of America Corp.,BAC,"BAC 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0408,2026-08-06,twitter,Pfizer Inc.,PFE,"PFE up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0472,2026-08-06,twitter,Apple Inc.,AAPL,AAPL flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0483,2026-08-06,twitter,Amazon.com Inc.,AMZN,"AMZN deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0493,2026-08-06,twitter,NVIDIA Corp.,NVDA,"NVDA crushed earnings, calls printing today",positive,Other
+tw_0018,2026-08-07,twitter,Boeing Co.,BA,"BA earnings next week, setting price alerts",neutral,Other
+tw_0339,2026-08-07,twitter,JPMorgan Chase & Co.,JPM,"JPM missed big, puts are free money rn",negative,Other
+tw_0342,2026-08-07,twitter,JPMorgan Chase & Co.,JPM,"JPM 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0417,2026-08-07,twitter,NVIDIA Corp.,NVDA,"NVDA 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0470,2026-08-07,twitter,Apple Inc.,AAPL,"AAPL crushed earnings, calls printing today",positive,Other
+tw_0480,2026-08-07,twitter,Alphabet Inc.,GOOGL,"GOOGL new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0488,2026-08-07,twitter,Boeing Co.,BA,"BA confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0071,2026-08-08,twitter,Alphabet Inc.,GOOGL,"GOOGL teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0072,2026-08-08,twitter,Coca-Cola Co.,KO,"KO up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0107,2026-08-08,twitter,JPMorgan Chase & Co.,JPM,"JPM crushed earnings, calls printing today",positive,Other
+tw_0111,2026-08-08,twitter,Amazon.com Inc.,AMZN,"AMZN crushed earnings, calls printing today",positive,Other
+tw_0405,2026-08-08,twitter,Microsoft Corp.,MSFT,"MSFT crushed earnings, calls printing today",positive,Other
+tw_0430,2026-08-08,twitter,Caterpillar Inc.,CAT,inflation data wrecking CAT premarket,negative,Macroeconomic
+tw_0445,2026-08-08,twitter,Procter & Gamble Co.,PG,"PG missed big, puts are free money rn",negative,Other
+tw_0460,2026-08-08,twitter,Boeing Co.,BA,watching BA react to the geopolitical headlines this morning,neutral,Geopolitical
+tw_0041,2026-08-09,twitter,JPMorgan Chase & Co.,JPM,"JPM refinancing news out, digesting the details",neutral,Credit Event
+tw_0047,2026-08-09,twitter,Coca-Cola Co.,KO,"KO 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0121,2026-08-09,twitter,Bank of America Corp.,BAC,"BAC confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0152,2026-08-09,twitter,Chevron Corp.,CVX,"CVX up on the ceasefire news, tensions finally cooling off #markets",positive,Geopolitical
+tw_0157,2026-08-09,twitter,Chevron Corp.,CVX,"CVX refinancing news out, digesting the details",neutral,Credit Event
+tw_0189,2026-08-09,twitter,NVIDIA Corp.,NVDA,NVDA launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0274,2026-08-09,twitter,Alphabet Inc.,GOOGL,"GOOGL crushed earnings, calls printing today",positive,Other
+tw_0311,2026-08-09,twitter,Exxon Mobil Corp.,XOM,"XOM default risk headlines are scary, bonds cratering",negative,Credit Event
+tw_0322,2026-08-09,twitter,Johnson & Johnson,JNJ,"JNJ bleeding, rates up again and nobody wants risk rn",negative,Macroeconomic
+tw_0334,2026-08-09,twitter,Boeing Co.,BA,"BA confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0390,2026-08-09,twitter,Johnson & Johnson,JNJ,"JNJ refinancing news out, digesting the details",neutral,Credit Event
+tw_0432,2026-08-09,twitter,Caterpillar Inc.,CAT,"war fears tanking CAT today, ugly tape",negative,Geopolitical
+tw_0050,2026-08-10,twitter,JPMorgan Chase & Co.,JPM,"JPM new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0161,2026-08-10,twitter,JPMorgan Chase & Co.,JPM,"JPM confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0171,2026-08-10,twitter,Pfizer Inc.,PFE,"PFE missed big, puts are free money rn",negative,Other
+tw_0215,2026-08-10,twitter,NVIDIA Corp.,NVDA,"NVDA ripping on the inflation print, rate cut hopes back on",positive,Macroeconomic
+tw_0238,2026-08-10,twitter,NVIDIA Corp.,NVDA,inflation data wrecking NVDA premarket,negative,Macroeconomic
+tw_0394,2026-08-10,twitter,Boeing Co.,BA,"BA crushed earnings, calls printing today",positive,Other
+tw_0467,2026-08-10,twitter,Exxon Mobil Corp.,XOM,XOM flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0011,2026-08-11,twitter,Microsoft Corp.,MSFT,"MSFT 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0057,2026-08-11,twitter,Bank of America Corp.,BAC,"BAC teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0097,2026-08-11,twitter,Exxon Mobil Corp.,XOM,"XOM teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0126,2026-08-11,twitter,Microsoft Corp.,MSFT,"MSFT new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0131,2026-08-11,twitter,Pfizer Inc.,PFE,PFE flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0138,2026-08-11,twitter,Exxon Mobil Corp.,XOM,watching XOM react to the geopolitical headlines this morning,neutral,Geopolitical
+tw_0212,2026-08-11,twitter,Pfizer Inc.,PFE,"war fears tanking PFE today, ugly tape",negative,Geopolitical
+tw_0221,2026-08-11,twitter,Chevron Corp.,CVX,"CVX new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0317,2026-08-11,twitter,Chevron Corp.,CVX,CVX flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0340,2026-08-11,twitter,Coca-Cola Co.,KO,KO flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0386,2026-08-11,twitter,Procter & Gamble Co.,PG,"PG teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0446,2026-08-11,twitter,Apple Inc.,AAPL,"AAPL earnings next week, setting price alerts",neutral,Other
+tw_0447,2026-08-11,twitter,Exxon Mobil Corp.,XOM,"XOM refinancing news out, digesting the details",neutral,Credit Event
+tw_0453,2026-08-11,twitter,Boeing Co.,BA,"BA new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0005,2026-08-12,twitter,Microsoft Corp.,MSFT,"war fears tanking MSFT today, ugly tape",negative,Geopolitical
+tw_0178,2026-08-12,twitter,Exxon Mobil Corp.,XOM,XOM launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0205,2026-08-12,twitter,Procter & Gamble Co.,PG,"PG default risk headlines are scary, bonds cratering",negative,Credit Event
+tw_0207,2026-08-12,twitter,JPMorgan Chase & Co.,JPM,"JPM getting hit hard, sanctions headlines are brutal rn",negative,Geopolitical
+tw_0296,2026-08-12,twitter,Chevron Corp.,CVX,"CVX teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0370,2026-08-12,twitter,Alphabet Inc.,GOOGL,"GOOGL deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0116,2026-08-13,twitter,JPMorgan Chase & Co.,JPM,"JPM new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0128,2026-08-13,twitter,Chevron Corp.,CVX,"CVX up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0146,2026-08-13,twitter,Caterpillar Inc.,CAT,inflation data wrecking CAT premarket,negative,Macroeconomic
+tw_0202,2026-08-13,twitter,Alphabet Inc.,GOOGL,GOOGL launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0372,2026-08-13,twitter,JPMorgan Chase & Co.,JPM,"JPM getting hit hard, sanctions headlines are brutal rn",negative,Geopolitical
+tw_0479,2026-08-13,twitter,Exxon Mobil Corp.,XOM,"XOM up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0139,2026-08-14,twitter,Exxon Mobil Corp.,XOM,"XOM deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0149,2026-08-14,twitter,Bank of America Corp.,BAC,BAC launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0188,2026-08-14,twitter,Exxon Mobil Corp.,XOM,"XOM crushed earnings, calls printing today",positive,Other
+tw_0261,2026-08-14,twitter,NVIDIA Corp.,NVDA,"NVDA default risk headlines are scary, bonds cratering",negative,Credit Event
+tw_0427,2026-08-14,twitter,Procter & Gamble Co.,PG,watching PG react to the geopolitical headlines this morning,neutral,Geopolitical
+tw_0435,2026-08-14,twitter,Johnson & Johnson,JNJ,"JNJ up on the ceasefire news, tensions finally cooling off #markets",positive,Geopolitical
+tw_0484,2026-08-14,twitter,Alphabet Inc.,GOOGL,"GOOGL crushed earnings, calls printing today",positive,Other
+tw_0497,2026-08-14,twitter,Pfizer Inc.,PFE,"PFE 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0243,2026-08-15,twitter,Procter & Gamble Co.,PG,"war fears tanking PG today, ugly tape",negative,Geopolitical
+tw_0293,2026-08-15,twitter,Boeing Co.,BA,watching BA react to the geopolitical headlines this morning,neutral,Geopolitical
+tw_0454,2026-08-15,twitter,Amazon.com Inc.,AMZN,watching AMZN react to the geopolitical headlines this morning,neutral,Geopolitical
+tw_0458,2026-08-15,twitter,Boeing Co.,BA,watching BA react to the geopolitical headlines this morning,neutral,Geopolitical
+tw_0461,2026-08-15,twitter,Chevron Corp.,CVX,"CVX earnings next week, setting price alerts",neutral,Other
+tw_0064,2026-08-16,twitter,Apple Inc.,AAPL,"AAPL confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0076,2026-08-16,twitter,Bank of America Corp.,BAC,watching BAC react to the geopolitical headlines this morning,neutral,Geopolitical
+tw_0190,2026-08-16,twitter,Microsoft Corp.,MSFT,"MSFT teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0240,2026-08-16,twitter,Coca-Cola Co.,KO,"KO crushed earnings, calls printing today",positive,Other
+tw_0242,2026-08-16,twitter,Johnson & Johnson,JNJ,"JNJ missed big, puts are free money rn",negative,Other
+tw_0392,2026-08-16,twitter,Pfizer Inc.,PFE,PFE flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0210,2026-08-17,twitter,Amazon.com Inc.,AMZN,"AMZN default risk headlines are scary, bonds cratering",negative,Credit Event
+tw_0256,2026-08-17,twitter,Chevron Corp.,CVX,"CVX bleeding, rates up again and nobody wants risk rn",negative,Macroeconomic
+tw_0272,2026-08-17,twitter,Johnson & Johnson,JNJ,inflation data wrecking JNJ premarket,negative,Macroeconomic
+tw_0450,2026-08-17,twitter,Bank of America Corp.,BAC,"BAC refinancing news out, digesting the details",neutral,Credit Event
+tw_0090,2026-08-18,twitter,Coca-Cola Co.,KO,watching KO react to the geopolitical headlines this morning,neutral,Geopolitical
+tw_0099,2026-08-18,twitter,Procter & Gamble Co.,PG,"PG refinancing news out, digesting the details",neutral,Credit Event
+tw_0294,2026-08-18,twitter,NVIDIA Corp.,NVDA,"NVDA missed big, puts are free money rn",negative,Other
+tw_0319,2026-08-18,twitter,Alphabet Inc.,GOOGL,"GOOGL up on the ceasefire news, tensions finally cooling off #markets",positive,Geopolitical
+tw_0329,2026-08-18,twitter,Coca-Cola Co.,KO,inflation data wrecking KO premarket,negative,Macroeconomic
+tw_0376,2026-08-18,twitter,Coca-Cola Co.,KO,"KO bleeding, rates up again and nobody wants risk rn",negative,Macroeconomic
+tw_0379,2026-08-18,twitter,Chevron Corp.,CVX,watching CVX react to the geopolitical headlines this morning,neutral,Geopolitical
+tw_0425,2026-08-18,twitter,Bank of America Corp.,BAC,"BAC up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0438,2026-08-18,twitter,Bank of America Corp.,BAC,watching BAC react to the geopolitical headlines this morning,neutral,Geopolitical
+tw_0459,2026-08-18,twitter,JPMorgan Chase & Co.,JPM,inflation data wrecking JPM premarket,negative,Macroeconomic
+tw_0010,2026-08-19,twitter,Bank of America Corp.,BAC,"BAC missed big, puts are free money rn",negative,Other
+tw_0038,2026-08-19,twitter,Microsoft Corp.,MSFT,"MSFT teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0060,2026-08-19,twitter,JPMorgan Chase & Co.,JPM,"JPM new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0075,2026-08-19,twitter,Chevron Corp.,CVX,"CVX new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0144,2026-08-19,twitter,NVIDIA Corp.,NVDA,"NVDA ripping on the inflation print, rate cut hopes back on",positive,Macroeconomic
+tw_0150,2026-08-19,twitter,Johnson & Johnson,JNJ,"JNJ up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0151,2026-08-19,twitter,Exxon Mobil Corp.,XOM,"XOM teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0184,2026-08-19,twitter,Exxon Mobil Corp.,XOM,"XOM refinancing news out, digesting the details",neutral,Credit Event
+tw_0195,2026-08-19,twitter,Pfizer Inc.,PFE,inflation data wrecking PFE premarket,negative,Macroeconomic
+tw_0230,2026-08-19,twitter,Caterpillar Inc.,CAT,"CAT getting hit hard, sanctions headlines are brutal rn",negative,Geopolitical
+tw_0270,2026-08-19,twitter,Amazon.com Inc.,AMZN,"AMZN teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0315,2026-08-19,twitter,Johnson & Johnson,JNJ,"JNJ default risk headlines are scary, bonds cratering",negative,Credit Event
+tw_0327,2026-08-19,twitter,JPMorgan Chase & Co.,JPM,inflation data wrecking JPM premarket,negative,Macroeconomic
+tw_0389,2026-08-19,twitter,Chevron Corp.,CVX,inflation data wrecking CVX premarket,negative,Macroeconomic
+tw_0003,2026-08-20,twitter,Johnson & Johnson,JNJ,"JNJ up on the ceasefire news, tensions finally cooling off #markets",positive,Geopolitical
+tw_0054,2026-08-20,twitter,Procter & Gamble Co.,PG,"PG 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0096,2026-08-20,twitter,Microsoft Corp.,MSFT,"war fears tanking MSFT today, ugly tape",negative,Geopolitical
+tw_0137,2026-08-20,twitter,Amazon.com Inc.,AMZN,"AMZN 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0246,2026-08-20,twitter,Johnson & Johnson,JNJ,"JNJ crushed earnings, calls printing today",positive,Other
+tw_0253,2026-08-20,twitter,Chevron Corp.,CVX,"CVX 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0265,2026-08-20,twitter,Amazon.com Inc.,AMZN,"AMZN deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0298,2026-08-20,twitter,Alphabet Inc.,GOOGL,"GOOGL crushed earnings, calls printing today",positive,Other
+tw_0310,2026-08-20,twitter,JPMorgan Chase & Co.,JPM,"JPM up on the ceasefire news, tensions finally cooling off #markets",positive,Geopolitical
+tw_0325,2026-08-20,twitter,Bank of America Corp.,BAC,"BAC missed big, puts are free money rn",negative,Other
+tw_0365,2026-08-20,twitter,Alphabet Inc.,GOOGL,"GOOGL up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0382,2026-08-20,twitter,Microsoft Corp.,MSFT,"MSFT missed big, puts are free money rn",negative,Other
+tw_0441,2026-08-20,twitter,Pfizer Inc.,PFE,"PFE missed big, puts are free money rn",negative,Other
+tw_0004,2026-08-21,twitter,NVIDIA Corp.,NVDA,inflation data wrecking NVDA premarket,negative,Macroeconomic
+tw_0030,2026-08-21,twitter,Caterpillar Inc.,CAT,"CAT teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0095,2026-08-21,twitter,Johnson & Johnson,JNJ,JNJ flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0142,2026-08-21,twitter,Alphabet Inc.,GOOGL,"GOOGL refinancing news out, digesting the details",neutral,Credit Event
+tw_0183,2026-08-21,twitter,NVIDIA Corp.,NVDA,"NVDA missed big, puts are free money rn",negative,Other
+tw_0309,2026-08-21,twitter,Procter & Gamble Co.,PG,"PG earnings next week, setting price alerts",neutral,Other
+tw_0359,2026-08-21,twitter,Microsoft Corp.,MSFT,"MSFT new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0463,2026-08-21,twitter,Caterpillar Inc.,CAT,"CAT deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0478,2026-08-21,twitter,JPMorgan Chase & Co.,JPM,"JPM confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0015,2026-08-22,twitter,Amazon.com Inc.,AMZN,"AMZN crushed earnings, calls printing today",positive,Other
+tw_0037,2026-08-22,twitter,Pfizer Inc.,PFE,"PFE crushed earnings, calls printing today",positive,Other
+tw_0039,2026-08-22,twitter,Amazon.com Inc.,AMZN,"AMZN missed big, puts are free money rn",negative,Other
+tw_0046,2026-08-22,twitter,JPMorgan Chase & Co.,JPM,"JPM up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0192,2026-08-22,twitter,NVIDIA Corp.,NVDA,"NVDA up on the ceasefire news, tensions finally cooling off #markets",positive,Geopolitical
+tw_0324,2026-08-22,twitter,Johnson & Johnson,JNJ,"JNJ deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0469,2026-08-22,twitter,JPMorgan Chase & Co.,JPM,"JPM missed big, puts are free money rn",negative,Other
+tw_0127,2026-08-23,twitter,Alphabet Inc.,GOOGL,"GOOGL refinancing news out, digesting the details",neutral,Credit Event
+tw_0344,2026-08-23,twitter,JPMorgan Chase & Co.,JPM,"JPM deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0346,2026-08-23,twitter,Caterpillar Inc.,CAT,"CAT up on the ceasefire news, tensions finally cooling off #markets",positive,Geopolitical
+tw_0362,2026-08-23,twitter,Bank of America Corp.,BAC,BAC launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0383,2026-08-23,twitter,Boeing Co.,BA,"war fears tanking BA today, ugly tape",negative,Geopolitical
+tw_0424,2026-08-23,twitter,Microsoft Corp.,MSFT,"MSFT teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0034,2026-08-24,twitter,Exxon Mobil Corp.,XOM,"XOM confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0079,2026-08-24,twitter,Boeing Co.,BA,"BA 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0100,2026-08-24,twitter,Pfizer Inc.,PFE,"PFE up on the ceasefire news, tensions finally cooling off #markets",positive,Geopolitical
+tw_0103,2026-08-24,twitter,Alphabet Inc.,GOOGL,"GOOGL up on the ceasefire news, tensions finally cooling off #markets",positive,Geopolitical
+tw_0166,2026-08-24,twitter,Johnson & Johnson,JNJ,"JNJ default risk headlines are scary, bonds cratering",negative,Credit Event
+tw_0231,2026-08-24,twitter,Bank of America Corp.,BAC,"BAC ripping on the inflation print, rate cut hopes back on",positive,Macroeconomic
+tw_0286,2026-08-24,twitter,JPMorgan Chase & Co.,JPM,"JPM default risk headlines are scary, bonds cratering",negative,Credit Event
+tw_0320,2026-08-24,twitter,Bank of America Corp.,BAC,"BAC default risk headlines are scary, bonds cratering",negative,Credit Event
+tw_0409,2026-08-24,twitter,Pfizer Inc.,PFE,"PFE default risk headlines are scary, bonds cratering",negative,Credit Event
+tw_0464,2026-08-24,twitter,Microsoft Corp.,MSFT,MSFT launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0078,2026-08-25,twitter,JPMorgan Chase & Co.,JPM,watching JPM react to the geopolitical headlines this morning,neutral,Geopolitical
+tw_0232,2026-08-25,twitter,Caterpillar Inc.,CAT,"CAT deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0271,2026-08-25,twitter,Alphabet Inc.,GOOGL,"GOOGL bleeding, rates up again and nobody wants risk rn",negative,Macroeconomic
+tw_0308,2026-08-25,twitter,Microsoft Corp.,MSFT,"MSFT getting hit hard, sanctions headlines are brutal rn",negative,Geopolitical
+tw_0395,2026-08-25,twitter,Johnson & Johnson,JNJ,"JNJ crushed earnings, calls printing today",positive,Other
+tw_0418,2026-08-25,twitter,JPMorgan Chase & Co.,JPM,"JPM default risk headlines are scary, bonds cratering",negative,Credit Event
+tw_0496,2026-08-25,twitter,Procter & Gamble Co.,PG,"PG deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0002,2026-08-26,twitter,Pfizer Inc.,PFE,"PFE up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0007,2026-08-26,twitter,Chevron Corp.,CVX,"CVX crushed earnings, calls printing today",positive,Other
+tw_0106,2026-08-26,twitter,Microsoft Corp.,MSFT,"MSFT new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0141,2026-08-26,twitter,Procter & Gamble Co.,PG,"PG refinancing news out, digesting the details",neutral,Credit Event
+tw_0263,2026-08-26,twitter,Coca-Cola Co.,KO,"KO 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0289,2026-08-26,twitter,Boeing Co.,BA,"BA earnings next week, setting price alerts",neutral,Other
+tw_0355,2026-08-26,twitter,Alphabet Inc.,GOOGL,GOOGL flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0396,2026-08-26,twitter,Exxon Mobil Corp.,XOM,watching XOM react to the geopolitical headlines this morning,neutral,Geopolitical
+tw_0410,2026-08-26,twitter,Pfizer Inc.,PFE,"PFE earnings next week, setting price alerts",neutral,Other
+tw_0487,2026-08-26,twitter,Amazon.com Inc.,AMZN,"AMZN up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0063,2026-08-27,twitter,NVIDIA Corp.,NVDA,"NVDA deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0197,2026-08-27,twitter,Procter & Gamble Co.,PG,"PG earnings next week, setting price alerts",neutral,Other
+tw_0216,2026-08-27,twitter,Exxon Mobil Corp.,XOM,"XOM missed big, puts are free money rn",negative,Other
+tw_0247,2026-08-27,twitter,Caterpillar Inc.,CAT,CAT flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0251,2026-08-27,twitter,Chevron Corp.,CVX,"CVX refinancing news out, digesting the details",neutral,Credit Event
+tw_0345,2026-08-27,twitter,Apple Inc.,AAPL,"AAPL 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0373,2026-08-27,twitter,Boeing Co.,BA,"BA confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0481,2026-08-27,twitter,Alphabet Inc.,GOOGL,"GOOGL deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0000,2026-08-28,twitter,NVIDIA Corp.,NVDA,"NVDA new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0094,2026-08-28,twitter,Microsoft Corp.,MSFT,"MSFT crushed earnings, calls printing today",positive,Other
+tw_0228,2026-08-28,twitter,NVIDIA Corp.,NVDA,"NVDA new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0302,2026-08-28,twitter,Procter & Gamble Co.,PG,"PG up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0381,2026-08-28,twitter,Procter & Gamble Co.,PG,"PG confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0411,2026-08-28,twitter,Pfizer Inc.,PFE,"PFE refinancing news out, digesting the details",neutral,Credit Event
+tw_0029,2026-08-29,twitter,Johnson & Johnson,JNJ,"JNJ teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0143,2026-08-29,twitter,NVIDIA Corp.,NVDA,"NVDA 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0173,2026-08-29,twitter,Procter & Gamble Co.,PG,"PG up on the ceasefire news, tensions finally cooling off #markets",positive,Geopolitical
+tw_0241,2026-08-29,twitter,NVIDIA Corp.,NVDA,"NVDA up on the ceasefire news, tensions finally cooling off #markets",positive,Geopolitical
+tw_0343,2026-08-29,twitter,Amazon.com Inc.,AMZN,AMZN flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0348,2026-08-29,twitter,Exxon Mobil Corp.,XOM,"XOM default risk headlines are scary, bonds cratering",negative,Credit Event
+tw_0356,2026-08-29,twitter,Apple Inc.,AAPL,"AAPL missed big, puts are free money rn",negative,Other
+tw_0420,2026-08-29,twitter,Chevron Corp.,CVX,"CVX new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0482,2026-08-29,twitter,Microsoft Corp.,MSFT,MSFT launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0498,2026-08-29,twitter,Caterpillar Inc.,CAT,inflation data wrecking CAT premarket,negative,Macroeconomic
+tw_0028,2026-08-30,twitter,Boeing Co.,BA,watching BA react to the geopolitical headlines this morning,neutral,Geopolitical
+tw_0118,2026-08-30,twitter,JPMorgan Chase & Co.,JPM,"JPM teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0122,2026-08-30,twitter,JPMorgan Chase & Co.,JPM,"JPM earnings next week, setting price alerts",neutral,Other
+tw_0224,2026-08-30,twitter,Caterpillar Inc.,CAT,CAT launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0266,2026-08-30,twitter,Amazon.com Inc.,AMZN,"AMZN refinancing news out, digesting the details",neutral,Credit Event
+tw_0273,2026-08-30,twitter,Coca-Cola Co.,KO,"KO confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0397,2026-08-30,twitter,Chevron Corp.,CVX,"CVX crushed earnings, calls printing today",positive,Other
+tw_0443,2026-08-30,twitter,NVIDIA Corp.,NVDA,"NVDA getting hit hard, sanctions headlines are brutal rn",negative,Geopolitical
+tw_0494,2026-08-30,twitter,Caterpillar Inc.,CAT,"CAT up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0194,2026-08-31,twitter,Chevron Corp.,CVX,inflation data wrecking CVX premarket,negative,Macroeconomic
+tw_0260,2026-08-31,twitter,Microsoft Corp.,MSFT,MSFT flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0326,2026-08-31,twitter,JPMorgan Chase & Co.,JPM,"JPM teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0456,2026-08-31,twitter,Boeing Co.,BA,"BA up on the ceasefire news, tensions finally cooling off #markets",positive,Geopolitical
+hi_03,2026-08-31,twitter,Bank of America Corp.,BAC,"BAC in freefall, bankruptcy and default headlines everywhere, this is a crisis not a dip",negative,Credit Event
+tw_0092,2026-09-01,twitter,Exxon Mobil Corp.,XOM,"XOM deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0135,2026-09-01,twitter,NVIDIA Corp.,NVDA,NVDA launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0147,2026-09-01,twitter,Coca-Cola Co.,KO,inflation data wrecking KO premarket,negative,Macroeconomic
+tw_0318,2026-09-01,twitter,Alphabet Inc.,GOOGL,"GOOGL bankruptcy talk trending, not good",negative,Credit Event
+tw_0374,2026-09-01,twitter,Pfizer Inc.,PFE,"PFE deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0451,2026-09-01,twitter,Procter & Gamble Co.,PG,"PG teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0452,2026-09-01,twitter,Exxon Mobil Corp.,XOM,XOM launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0471,2026-09-01,twitter,NVIDIA Corp.,NVDA,"NVDA new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0006,2026-09-02,twitter,Alphabet Inc.,GOOGL,"GOOGL confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0025,2026-09-02,twitter,Amazon.com Inc.,AMZN,"AMZN new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0032,2026-09-02,twitter,Exxon Mobil Corp.,XOM,"XOM getting hit hard, sanctions headlines are brutal rn",negative,Geopolitical
+tw_0048,2026-09-02,twitter,Alphabet Inc.,GOOGL,"GOOGL getting hit hard, sanctions headlines are brutal rn",negative,Geopolitical
+tw_0130,2026-09-02,twitter,Amazon.com Inc.,AMZN,"AMZN teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0159,2026-09-02,twitter,JPMorgan Chase & Co.,JPM,"JPM ripping on the inflation print, rate cut hopes back on",positive,Macroeconomic
+tw_0164,2026-09-02,twitter,Procter & Gamble Co.,PG,"PG refinancing news out, digesting the details",neutral,Credit Event
+tw_0206,2026-09-02,twitter,Johnson & Johnson,JNJ,"JNJ crushed earnings, calls printing today",positive,Other
+tw_0244,2026-09-02,twitter,Chevron Corp.,CVX,"CVX ripping on the inflation print, rate cut hopes back on",positive,Macroeconomic
+tw_0279,2026-09-02,twitter,Procter & Gamble Co.,PG,"PG ripping on the inflation print, rate cut hopes back on",positive,Macroeconomic
+tw_0301,2026-09-02,twitter,Procter & Gamble Co.,PG,PG flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0366,2026-09-02,twitter,Microsoft Corp.,MSFT,"MSFT bleeding, rates up again and nobody wants risk rn",negative,Macroeconomic
+tw_0001,2026-09-03,twitter,Microsoft Corp.,MSFT,"MSFT refinancing news out, digesting the details",neutral,Credit Event
+tw_0016,2026-09-03,twitter,Coca-Cola Co.,KO,"KO ripping on the inflation print, rate cut hopes back on",positive,Macroeconomic
+tw_0077,2026-09-03,twitter,Johnson & Johnson,JNJ,"JNJ 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0108,2026-09-03,twitter,Apple Inc.,AAPL,"AAPL earnings next week, setting price alerts",neutral,Other
+tw_0120,2026-09-03,twitter,Amazon.com Inc.,AMZN,"AMZN confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0170,2026-09-03,twitter,Apple Inc.,AAPL,AAPL launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0218,2026-09-03,twitter,NVIDIA Corp.,NVDA,"NVDA missed big, puts are free money rn",negative,Other
+tw_0276,2026-09-03,twitter,Caterpillar Inc.,CAT,"CAT teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0284,2026-09-03,twitter,Caterpillar Inc.,CAT,"CAT ripping on the inflation print, rate cut hopes back on",positive,Macroeconomic
+tw_0347,2026-09-03,twitter,Amazon.com Inc.,AMZN,"AMZN default risk headlines are scary, bonds cratering",negative,Credit Event
+tw_0352,2026-09-03,twitter,Coca-Cola Co.,KO,KO flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0431,2026-09-03,twitter,NVIDIA Corp.,NVDA,"NVDA confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0196,2026-09-04,twitter,Pfizer Inc.,PFE,"PFE up on the ceasefire news, tensions finally cooling off #markets",positive,Geopolitical
+tw_0234,2026-09-04,twitter,Boeing Co.,BA,"BA up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0282,2026-09-04,twitter,Apple Inc.,AAPL,"AAPL teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0337,2026-09-04,twitter,Exxon Mobil Corp.,XOM,XOM launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0433,2026-09-04,twitter,Bank of America Corp.,BAC,BAC launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0468,2026-09-04,twitter,Apple Inc.,AAPL,"AAPL 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0042,2026-09-05,twitter,Johnson & Johnson,JNJ,"JNJ earnings next week, setting price alerts",neutral,Other
+tw_0155,2026-09-05,twitter,Johnson & Johnson,JNJ,"JNJ new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0158,2026-09-05,twitter,Microsoft Corp.,MSFT,"MSFT deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0181,2026-09-05,twitter,Exxon Mobil Corp.,XOM,"XOM ripping on the inflation print, rate cut hopes back on",positive,Macroeconomic
+tw_0255,2026-09-05,twitter,Apple Inc.,AAPL,AAPL launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0305,2026-09-05,twitter,Exxon Mobil Corp.,XOM,"XOM 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0312,2026-09-05,twitter,Microsoft Corp.,MSFT,inflation data wrecking MSFT premarket,negative,Macroeconomic
+tw_0353,2026-09-05,twitter,Alphabet Inc.,GOOGL,"GOOGL new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0369,2026-09-05,twitter,Chevron Corp.,CVX,"CVX missed big, puts are free money rn",negative,Other
+tw_0378,2026-09-05,twitter,Exxon Mobil Corp.,XOM,"XOM teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0009,2026-09-06,twitter,Exxon Mobil Corp.,XOM,"war fears tanking XOM today, ugly tape",negative,Geopolitical
+tw_0172,2026-09-06,twitter,Boeing Co.,BA,"BA earnings next week, setting price alerts",neutral,Other
+tw_0225,2026-09-06,twitter,Alphabet Inc.,GOOGL,GOOGL launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0245,2026-09-06,twitter,Amazon.com Inc.,AMZN,AMZN flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0292,2026-09-06,twitter,Exxon Mobil Corp.,XOM,"XOM confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0316,2026-09-06,twitter,Bank of America Corp.,BAC,"BAC 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0328,2026-09-06,twitter,Procter & Gamble Co.,PG,"PG missed big, puts are free money rn",negative,Other
+tw_0358,2026-09-06,twitter,NVIDIA Corp.,NVDA,"NVDA bleeding, rates up again and nobody wants risk rn",negative,Macroeconomic
+tw_0367,2026-09-06,twitter,Bank of America Corp.,BAC,"BAC confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0403,2026-09-06,twitter,Amazon.com Inc.,AMZN,"AMZN refinancing news out, digesting the details",neutral,Credit Event
+tw_0013,2026-09-07,twitter,Bank of America Corp.,BAC,"BAC up on the ceasefire news, tensions finally cooling off #markets",positive,Geopolitical
+tw_0167,2026-09-07,twitter,JPMorgan Chase & Co.,JPM,"JPM earnings next week, setting price alerts",neutral,Other
+tw_0297,2026-09-07,twitter,Caterpillar Inc.,CAT,"CAT up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0413,2026-09-07,twitter,NVIDIA Corp.,NVDA,"NVDA 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0440,2026-09-07,twitter,Alphabet Inc.,GOOGL,GOOGL launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0466,2026-09-07,twitter,Johnson & Johnson,JNJ,inflation data wrecking JNJ premarket,negative,Macroeconomic
+tw_0474,2026-09-07,twitter,Caterpillar Inc.,CAT,"CAT default risk headlines are scary, bonds cratering",negative,Credit Event
+tw_0491,2026-09-07,twitter,Bank of America Corp.,BAC,"BAC refinancing news out, digesting the details",neutral,Credit Event
+tw_0019,2026-09-08,twitter,Alphabet Inc.,GOOGL,"GOOGL up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0168,2026-09-08,twitter,Amazon.com Inc.,AMZN,"AMZN missed big, puts are free money rn",negative,Other
+tw_0314,2026-09-08,twitter,Microsoft Corp.,MSFT,"MSFT refinancing news out, digesting the details",neutral,Credit Event
+tw_0321,2026-09-08,twitter,Amazon.com Inc.,AMZN,AMZN flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0361,2026-09-08,twitter,Boeing Co.,BA,"BA confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0388,2026-09-08,twitter,Apple Inc.,AAPL,AAPL launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0110,2026-09-09,twitter,Amazon.com Inc.,AMZN,"AMZN crushed earnings, calls printing today",positive,Other
+tw_0163,2026-09-09,twitter,Johnson & Johnson,JNJ,"JNJ up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0180,2026-09-09,twitter,Coca-Cola Co.,KO,"KO missed big, puts are free money rn",negative,Other
+tw_0214,2026-09-09,twitter,Microsoft Corp.,MSFT,"MSFT crushed earnings, calls printing today",positive,Other
+tw_0074,2026-09-10,twitter,Microsoft Corp.,MSFT,"MSFT confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0084,2026-09-10,twitter,Coca-Cola Co.,KO,"KO crushed earnings, calls printing today",positive,Other
+tw_0129,2026-09-10,twitter,Pfizer Inc.,PFE,PFE launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0191,2026-09-10,twitter,Apple Inc.,AAPL,"AAPL missed big, puts are free money rn",negative,Other
+tw_0248,2026-09-10,twitter,Amazon.com Inc.,AMZN,"AMZN up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0354,2026-09-10,twitter,Bank of America Corp.,BAC,"BAC 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0368,2026-09-10,twitter,Bank of America Corp.,BAC,"BAC 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0399,2026-09-10,twitter,Coca-Cola Co.,KO,"KO earnings next week, setting price alerts",neutral,Other
+tw_0436,2026-09-10,twitter,Apple Inc.,AAPL,"war fears tanking AAPL today, ugly tape",negative,Geopolitical
+tw_0027,2026-09-11,twitter,Apple Inc.,AAPL,"AAPL default risk headlines are scary, bonds cratering",negative,Credit Event
+tw_0044,2026-09-11,twitter,Procter & Gamble Co.,PG,"PG missed big, puts are free money rn",negative,Other
+tw_0134,2026-09-11,twitter,Apple Inc.,AAPL,"AAPL missed big, puts are free money rn",negative,Other
+tw_0136,2026-09-11,twitter,Caterpillar Inc.,CAT,"CAT missed big, puts are free money rn",negative,Other
+tw_0233,2026-09-11,twitter,Microsoft Corp.,MSFT,"MSFT missed big, puts are free money rn",negative,Other
+tw_0288,2026-09-11,twitter,NVIDIA Corp.,NVDA,"NVDA refinancing news out, digesting the details",neutral,Credit Event
+tw_0499,2026-09-11,twitter,Caterpillar Inc.,CAT,"CAT ripping on the inflation print, rate cut hopes back on",positive,Macroeconomic
+tw_0043,2026-09-12,twitter,Bank of America Corp.,BAC,"BAC crushed earnings, calls printing today",positive,Other
+tw_0049,2026-09-12,twitter,Coca-Cola Co.,KO,"KO teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0113,2026-09-12,twitter,Procter & Gamble Co.,PG,"PG 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0177,2026-09-12,twitter,Alphabet Inc.,GOOGL,"GOOGL new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0280,2026-09-12,twitter,Exxon Mobil Corp.,XOM,"XOM up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0335,2026-09-12,twitter,Pfizer Inc.,PFE,"PFE up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0360,2026-09-12,twitter,NVIDIA Corp.,NVDA,"NVDA 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0444,2026-09-12,twitter,Johnson & Johnson,JNJ,"JNJ new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0476,2026-09-12,twitter,Johnson & Johnson,JNJ,"JNJ new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0021,2026-09-13,twitter,Pfizer Inc.,PFE,"PFE deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0052,2026-09-13,twitter,Exxon Mobil Corp.,XOM,"war fears tanking XOM today, ugly tape",negative,Geopolitical
+tw_0055,2026-09-13,twitter,Coca-Cola Co.,KO,"KO 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0104,2026-09-13,twitter,Bank of America Corp.,BAC,"BAC new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0179,2026-09-13,twitter,Exxon Mobil Corp.,XOM,XOM launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0222,2026-09-13,twitter,JPMorgan Chase & Co.,JPM,JPM launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0236,2026-09-13,twitter,Apple Inc.,AAPL,"war fears tanking AAPL today, ugly tape",negative,Geopolitical
+tw_0299,2026-09-13,twitter,Alphabet Inc.,GOOGL,"GOOGL new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0331,2026-09-13,twitter,Johnson & Johnson,JNJ,JNJ flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0351,2026-09-13,twitter,Boeing Co.,BA,"BA refinancing news out, digesting the details",neutral,Credit Event
+tw_0364,2026-09-13,twitter,Pfizer Inc.,PFE,"PFE crushed earnings, calls printing today",positive,Other
+tw_0486,2026-09-13,twitter,NVIDIA Corp.,NVDA,"NVDA default risk headlines are scary, bonds cratering",negative,Credit Event
+tw_0174,2026-09-14,twitter,JPMorgan Chase & Co.,JPM,"JPM 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0213,2026-09-14,twitter,Bank of America Corp.,BAC,"BAC missed big, puts are free money rn",negative,Other
+tw_0287,2026-09-14,twitter,Bank of America Corp.,BAC,"BAC confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0437,2026-09-14,twitter,Procter & Gamble Co.,PG,PG launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0473,2026-09-14,twitter,Apple Inc.,AAPL,AAPL flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0033,2026-09-15,twitter,Pfizer Inc.,PFE,"PFE ripping on the inflation print, rate cut hopes back on",positive,Macroeconomic
+tw_0160,2026-09-15,twitter,Apple Inc.,AAPL,"AAPL up on the ceasefire news, tensions finally cooling off #markets",positive,Geopolitical
+tw_0165,2026-09-15,twitter,Boeing Co.,BA,"BA teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0176,2026-09-15,twitter,Boeing Co.,BA,"BA missed big, puts are free money rn",negative,Other
+tw_0182,2026-09-15,twitter,Amazon.com Inc.,AMZN,inflation data wrecking AMZN premarket,negative,Macroeconomic
+tw_0307,2026-09-15,twitter,Coca-Cola Co.,KO,KO launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0332,2026-09-15,twitter,Coca-Cola Co.,KO,"KO new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0357,2026-09-15,twitter,Johnson & Johnson,JNJ,"JNJ deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0485,2026-09-15,twitter,Boeing Co.,BA,"BA up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0017,2026-09-16,twitter,Chevron Corp.,CVX,inflation data wrecking CVX premarket,negative,Macroeconomic
+tw_0051,2026-09-16,twitter,Alphabet Inc.,GOOGL,GOOGL flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0169,2026-09-16,twitter,Exxon Mobil Corp.,XOM,"XOM refinancing news out, digesting the details",neutral,Credit Event
+tw_0203,2026-09-16,twitter,Coca-Cola Co.,KO,"KO getting hit hard, sanctions headlines are brutal rn",negative,Geopolitical
+tw_0226,2026-09-16,twitter,Apple Inc.,AAPL,AAPL launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0448,2026-09-16,twitter,JPMorgan Chase & Co.,JPM,JPM flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0091,2026-09-17,twitter,Microsoft Corp.,MSFT,"MSFT bankruptcy talk trending, not good",negative,Credit Event
+tw_0227,2026-09-17,twitter,Apple Inc.,AAPL,"AAPL deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0262,2026-09-17,twitter,Caterpillar Inc.,CAT,CAT flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0428,2026-09-17,twitter,Chevron Corp.,CVX,"CVX teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0465,2026-09-17,twitter,NVIDIA Corp.,NVDA,"NVDA refinancing news out, digesting the details",neutral,Credit Event
+tw_0053,2026-09-18,twitter,Procter & Gamble Co.,PG,inflation data wrecking PG premarket,negative,Macroeconomic
+tw_0068,2026-09-18,twitter,Boeing Co.,BA,"BA confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0088,2026-09-18,twitter,Chevron Corp.,CVX,"CVX deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0105,2026-09-18,twitter,Exxon Mobil Corp.,XOM,"XOM bankruptcy talk trending, not good",negative,Credit Event
+tw_0153,2026-09-18,twitter,Caterpillar Inc.,CAT,"CAT refinancing news out, digesting the details",neutral,Credit Event
+tw_0156,2026-09-18,twitter,Amazon.com Inc.,AMZN,"war fears tanking AMZN today, ugly tape",negative,Geopolitical
+tw_0209,2026-09-18,twitter,Amazon.com Inc.,AMZN,"AMZN 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0217,2026-09-18,twitter,Procter & Gamble Co.,PG,PG launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0252,2026-09-18,twitter,Alphabet Inc.,GOOGL,"GOOGL default risk headlines are scary, bonds cratering",negative,Credit Event
+tw_0277,2026-09-18,twitter,Apple Inc.,AAPL,watching AAPL react to the geopolitical headlines this morning,neutral,Geopolitical
+tw_0300,2026-09-18,twitter,Caterpillar Inc.,CAT,CAT launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0341,2026-09-18,twitter,Pfizer Inc.,PFE,"PFE new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0380,2026-09-18,twitter,Coca-Cola Co.,KO,KO launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0393,2026-09-18,twitter,Alphabet Inc.,GOOGL,"GOOGL crushed earnings, calls printing today",positive,Other
+tw_0423,2026-09-18,twitter,NVIDIA Corp.,NVDA,"NVDA up on the ceasefire news, tensions finally cooling off #markets",positive,Geopolitical
+tw_0020,2026-09-19,twitter,Alphabet Inc.,GOOGL,"GOOGL earnings next week, setting price alerts",neutral,Other
+tw_0035,2026-09-19,twitter,JPMorgan Chase & Co.,JPM,"JPM bankruptcy talk trending, not good",negative,Credit Event
+tw_0056,2026-09-19,twitter,Johnson & Johnson,JNJ,"JNJ deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0081,2026-09-19,twitter,Microsoft Corp.,MSFT,"MSFT up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0109,2026-09-19,twitter,Bank of America Corp.,BAC,"BAC new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0124,2026-09-19,twitter,Boeing Co.,BA,"BA teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0264,2026-09-19,twitter,Caterpillar Inc.,CAT,CAT flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0303,2026-09-19,twitter,NVIDIA Corp.,NVDA,"war fears tanking NVDA today, ugly tape",negative,Geopolitical
+tw_0377,2026-09-19,twitter,NVIDIA Corp.,NVDA,NVDA launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0384,2026-09-19,twitter,Boeing Co.,BA,"BA getting hit hard, sanctions headlines are brutal rn",negative,Geopolitical
+tw_0426,2026-09-19,twitter,Pfizer Inc.,PFE,"PFE up on the ceasefire news, tensions finally cooling off #markets",positive,Geopolitical
+tw_0024,2026-09-20,twitter,Exxon Mobil Corp.,XOM,"XOM confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0036,2026-09-20,twitter,JPMorgan Chase & Co.,JPM,"JPM missed big, puts are free money rn",negative,Other
+tw_0066,2026-09-20,twitter,JPMorgan Chase & Co.,JPM,watching JPM react to the geopolitical headlines this morning,neutral,Geopolitical
+tw_0080,2026-09-20,twitter,Amazon.com Inc.,AMZN,"AMZN earnings next week, setting price alerts",neutral,Other
+tw_0115,2026-09-20,twitter,Amazon.com Inc.,AMZN,AMZN flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0198,2026-09-20,twitter,Caterpillar Inc.,CAT,"CAT ripping on the inflation print, rate cut hopes back on",positive,Macroeconomic
+tw_0250,2026-09-20,twitter,JPMorgan Chase & Co.,JPM,"JPM missed big, puts are free money rn",negative,Other
+tw_0304,2026-09-20,twitter,JPMorgan Chase & Co.,JPM,watching JPM react to the geopolitical headlines this morning,neutral,Geopolitical
+tw_0338,2026-09-20,twitter,Chevron Corp.,CVX,"CVX crushed earnings, calls printing today",positive,Other
+tw_0375,2026-09-20,twitter,Alphabet Inc.,GOOGL,watching GOOGL react to the geopolitical headlines this morning,neutral,Geopolitical
+tw_0400,2026-09-20,twitter,Pfizer Inc.,PFE,"PFE crushed earnings, calls printing today",positive,Other
+tw_0429,2026-09-20,twitter,Bank of America Corp.,BAC,"BAC refinancing news out, digesting the details",neutral,Credit Event
+tw_0093,2026-09-21,twitter,Procter & Gamble Co.,PG,"PG deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0283,2026-09-21,twitter,Amazon.com Inc.,AMZN,watching AMZN react to the geopolitical headlines this morning,neutral,Geopolitical
+tw_0387,2026-09-21,twitter,Johnson & Johnson,JNJ,"JNJ ripping on the inflation print, rate cut hopes back on",positive,Macroeconomic
+tw_0439,2026-09-21,twitter,Microsoft Corp.,MSFT,"MSFT up after the ratings upgrade, debt load looking manageable now",positive,Credit Event
+tw_0449,2026-09-21,twitter,Caterpillar Inc.,CAT,"CAT up on the ceasefire news, tensions finally cooling off #markets",positive,Geopolitical
+tw_0087,2026-09-22,twitter,Apple Inc.,AAPL,"AAPL bankruptcy talk trending, not good",negative,Credit Event
+tw_0237,2026-09-22,twitter,Procter & Gamble Co.,PG,PG launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0285,2026-09-22,twitter,Alphabet Inc.,GOOGL,"GOOGL ripping on the inflation print, rate cut hopes back on",positive,Macroeconomic
+tw_0333,2026-09-22,twitter,NVIDIA Corp.,NVDA,"NVDA deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0363,2026-09-22,twitter,JPMorgan Chase & Co.,JPM,"JPM confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0401,2026-09-22,twitter,Chevron Corp.,CVX,"CVX 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0490,2026-09-22,twitter,Apple Inc.,AAPL,"AAPL ripping on the inflation print, rate cut hopes back on",positive,Macroeconomic
+tw_0495,2026-09-22,twitter,Apple Inc.,AAPL,AAPL flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0070,2026-09-23,twitter,Microsoft Corp.,MSFT,"MSFT getting hit hard, sanctions headlines are brutal rn",negative,Geopolitical
+tw_0083,2026-09-23,twitter,JPMorgan Chase & Co.,JPM,JPM launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0125,2026-09-23,twitter,Alphabet Inc.,GOOGL,"GOOGL confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0132,2026-09-23,twitter,Pfizer Inc.,PFE,"PFE teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0220,2026-09-23,twitter,Caterpillar Inc.,CAT,"CAT new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0235,2026-09-23,twitter,Bank of America Corp.,BAC,"BAC new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0323,2026-09-23,twitter,Amazon.com Inc.,AMZN,"war fears tanking AMZN today, ugly tape",negative,Geopolitical
+tw_0402,2026-09-23,twitter,NVIDIA Corp.,NVDA,"NVDA deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0455,2026-09-24,twitter,Procter & Gamble Co.,PG,"PG new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0477,2026-09-24,twitter,Alphabet Inc.,GOOGL,inflation data wrecking GOOGL premarket,negative,Macroeconomic
+tw_0014,2026-09-25,twitter,Bank of America Corp.,BAC,"BAC new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0022,2026-09-25,twitter,Caterpillar Inc.,CAT,"CAT teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0058,2026-09-25,twitter,Boeing Co.,BA,BA flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0059,2026-09-25,twitter,Amazon.com Inc.,AMZN,watching AMZN react to the geopolitical headlines this morning,neutral,Geopolitical
+tw_0089,2026-09-25,twitter,Pfizer Inc.,PFE,inflation data wrecking PFE premarket,negative,Macroeconomic
+tw_0140,2026-09-25,twitter,JPMorgan Chase & Co.,JPM,"JPM new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0145,2026-09-25,twitter,Bank of America Corp.,BAC,BAC launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0175,2026-09-25,twitter,NVIDIA Corp.,NVDA,"NVDA confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0259,2026-09-25,twitter,Amazon.com Inc.,AMZN,"AMZN confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0371,2026-09-25,twitter,JPMorgan Chase & Co.,JPM,"JPM confirms talks, no deal terms yet",neutral,Merger/Acquisition
+tw_0385,2026-09-25,twitter,Coca-Cola Co.,KO,"KO ripping on the inflation print, rate cut hopes back on",positive,Macroeconomic
+tw_0391,2026-09-25,twitter,Coca-Cola Co.,KO,"KO 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition
+tw_0398,2026-09-25,twitter,Exxon Mobil Corp.,XOM,"XOM refinancing news out, digesting the details",neutral,Credit Event
+tw_0415,2026-09-25,twitter,Apple Inc.,AAPL,"AAPL crushed earnings, calls printing today",positive,Other
+tw_0422,2026-09-25,twitter,Bank of America Corp.,BAC,"BAC teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0086,2026-09-26,twitter,Amazon.com Inc.,AMZN,"AMZN ripping on the inflation print, rate cut hopes back on",positive,Macroeconomic
+tw_0123,2026-09-26,twitter,Pfizer Inc.,PFE,PFE launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0199,2026-09-26,twitter,Exxon Mobil Corp.,XOM,XOM flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0201,2026-09-26,twitter,JPMorgan Chase & Co.,JPM,"JPM bankruptcy talk trending, not good",negative,Credit Event
+tw_0407,2026-09-26,twitter,Bank of America Corp.,BAC,BAC flat ahead of the Fed decision later today,neutral,Macroeconomic
+tw_0061,2026-09-27,twitter,Microsoft Corp.,MSFT,inflation data wrecking MSFT premarket,negative,Macroeconomic
+tw_0069,2026-09-27,twitter,Procter & Gamble Co.,PG,"PG deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0112,2026-09-27,twitter,Alphabet Inc.,GOOGL,"GOOGL getting hit hard, sanctions headlines are brutal rn",negative,Geopolitical
+tw_0114,2026-09-27,twitter,JPMorgan Chase & Co.,JPM,"JPM earnings next week, setting price alerts",neutral,Other
+tw_0185,2026-09-27,twitter,Microsoft Corp.,MSFT,"MSFT teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0295,2026-09-27,twitter,Apple Inc.,AAPL,watching AAPL react to the geopolitical headlines this morning,neutral,Geopolitical
+tw_0040,2026-09-28,twitter,Microsoft Corp.,MSFT,"MSFT teasing a launch event next month, curious what it is",neutral,Product Launch
+tw_0062,2026-09-28,twitter,Chevron Corp.,CVX,"CVX bleeding, rates up again and nobody wants risk rn",negative,Macroeconomic
+tw_0067,2026-09-28,twitter,Alphabet Inc.,GOOGL,"GOOGL ripping on the inflation print, rate cut hopes back on",positive,Macroeconomic
+tw_0254,2026-09-28,twitter,Boeing Co.,BA,"BA earnings next week, setting price alerts",neutral,Other
+tw_0267,2026-09-28,twitter,Microsoft Corp.,MSFT,"MSFT crushed earnings, calls printing today",positive,Other
+tw_0275,2026-09-28,twitter,Procter & Gamble Co.,PG,PG launch delayed again... supply chain still a mess,negative,Product Launch
+tw_0421,2026-09-28,twitter,JPMorgan Chase & Co.,JPM,"JPM earnings next week, setting price alerts",neutral,Other
+tw_0162,2026-09-29,twitter,Johnson & Johnson,JNJ,"JNJ new product looks insane, sold out in an hour lol",positive,Product Launch
+tw_0187,2026-09-29,twitter,Amazon.com Inc.,AMZN,"AMZN earnings next week, setting price alerts",neutral,Other
+tw_0200,2026-09-29,twitter,Apple Inc.,AAPL,"AAPL getting hit hard, sanctions headlines are brutal rn",negative,Geopolitical
+tw_0229,2026-09-29,twitter,JPMorgan Chase & Co.,JPM,"JPM earnings next week, setting price alerts",neutral,Other
+tw_0257,2026-09-29,twitter,NVIDIA Corp.,NVDA,"NVDA refinancing news out, digesting the details",neutral,Credit Event
+tw_0330,2026-09-29,twitter,Boeing Co.,BA,"BA deal falling apart, merger arb traders not happy",negative,Merger/Acquisition
+tw_0457,2026-09-29,twitter,JPMorgan Chase & Co.,JPM,"JPM 🚀 on the buyout rumor, deal premium incoming?",positive,Merger/Acquisition

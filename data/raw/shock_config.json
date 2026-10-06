@@ -1,0 +1,38 @@
+{
+  "Geopolitical": {
+    "equity": -0.1,
+    "derivative": -0.15,
+    "bond": -0.04,
+    "loan": -0.02
+  },
+  "Macroeconomic": {
+    "equity": -0.05,
+    "derivative": -0.08,
+    "bond": -0.06,
+    "loan": -0.03
+  },
+  "Credit Event": {
+    "equity": -0.03,
+    "derivative": -0.1,
+    "bond": -0.12,
+    "loan": -0.2
+  },
+  "Merger/Acquisition": {
+    "equity": 0.04,
+    "derivative": 0.02,
+    "bond": 0.0,
+    "loan": 0.0
+  },
+  "Product Launch": {
+    "equity": 0.03,
+    "derivative": 0.01,
+    "bond": 0.0,
+    "loan": 0.0
+  },
+  "Other": {
+    "equity": 0.0,
+    "derivative": 0.0,
+    "bond": 0.0,
+    "loan": 0.0
+  }
+}

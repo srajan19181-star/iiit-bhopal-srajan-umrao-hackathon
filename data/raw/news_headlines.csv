@@ -1,0 +1,355 @@
+id,date,source,company,ticker,text,intended_sentiment,intended_event
+news_0032,2026-08-01,news,Amazon.com Inc.,AMZN,Amazon.com Inc. shares surge on takeover speculation from a larger industry player.,positive,Merger/Acquisition
+news_0047,2026-08-01,news,Chevron Corp.,CVX,Chevron Corp. analysts await the next central bank rate decision before revising guidance.,neutral,Macroeconomic
+news_0144,2026-08-01,news,Caterpillar Inc.,CAT,Caterpillar Inc. shares dip after its new product launch draws a lukewarm reception.,negative,Product Launch
+news_0167,2026-08-01,news,Pfizer Inc.,PFE,Pfizer Inc. bonds rally as the firm announces early repayment of outstanding debt.,positive,Credit Event
+news_0250,2026-08-01,news,Microsoft Corp.,MSFT,Microsoft Corp. shares surge on takeover speculation from a larger industry player.,positive,Merger/Acquisition
+news_0105,2026-08-02,news,Bank of America Corp.,BAC,"Bank of America Corp. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+news_0147,2026-08-02,news,NVIDIA Corp.,NVDA,NVIDIA Corp. shares drop on fears of a covenant breach following weak quarterly cash flow.,negative,Credit Event
+news_0311,2026-08-02,news,Apple Inc.,AAPL,Apple Inc. bonds rally as the firm announces early repayment of outstanding debt.,positive,Credit Event
+news_0339,2026-08-02,news,Caterpillar Inc.,CAT,"Caterpillar Inc. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+news_0002,2026-08-03,news,Procter & Gamble Co.,PG,Procter & Gamble Co. shares pop after its newest product sells out within hours of launch.,positive,Product Launch
+news_0106,2026-08-03,news,Microsoft Corp.,MSFT,Microsoft Corp. bonds rally as the firm announces early repayment of outstanding debt.,positive,Credit Event
+news_0124,2026-08-03,news,Coca-Cola Co.,KO,Coca-Cola Co. rallies after stronger-than-expected GDP growth boosts consumer spending outlook.,positive,Macroeconomic
+news_0156,2026-08-03,news,NVIDIA Corp.,NVDA,NVIDIA Corp. reiterates full-year guidance at an investor conference.,neutral,Other
+news_0206,2026-08-03,news,Procter & Gamble Co.,PG,Procter & Gamble Co. shares dip after its new product launch draws a lukewarm reception.,negative,Product Launch
+news_0248,2026-08-03,news,Pfizer Inc.,PFE,Pfizer Inc. announces routine changes to its board of directors.,neutral,Other
+news_0293,2026-08-03,news,Bank of America Corp.,BAC,Bank of America Corp. rallies as easing geopolitical tensions revive trade talks in key export markets.,positive,Geopolitical
+news_0067,2026-08-04,news,Procter & Gamble Co.,PG,Procter & Gamble Co. shares pop after its newest product sells out within hours of launch.,positive,Product Launch
+news_0068,2026-08-04,news,Apple Inc.,AAPL,Apple Inc. delays its flagship product launch amid ongoing supply chain issues.,negative,Product Launch
+news_0130,2026-08-04,news,Coca-Cola Co.,KO,"Coca-Cola Co. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+news_0301,2026-08-04,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. schedules a product showcase event for investors and press next month.,neutral,Product Launch
+news_0251,2026-08-05,news,Procter & Gamble Co.,PG,Procter & Gamble Co. warns of margin pressure as inflation and rising interest rates squeeze costs.,negative,Macroeconomic
+news_0266,2026-08-05,news,Apple Inc.,AAPL,"Apple Inc. merger talks collapse, deal uncertainty weighs heavily on the stock.",negative,Merger/Acquisition
+news_0284,2026-08-05,news,Boeing Co.,BA,Boeing Co. bonds rally as the firm announces early repayment of outstanding debt.,positive,Credit Event
+news_0305,2026-08-05,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. rallies after stronger-than-expected GDP growth boosts consumer spending outlook.,positive,Macroeconomic
+news_0342,2026-08-05,news,Alphabet Inc.,GOOGL,Alphabet Inc. schedules a product showcase event for investors and press next month.,neutral,Product Launch
+news_0011,2026-08-06,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. shares pop after its newest product sells out within hours of launch.,positive,Product Launch
+news_0026,2026-08-06,news,NVIDIA Corp.,NVDA,NVIDIA Corp. analysts await the next central bank rate decision before revising guidance.,neutral,Macroeconomic
+news_0060,2026-08-06,news,Apple Inc.,AAPL,"Apple Inc. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+news_0121,2026-08-06,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. reiterates full-year guidance at an investor conference.,neutral,Other
+news_0122,2026-08-06,news,Amazon.com Inc.,AMZN,Amazon.com Inc. schedules a product showcase event for investors and press next month.,neutral,Product Launch
+news_0150,2026-08-06,news,Bank of America Corp.,BAC,Bank of America Corp. schedules a product showcase event for investors and press next month.,neutral,Product Launch
+news_0216,2026-08-06,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. delays its flagship product launch amid ongoing supply chain issues.,negative,Product Launch
+news_0225,2026-08-06,news,Coca-Cola Co.,KO,Coca-Cola Co. shares pop after its newest product sells out within hours of launch.,positive,Product Launch
+news_0262,2026-08-06,news,Pfizer Inc.,PFE,Pfizer Inc. rallies after stronger-than-expected GDP growth boosts consumer spending outlook.,positive,Macroeconomic
+news_0328,2026-08-06,news,Alphabet Inc.,GOOGL,"Alphabet Inc. beats quarterly earnings expectations, shares tick higher on the print.",positive,Other
+news_0343,2026-08-06,news,Alphabet Inc.,GOOGL,"Alphabet Inc. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+hi_00,2026-08-06,news,Exxon Mobil Corp.,XOM,"Exxon Mobil Corp. shares plunge as new international sanctions and an escalating regional war threaten to shut down a major overseas production facility, raising fears of a prolonged supply crisis.",negative,Geopolitical
+news_0008,2026-08-07,news,Amazon.com Inc.,AMZN,Amazon.com Inc. shares climb as cooling inflation data raises hopes of interest rate cuts.,positive,Macroeconomic
+news_0052,2026-08-07,news,Coca-Cola Co.,KO,"Coca-Cola Co. merger talks collapse, deal uncertainty weighs heavily on the stock.",negative,Merger/Acquisition
+news_0059,2026-08-07,news,Caterpillar Inc.,CAT,Caterpillar Inc. halts operations in affected region as geopolitical conflict intensifies.,negative,Geopolitical
+news_0164,2026-08-07,news,Procter & Gamble Co.,PG,Procter & Gamble Co. rallies after stronger-than-expected GDP growth boosts consumer spending outlook.,positive,Macroeconomic
+news_0189,2026-08-07,news,Johnson & Johnson,JNJ,Johnson & Johnson schedules a product showcase event for investors and press next month.,neutral,Product Launch
+news_0222,2026-08-07,news,Bank of America Corp.,BAC,Bank of America Corp. declares bankruptcy protection as default on senior debt becomes imminent.,negative,Credit Event
+news_0269,2026-08-07,news,Amazon.com Inc.,AMZN,Amazon.com Inc. shares fall as weak jobs data stokes recession fears across the sector.,negative,Macroeconomic
+news_0329,2026-08-07,news,Boeing Co.,BA,Boeing Co. shares gain after a ceasefire agreement reduces regional supply-chain risk.,positive,Geopolitical
+news_0031,2026-08-08,news,Caterpillar Inc.,CAT,Caterpillar Inc. shares dip after its new product launch draws a lukewarm reception.,negative,Product Launch
+news_0070,2026-08-08,news,Microsoft Corp.,MSFT,Microsoft Corp. announces routine changes to its board of directors.,neutral,Other
+news_0231,2026-08-08,news,Amazon.com Inc.,AMZN,Amazon.com Inc. confirms it is in early-stage discussions regarding a potential strategic deal.,neutral,Merger/Acquisition
+news_0287,2026-08-08,news,Bank of America Corp.,BAC,Bank of America Corp. halts operations in affected region as geopolitical conflict intensifies.,negative,Geopolitical
+news_0040,2026-08-09,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. issues a statement on its exposure to ongoing geopolitical developments.,neutral,Geopolitical
+news_0131,2026-08-09,news,Chevron Corp.,CVX,Chevron Corp. shares climb as cooling inflation data raises hopes of interest rate cuts.,positive,Macroeconomic
+news_0158,2026-08-09,news,Apple Inc.,AAPL,"Apple Inc. unveils its next-generation product line, analysts praise the innovation.",positive,Product Launch
+news_0310,2026-08-09,news,Alphabet Inc.,GOOGL,Alphabet Inc. issues a statement on its exposure to ongoing geopolitical developments.,neutral,Geopolitical
+news_0023,2026-08-10,news,Pfizer Inc.,PFE,Pfizer Inc. shares fall as regulators block its proposed acquisition on antitrust grounds.,negative,Merger/Acquisition
+news_0035,2026-08-10,news,Pfizer Inc.,PFE,Pfizer Inc. schedules a product showcase event for investors and press next month.,neutral,Product Launch
+news_0065,2026-08-10,news,Procter & Gamble Co.,PG,Procter & Gamble Co. schedules a product showcase event for investors and press next month.,neutral,Product Launch
+news_0139,2026-08-10,news,Caterpillar Inc.,CAT,"Caterpillar Inc. unveils its next-generation product line, analysts praise the innovation.",positive,Product Launch
+news_0197,2026-08-10,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. issues a statement on its exposure to ongoing geopolitical developments.,neutral,Geopolitical
+news_0334,2026-08-10,news,Amazon.com Inc.,AMZN,Amazon.com Inc. credit outlook upgraded after a strong track record of debt repayment.,positive,Credit Event
+news_0018,2026-08-11,news,Pfizer Inc.,PFE,Pfizer Inc. analysts await the next central bank rate decision before revising guidance.,neutral,Macroeconomic
+news_0062,2026-08-11,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. warns of margin pressure as inflation and rising interest rates squeeze costs.,negative,Macroeconomic
+news_0160,2026-08-11,news,Exxon Mobil Corp.,XOM,"Exxon Mobil Corp. beats quarterly earnings expectations, shares tick higher on the print.",positive,Other
+news_0211,2026-08-11,news,Amazon.com Inc.,AMZN,Amazon.com Inc. rallies after stronger-than-expected GDP growth boosts consumer spending outlook.,positive,Macroeconomic
+news_0258,2026-08-11,news,Pfizer Inc.,PFE,Pfizer Inc. announces routine changes to its board of directors.,neutral,Other
+news_0129,2026-08-12,news,Coca-Cola Co.,KO,Coca-Cola Co. shares slide as new sanctions target its overseas operations amid escalating tensions.,negative,Geopolitical
+news_0151,2026-08-12,news,Pfizer Inc.,PFE,Pfizer Inc. shares surge on takeover speculation from a larger industry player.,positive,Merger/Acquisition
+news_0056,2026-08-13,news,Procter & Gamble Co.,PG,Procter & Gamble Co. credit outlook upgraded after a strong track record of debt repayment.,positive,Credit Event
+news_0115,2026-08-13,news,Bank of America Corp.,BAC,"Bank of America Corp. beats quarterly earnings expectations, shares tick higher on the print.",positive,Other
+news_0187,2026-08-13,news,Microsoft Corp.,MSFT,"Microsoft Corp. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+hi_01,2026-08-13,news,JPMorgan Chase & Co.,JPM,"JPMorgan Chase & Co. bonds tumble after a major rating agency downgrades the firm, warning of imminent default risk tied to a sharply deteriorating debt position and bankruptcy concerns among key counterparties.",negative,Credit Event
+news_0021,2026-08-14,news,JPMorgan Chase & Co.,JPM,"JPMorgan Chase & Co. merger talks collapse, deal uncertainty weighs heavily on the stock.",negative,Merger/Acquisition
+news_0022,2026-08-14,news,Caterpillar Inc.,CAT,Caterpillar Inc. schedules a product showcase event for investors and press next month.,neutral,Product Launch
+news_0050,2026-08-14,news,NVIDIA Corp.,NVDA,NVIDIA Corp. refinances a portion of its debt load at prevailing market rates.,neutral,Credit Event
+news_0142,2026-08-14,news,Chevron Corp.,CVX,"Chevron Corp. merger talks collapse, deal uncertainty weighs heavily on the stock.",negative,Merger/Acquisition
+news_0152,2026-08-14,news,Apple Inc.,AAPL,Apple Inc. shares drop on fears of a covenant breach following weak quarterly cash flow.,negative,Credit Event
+news_0159,2026-08-14,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. reiterates full-year guidance at an investor conference.,neutral,Other
+news_0005,2026-08-15,news,Pfizer Inc.,PFE,"Pfizer Inc. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+news_0048,2026-08-15,news,Microsoft Corp.,MSFT,"Microsoft Corp. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+news_0123,2026-08-15,news,Boeing Co.,BA,Boeing Co. analysts await the next central bank rate decision before revising guidance.,neutral,Macroeconomic
+news_0181,2026-08-15,news,Coca-Cola Co.,KO,Coca-Cola Co. shares gain after a ceasefire agreement reduces regional supply-chain risk.,positive,Geopolitical
+news_0256,2026-08-15,news,Microsoft Corp.,MSFT,Microsoft Corp. analysts await the next central bank rate decision before revising guidance.,neutral,Macroeconomic
+news_0275,2026-08-15,news,Coca-Cola Co.,KO,Coca-Cola Co. analysts await the next central bank rate decision before revising guidance.,neutral,Macroeconomic
+news_0000,2026-08-16,news,Pfizer Inc.,PFE,Pfizer Inc. shares gain after a ceasefire agreement reduces regional supply-chain risk.,positive,Geopolitical
+news_0038,2026-08-16,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. credit outlook upgraded after a strong track record of debt repayment.,positive,Credit Event
+news_0045,2026-08-16,news,Caterpillar Inc.,CAT,Caterpillar Inc. delays its flagship product launch amid ongoing supply chain issues.,negative,Product Launch
+news_0051,2026-08-16,news,Chevron Corp.,CVX,Chevron Corp. analysts await the next central bank rate decision before revising guidance.,neutral,Macroeconomic
+news_0073,2026-08-16,news,Amazon.com Inc.,AMZN,Amazon.com Inc. analysts await the next central bank rate decision before revising guidance.,neutral,Macroeconomic
+news_0127,2026-08-16,news,Procter & Gamble Co.,PG,Procter & Gamble Co. shares fall as regulators block its proposed acquisition on antitrust grounds.,negative,Merger/Acquisition
+news_0178,2026-08-16,news,Apple Inc.,AAPL,"Apple Inc. unveils its next-generation product line, analysts praise the innovation.",positive,Product Launch
+news_0198,2026-08-16,news,Alphabet Inc.,GOOGL,Alphabet Inc. delays its flagship product launch amid ongoing supply chain issues.,negative,Product Launch
+news_0294,2026-08-16,news,Amazon.com Inc.,AMZN,"Amazon.com Inc. to acquire a smaller rival in a multi-billion dollar deal, shares jump on synergy hopes.",positive,Merger/Acquisition
+news_0041,2026-08-17,news,Pfizer Inc.,PFE,Pfizer Inc. confirms it is in early-stage discussions regarding a potential strategic deal.,neutral,Merger/Acquisition
+news_0085,2026-08-17,news,Pfizer Inc.,PFE,Pfizer Inc. refinances a portion of its debt load at prevailing market rates.,neutral,Credit Event
+news_0109,2026-08-17,news,Microsoft Corp.,MSFT,Microsoft Corp. confirms it is in early-stage discussions regarding a potential strategic deal.,neutral,Merger/Acquisition
+news_0185,2026-08-17,news,Procter & Gamble Co.,PG,Procter & Gamble Co. shares fall as regulators block its proposed acquisition on antitrust grounds.,negative,Merger/Acquisition
+news_0195,2026-08-17,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. credit outlook upgraded after a strong track record of debt repayment.,positive,Credit Event
+news_0098,2026-08-18,news,Caterpillar Inc.,CAT,Caterpillar Inc. confirms it is in early-stage discussions regarding a potential strategic deal.,neutral,Merger/Acquisition
+news_0153,2026-08-18,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. shares drop on fears of a covenant breach following weak quarterly cash flow.,negative,Credit Event
+news_0176,2026-08-18,news,NVIDIA Corp.,NVDA,NVIDIA Corp. shares drop on fears of a covenant breach following weak quarterly cash flow.,negative,Credit Event
+news_0191,2026-08-18,news,Alphabet Inc.,GOOGL,Alphabet Inc. credit outlook upgraded after a strong track record of debt repayment.,positive,Credit Event
+news_0298,2026-08-18,news,Microsoft Corp.,MSFT,Microsoft Corp. confirms it is in early-stage discussions regarding a potential strategic deal.,neutral,Merger/Acquisition
+news_0320,2026-08-18,news,Johnson & Johnson,JNJ,Johnson & Johnson rallies after stronger-than-expected GDP growth boosts consumer spending outlook.,positive,Macroeconomic
+news_0349,2026-08-18,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. shares dip after its new product launch draws a lukewarm reception.,negative,Product Launch
+news_0241,2026-08-19,news,Coca-Cola Co.,KO,Coca-Cola Co. delays its flagship product launch amid ongoing supply chain issues.,negative,Product Launch
+news_0200,2026-08-20,news,Chevron Corp.,CVX,Chevron Corp. shares fall as regulators block its proposed acquisition on antitrust grounds.,negative,Merger/Acquisition
+news_0278,2026-08-20,news,Microsoft Corp.,MSFT,"Microsoft Corp. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+news_0345,2026-08-20,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. bonds rally as the firm announces early repayment of outstanding debt.,positive,Credit Event
+news_0114,2026-08-21,news,Amazon.com Inc.,AMZN,Amazon.com Inc. shares dip after its new product launch draws a lukewarm reception.,negative,Product Launch
+news_0138,2026-08-21,news,Amazon.com Inc.,AMZN,Amazon.com Inc. shares fall as weak jobs data stokes recession fears across the sector.,negative,Macroeconomic
+news_0172,2026-08-21,news,Boeing Co.,BA,"Boeing Co. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+news_0186,2026-08-21,news,NVIDIA Corp.,NVDA,NVIDIA Corp. issues a statement on its exposure to ongoing geopolitical developments.,neutral,Geopolitical
+news_0246,2026-08-21,news,Bank of America Corp.,BAC,Bank of America Corp. warns of margin pressure as inflation and rising interest rates squeeze costs.,negative,Macroeconomic
+news_0259,2026-08-21,news,Procter & Gamble Co.,PG,Procter & Gamble Co. credit outlook upgraded after a strong track record of debt repayment.,positive,Credit Event
+news_0319,2026-08-21,news,Procter & Gamble Co.,PG,"Procter & Gamble Co. to acquire a smaller rival in a multi-billion dollar deal, shares jump on synergy hopes.",positive,Merger/Acquisition
+news_0326,2026-08-21,news,Exxon Mobil Corp.,XOM,"Exxon Mobil Corp. merger talks collapse, deal uncertainty weighs heavily on the stock.",negative,Merger/Acquisition
+hi_02,2026-08-21,news,Caterpillar Inc.,CAT,"Caterpillar Inc. halts all operations in a conflict zone as war and new sanctions cut off its supply chain entirely, with analysts warning of a severe and prolonged earnings hit.",negative,Geopolitical
+news_0007,2026-08-22,news,Coca-Cola Co.,KO,Coca-Cola Co. analysts await the next central bank rate decision before revising guidance.,neutral,Macroeconomic
+news_0141,2026-08-22,news,NVIDIA Corp.,NVDA,NVIDIA Corp. warns of disruption as conflict in a key sourcing region threatens its supply chain.,negative,Geopolitical
+news_0174,2026-08-22,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. shares fall as weak jobs data stokes recession fears across the sector.,negative,Macroeconomic
+news_0016,2026-08-23,news,Boeing Co.,BA,Boeing Co. bonds rally as the firm announces early repayment of outstanding debt.,positive,Credit Event
+news_0155,2026-08-23,news,Apple Inc.,AAPL,"Apple Inc. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+news_0184,2026-08-23,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. confirms it is in early-stage discussions regarding a potential strategic deal.,neutral,Merger/Acquisition
+news_0221,2026-08-23,news,Boeing Co.,BA,Boeing Co. shares surge on takeover speculation from a larger industry player.,positive,Merger/Acquisition
+news_0243,2026-08-23,news,Alphabet Inc.,GOOGL,Alphabet Inc. confirms it is in early-stage discussions regarding a potential strategic deal.,neutral,Merger/Acquisition
+news_0335,2026-08-23,news,Pfizer Inc.,PFE,"Pfizer Inc. to acquire a smaller rival in a multi-billion dollar deal, shares jump on synergy hopes.",positive,Merger/Acquisition
+news_0025,2026-08-24,news,Johnson & Johnson,JNJ,Johnson & Johnson confirms it is in early-stage discussions regarding a potential strategic deal.,neutral,Merger/Acquisition
+news_0111,2026-08-24,news,Caterpillar Inc.,CAT,Caterpillar Inc. schedules a product showcase event for investors and press next month.,neutral,Product Launch
+news_0190,2026-08-24,news,Boeing Co.,BA,Boeing Co. warns of margin pressure as inflation and rising interest rates squeeze costs.,negative,Macroeconomic
+news_0260,2026-08-24,news,Coca-Cola Co.,KO,Coca-Cola Co. warns of disruption as conflict in a key sourcing region threatens its supply chain.,negative,Geopolitical
+news_0327,2026-08-24,news,Bank of America Corp.,BAC,Bank of America Corp. refinances a portion of its debt load at prevailing market rates.,neutral,Credit Event
+news_0028,2026-08-25,news,Alphabet Inc.,GOOGL,"Alphabet Inc. beats quarterly earnings expectations, shares tick higher on the print.",positive,Other
+news_0247,2026-08-25,news,Procter & Gamble Co.,PG,Procter & Gamble Co. confirms it is in early-stage discussions regarding a potential strategic deal.,neutral,Merger/Acquisition
+news_0321,2026-08-25,news,Johnson & Johnson,JNJ,"Johnson & Johnson misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+news_0055,2026-08-26,news,Pfizer Inc.,PFE,"Pfizer Inc. is set to report quarterly earnings next week, in line with analyst expectations.",neutral,Other
+news_0163,2026-08-26,news,Apple Inc.,AAPL,Apple Inc. refinances a portion of its debt load at prevailing market rates.,neutral,Credit Event
+news_0196,2026-08-26,news,Boeing Co.,BA,"Boeing Co. to acquire a smaller rival in a multi-billion dollar deal, shares jump on synergy hopes.",positive,Merger/Acquisition
+news_0227,2026-08-27,news,Bank of America Corp.,BAC,Bank of America Corp. shares pop after its newest product sells out within hours of launch.,positive,Product Launch
+news_0236,2026-08-27,news,Procter & Gamble Co.,PG,Procter & Gamble Co. refinances a portion of its debt load at prevailing market rates.,neutral,Credit Event
+news_0344,2026-08-27,news,Procter & Gamble Co.,PG,Procter & Gamble Co. shares pop after its newest product sells out within hours of launch.,positive,Product Launch
+news_0053,2026-08-28,news,Microsoft Corp.,MSFT,"Microsoft Corp. beats quarterly earnings expectations, shares tick higher on the print.",positive,Other
+news_0057,2026-08-28,news,NVIDIA Corp.,NVDA,NVIDIA Corp. delays its flagship product launch amid ongoing supply chain issues.,negative,Product Launch
+news_0091,2026-08-28,news,Apple Inc.,AAPL,Apple Inc. refinances a portion of its debt load at prevailing market rates.,neutral,Credit Event
+news_0118,2026-08-28,news,Apple Inc.,AAPL,Apple Inc. bonds slump after a rating agency flags default risk amid mounting debt obligations.,negative,Credit Event
+news_0166,2026-08-28,news,Johnson & Johnson,JNJ,Johnson & Johnson halts operations in affected region as geopolitical conflict intensifies.,negative,Geopolitical
+news_0168,2026-08-28,news,Boeing Co.,BA,"Boeing Co. merger talks collapse, deal uncertainty weighs heavily on the stock.",negative,Merger/Acquisition
+news_0169,2026-08-28,news,JPMorgan Chase & Co.,JPM,"JPMorgan Chase & Co. beats quarterly earnings expectations, shares tick higher on the print.",positive,Other
+news_0171,2026-08-28,news,Coca-Cola Co.,KO,Coca-Cola Co. shares dip after its new product launch draws a lukewarm reception.,negative,Product Launch
+news_0209,2026-08-28,news,Amazon.com Inc.,AMZN,"Amazon.com Inc. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+news_0324,2026-08-28,news,Pfizer Inc.,PFE,"Pfizer Inc. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+news_0348,2026-08-28,news,Microsoft Corp.,MSFT,Microsoft Corp. declares bankruptcy protection as default on senior debt becomes imminent.,negative,Credit Event
+news_0044,2026-08-29,news,Amazon.com Inc.,AMZN,Amazon.com Inc. confirms it is in early-stage discussions regarding a potential strategic deal.,neutral,Merger/Acquisition
+news_0078,2026-08-29,news,NVIDIA Corp.,NVDA,NVIDIA Corp. bonds slump after a rating agency flags default risk amid mounting debt obligations.,negative,Credit Event
+news_0180,2026-08-29,news,Exxon Mobil Corp.,XOM,"Exxon Mobil Corp. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+news_0205,2026-08-29,news,Microsoft Corp.,MSFT,Microsoft Corp. shares climb as cooling inflation data raises hopes of interest rate cuts.,positive,Macroeconomic
+news_0212,2026-08-29,news,Coca-Cola Co.,KO,Coca-Cola Co. refinances a portion of its debt load at prevailing market rates.,neutral,Credit Event
+news_0214,2026-08-29,news,Bank of America Corp.,BAC,Bank of America Corp. refinances a portion of its debt load at prevailing market rates.,neutral,Credit Event
+news_0299,2026-08-29,news,Apple Inc.,AAPL,"Apple Inc. beats quarterly earnings expectations, shares tick higher on the print.",positive,Other
+news_0314,2026-08-29,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. refinances a portion of its debt load at prevailing market rates.,neutral,Credit Event
+news_0074,2026-08-30,news,Amazon.com Inc.,AMZN,Amazon.com Inc. shares surge on takeover speculation from a larger industry player.,positive,Merger/Acquisition
+news_0119,2026-08-30,news,Coca-Cola Co.,KO,Coca-Cola Co. schedules a product showcase event for investors and press next month.,neutral,Product Launch
+news_0125,2026-08-30,news,NVIDIA Corp.,NVDA,NVIDIA Corp. confirms it is in early-stage discussions regarding a potential strategic deal.,neutral,Merger/Acquisition
+news_0234,2026-08-30,news,Bank of America Corp.,BAC,Bank of America Corp. rallies as easing geopolitical tensions revive trade talks in key export markets.,positive,Geopolitical
+news_0237,2026-08-30,news,Boeing Co.,BA,"Boeing Co. merger talks collapse, deal uncertainty weighs heavily on the stock.",negative,Merger/Acquisition
+news_0244,2026-08-30,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. schedules a product showcase event for investors and press next month.,neutral,Product Launch
+news_0264,2026-08-30,news,Caterpillar Inc.,CAT,"Caterpillar Inc. unveils its next-generation product line, analysts praise the innovation.",positive,Product Launch
+news_0295,2026-08-30,news,Caterpillar Inc.,CAT,Caterpillar Inc. shares pop after its newest product sells out within hours of launch.,positive,Product Launch
+news_0316,2026-08-30,news,Coca-Cola Co.,KO,"Coca-Cola Co. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+news_0154,2026-08-31,news,Coca-Cola Co.,KO,"Coca-Cola Co. merger talks collapse, deal uncertainty weighs heavily on the stock.",negative,Merger/Acquisition
+news_0194,2026-08-31,news,Apple Inc.,AAPL,Apple Inc. shares dip after its new product launch draws a lukewarm reception.,negative,Product Launch
+news_0313,2026-08-31,news,Bank of America Corp.,BAC,"Bank of America Corp. unveils its next-generation product line, analysts praise the innovation.",positive,Product Launch
+news_0061,2026-09-01,news,Caterpillar Inc.,CAT,Caterpillar Inc. shares climb as cooling inflation data raises hopes of interest rate cuts.,positive,Macroeconomic
+news_0146,2026-09-01,news,Procter & Gamble Co.,PG,"Procter & Gamble Co. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+news_0175,2026-09-01,news,Apple Inc.,AAPL,"Apple Inc. merger talks collapse, deal uncertainty weighs heavily on the stock.",negative,Merger/Acquisition
+news_0263,2026-09-01,news,Johnson & Johnson,JNJ,Johnson & Johnson confirms it is in early-stage discussions regarding a potential strategic deal.,neutral,Merger/Acquisition
+news_0318,2026-09-01,news,Bank of America Corp.,BAC,Bank of America Corp. confirms it is in early-stage discussions regarding a potential strategic deal.,neutral,Merger/Acquisition
+news_0003,2026-09-02,news,Apple Inc.,AAPL,Apple Inc. rallies as easing geopolitical tensions revive trade talks in key export markets.,positive,Geopolitical
+news_0033,2026-09-02,news,Procter & Gamble Co.,PG,"Procter & Gamble Co. beats quarterly earnings expectations, shares tick higher on the print.",positive,Other
+news_0049,2026-09-02,news,Microsoft Corp.,MSFT,Microsoft Corp. shares slide as new sanctions target its overseas operations amid escalating tensions.,negative,Geopolitical
+news_0076,2026-09-02,news,Johnson & Johnson,JNJ,Johnson & Johnson rallies as easing geopolitical tensions revive trade talks in key export markets.,positive,Geopolitical
+news_0104,2026-09-02,news,Microsoft Corp.,MSFT,Microsoft Corp. declares bankruptcy protection as default on senior debt becomes imminent.,negative,Credit Event
+news_0108,2026-09-02,news,Coca-Cola Co.,KO,Coca-Cola Co. declares bankruptcy protection as default on senior debt becomes imminent.,negative,Credit Event
+news_0120,2026-09-02,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. confirms it is in early-stage discussions regarding a potential strategic deal.,neutral,Merger/Acquisition
+news_0322,2026-09-02,news,Johnson & Johnson,JNJ,Johnson & Johnson shares dip after its new product launch draws a lukewarm reception.,negative,Product Launch
+news_0110,2026-09-03,news,Apple Inc.,AAPL,"Apple Inc. beats quarterly earnings expectations, shares tick higher on the print.",positive,Other
+news_0183,2026-09-03,news,Johnson & Johnson,JNJ,Johnson & Johnson declares bankruptcy protection as default on senior debt becomes imminent.,negative,Credit Event
+news_0090,2026-09-04,news,Apple Inc.,AAPL,Apple Inc. rallies as easing geopolitical tensions revive trade talks in key export markets.,positive,Geopolitical
+news_0145,2026-09-04,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. shares drop on fears of a covenant breach following weak quarterly cash flow.,negative,Credit Event
+news_0029,2026-09-05,news,Bank of America Corp.,BAC,Bank of America Corp. shares dip after its new product launch draws a lukewarm reception.,negative,Product Launch
+news_0089,2026-09-05,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. schedules a product showcase event for investors and press next month.,neutral,Product Launch
+news_0177,2026-09-05,news,Caterpillar Inc.,CAT,Caterpillar Inc. schedules a product showcase event for investors and press next month.,neutral,Product Launch
+news_0204,2026-09-05,news,Microsoft Corp.,MSFT,Microsoft Corp. rallies after stronger-than-expected GDP growth boosts consumer spending outlook.,positive,Macroeconomic
+news_0233,2026-09-05,news,Alphabet Inc.,GOOGL,Alphabet Inc. refinances a portion of its debt load at prevailing market rates.,neutral,Credit Event
+news_0330,2026-09-05,news,Procter & Gamble Co.,PG,"Procter & Gamble Co. beats quarterly earnings expectations, shares tick higher on the print.",positive,Other
+news_0012,2026-09-06,news,Chevron Corp.,CVX,Chevron Corp. refinances a portion of its debt load at prevailing market rates.,neutral,Credit Event
+news_0201,2026-09-06,news,Boeing Co.,BA,Boeing Co. shares dip after its new product launch draws a lukewarm reception.,negative,Product Launch
+news_0245,2026-09-06,news,Caterpillar Inc.,CAT,Caterpillar Inc. credit outlook upgraded after a strong track record of debt repayment.,positive,Credit Event
+news_0261,2026-09-06,news,Bank of America Corp.,BAC,Bank of America Corp. shares climb as cooling inflation data raises hopes of interest rate cuts.,positive,Macroeconomic
+news_0270,2026-09-06,news,NVIDIA Corp.,NVDA,NVIDIA Corp. confirms it is in early-stage discussions regarding a potential strategic deal.,neutral,Merger/Acquisition
+news_0272,2026-09-06,news,Pfizer Inc.,PFE,"Pfizer Inc. merger talks collapse, deal uncertainty weighs heavily on the stock.",negative,Merger/Acquisition
+news_0046,2026-09-07,news,NVIDIA Corp.,NVDA,NVIDIA Corp. shares slide as new sanctions target its overseas operations amid escalating tensions.,negative,Geopolitical
+news_0066,2026-09-07,news,NVIDIA Corp.,NVDA,NVIDIA Corp. credit outlook upgraded after a strong track record of debt repayment.,positive,Credit Event
+news_0162,2026-09-07,news,Boeing Co.,BA,Boeing Co. warns of margin pressure as inflation and rising interest rates squeeze costs.,negative,Macroeconomic
+news_0288,2026-09-07,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. refinances a portion of its debt load at prevailing market rates.,neutral,Credit Event
+news_0296,2026-09-07,news,JPMorgan Chase & Co.,JPM,"JPMorgan Chase & Co. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+news_0017,2026-09-08,news,NVIDIA Corp.,NVDA,"NVIDIA Corp. beats quarterly earnings expectations, shares tick higher on the print.",positive,Other
+news_0036,2026-09-08,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. analysts await the next central bank rate decision before revising guidance.,neutral,Macroeconomic
+news_0069,2026-09-08,news,Chevron Corp.,CVX,Chevron Corp. rallies as easing geopolitical tensions revive trade talks in key export markets.,positive,Geopolitical
+news_0083,2026-09-08,news,Chevron Corp.,CVX,Chevron Corp. shares fall as weak jobs data stokes recession fears across the sector.,negative,Macroeconomic
+news_0333,2026-09-08,news,Caterpillar Inc.,CAT,Caterpillar Inc. announces routine changes to its board of directors.,neutral,Other
+news_0338,2026-09-08,news,Chevron Corp.,CVX,Chevron Corp. schedules a product showcase event for investors and press next month.,neutral,Product Launch
+news_0071,2026-09-09,news,Caterpillar Inc.,CAT,"Caterpillar Inc. unveils its next-generation product line, analysts praise the innovation.",positive,Product Launch
+news_0075,2026-09-09,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. shares gain after a ceasefire agreement reduces regional supply-chain risk.,positive,Geopolitical
+news_0079,2026-09-09,news,Boeing Co.,BA,Boeing Co. schedules a product showcase event for investors and press next month.,neutral,Product Launch
+news_0112,2026-09-09,news,Bank of America Corp.,BAC,Bank of America Corp. issues a statement on its exposure to ongoing geopolitical developments.,neutral,Geopolitical
+news_0116,2026-09-09,news,Bank of America Corp.,BAC,"Bank of America Corp. beats quarterly earnings expectations, shares tick higher on the print.",positive,Other
+news_0170,2026-09-09,news,Alphabet Inc.,GOOGL,"Alphabet Inc. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+news_0228,2026-09-09,news,Apple Inc.,AAPL,Apple Inc. analysts await the next central bank rate decision before revising guidance.,neutral,Macroeconomic
+news_0255,2026-09-09,news,Procter & Gamble Co.,PG,Procter & Gamble Co. confirms it is in early-stage discussions regarding a potential strategic deal.,neutral,Merger/Acquisition
+news_0015,2026-09-10,news,Microsoft Corp.,MSFT,Microsoft Corp. shares fall as regulators block its proposed acquisition on antitrust grounds.,negative,Merger/Acquisition
+news_0027,2026-09-10,news,Coca-Cola Co.,KO,Coca-Cola Co. rallies as easing geopolitical tensions revive trade talks in key export markets.,positive,Geopolitical
+news_0136,2026-09-10,news,NVIDIA Corp.,NVDA,"NVIDIA Corp. beats quarterly earnings expectations, shares tick higher on the print.",positive,Other
+news_0220,2026-09-10,news,Amazon.com Inc.,AMZN,Amazon.com Inc. analysts await the next central bank rate decision before revising guidance.,neutral,Macroeconomic
+news_0254,2026-09-10,news,Pfizer Inc.,PFE,Pfizer Inc. shares dip after its new product launch draws a lukewarm reception.,negative,Product Launch
+news_0267,2026-09-10,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. refinances a portion of its debt load at prevailing market rates.,neutral,Credit Event
+news_0277,2026-09-10,news,Coca-Cola Co.,KO,"Coca-Cola Co. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+news_0291,2026-09-10,news,Johnson & Johnson,JNJ,Johnson & Johnson analysts await the next central bank rate decision before revising guidance.,neutral,Macroeconomic
+hi_04,2026-09-10,news,Chevron Corp.,CVX,"Chevron Corp. declares a state of emergency as sanctions and open war in a core operating region force a full shutdown, with the company warning of default risk on regional debt obligations.",negative,Geopolitical
+news_0292,2026-09-11,news,Boeing Co.,BA,Boeing Co. confirms it is in early-stage discussions regarding a potential strategic deal.,neutral,Merger/Acquisition
+news_0297,2026-09-11,news,Procter & Gamble Co.,PG,Procter & Gamble Co. announces routine changes to its board of directors.,neutral,Other
+news_0303,2026-09-11,news,Boeing Co.,BA,"Boeing Co. to acquire a smaller rival in a multi-billion dollar deal, shares jump on synergy hopes.",positive,Merger/Acquisition
+news_0013,2026-09-12,news,NVIDIA Corp.,NVDA,"NVIDIA Corp. is set to report quarterly earnings next week, in line with analyst expectations.",neutral,Other
+news_0080,2026-09-12,news,Coca-Cola Co.,KO,"Coca-Cola Co. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+news_0102,2026-09-12,news,Coca-Cola Co.,KO,Coca-Cola Co. rallies after stronger-than-expected GDP growth boosts consumer spending outlook.,positive,Macroeconomic
+news_0182,2026-09-12,news,Bank of America Corp.,BAC,Bank of America Corp. announces routine changes to its board of directors.,neutral,Other
+news_0203,2026-09-12,news,NVIDIA Corp.,NVDA,NVIDIA Corp. announces routine changes to its board of directors.,neutral,Other
+news_0265,2026-09-12,news,Pfizer Inc.,PFE,Pfizer Inc. shares drop on fears of a covenant breach following weak quarterly cash flow.,negative,Credit Event
+news_0331,2026-09-12,news,Apple Inc.,AAPL,Apple Inc. schedules a product showcase event for investors and press next month.,neutral,Product Launch
+news_0001,2026-09-13,news,NVIDIA Corp.,NVDA,NVIDIA Corp. analysts await the next central bank rate decision before revising guidance.,neutral,Macroeconomic
+news_0019,2026-09-13,news,Exxon Mobil Corp.,XOM,"Exxon Mobil Corp. merger talks collapse, deal uncertainty weighs heavily on the stock.",negative,Merger/Acquisition
+news_0030,2026-09-13,news,Boeing Co.,BA,Boeing Co. issues a statement on its exposure to ongoing geopolitical developments.,neutral,Geopolitical
+news_0054,2026-09-13,news,Bank of America Corp.,BAC,Bank of America Corp. confirms it is in early-stage discussions regarding a potential strategic deal.,neutral,Merger/Acquisition
+news_0084,2026-09-13,news,NVIDIA Corp.,NVDA,"NVIDIA Corp. beats quarterly earnings expectations, shares tick higher on the print.",positive,Other
+news_0093,2026-09-13,news,Caterpillar Inc.,CAT,Caterpillar Inc. shares slide as new sanctions target its overseas operations amid escalating tensions.,negative,Geopolitical
+news_0276,2026-09-13,news,Pfizer Inc.,PFE,Pfizer Inc. analysts await the next central bank rate decision before revising guidance.,neutral,Macroeconomic
+news_0289,2026-09-13,news,Bank of America Corp.,BAC,"Bank of America Corp. beats quarterly earnings expectations, shares tick higher on the print.",positive,Other
+news_0300,2026-09-13,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. warns of margin pressure as inflation and rising interest rates squeeze costs.,negative,Macroeconomic
+news_0347,2026-09-13,news,Apple Inc.,AAPL,Apple Inc. rallies after stronger-than-expected GDP growth boosts consumer spending outlook.,positive,Macroeconomic
+news_0064,2026-09-14,news,Coca-Cola Co.,KO,Coca-Cola Co. shares fall as regulators block its proposed acquisition on antitrust grounds.,negative,Merger/Acquisition
+news_0179,2026-09-14,news,Procter & Gamble Co.,PG,"Procter & Gamble Co. merger talks collapse, deal uncertainty weighs heavily on the stock.",negative,Merger/Acquisition
+news_0192,2026-09-14,news,Apple Inc.,AAPL,Apple Inc. issues a statement on its exposure to ongoing geopolitical developments.,neutral,Geopolitical
+news_0207,2026-09-14,news,NVIDIA Corp.,NVDA,NVIDIA Corp. refinances a portion of its debt load at prevailing market rates.,neutral,Credit Event
+news_0213,2026-09-14,news,Microsoft Corp.,MSFT,Microsoft Corp. confirms it is in early-stage discussions regarding a potential strategic deal.,neutral,Merger/Acquisition
+news_0223,2026-09-14,news,Boeing Co.,BA,Boeing Co. shares fall as weak jobs data stokes recession fears across the sector.,negative,Macroeconomic
+news_0252,2026-09-14,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. declares bankruptcy protection as default on senior debt becomes imminent.,negative,Credit Event
+news_0004,2026-09-15,news,Johnson & Johnson,JNJ,Johnson & Johnson issues a statement on its exposure to ongoing geopolitical developments.,neutral,Geopolitical
+news_0043,2026-09-15,news,Chevron Corp.,CVX,"Chevron Corp. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+news_0126,2026-09-15,news,Bank of America Corp.,BAC,"Bank of America Corp. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+news_0137,2026-09-15,news,NVIDIA Corp.,NVDA,NVIDIA Corp. bonds slump after a rating agency flags default risk amid mounting debt obligations.,negative,Credit Event
+news_0140,2026-09-15,news,NVIDIA Corp.,NVDA,NVIDIA Corp. confirms it is in early-stage discussions regarding a potential strategic deal.,neutral,Merger/Acquisition
+news_0232,2026-09-15,news,Apple Inc.,AAPL,"Apple Inc. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+news_0010,2026-09-16,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. delays its flagship product launch amid ongoing supply chain issues.,negative,Product Launch
+news_0039,2026-09-16,news,Caterpillar Inc.,CAT,"Caterpillar Inc. unveils its next-generation product line, analysts praise the innovation.",positive,Product Launch
+news_0107,2026-09-16,news,Microsoft Corp.,MSFT,Microsoft Corp. shares dip after its new product launch draws a lukewarm reception.,negative,Product Launch
+news_0148,2026-09-16,news,Bank of America Corp.,BAC,Bank of America Corp. refinances a portion of its debt load at prevailing market rates.,neutral,Credit Event
+news_0188,2026-09-16,news,NVIDIA Corp.,NVDA,"NVIDIA Corp. beats quarterly earnings expectations, shares tick higher on the print.",positive,Other
+news_0279,2026-09-16,news,Coca-Cola Co.,KO,Coca-Cola Co. shares surge on takeover speculation from a larger industry player.,positive,Merger/Acquisition
+news_0315,2026-09-16,news,Chevron Corp.,CVX,Chevron Corp. analysts await the next central bank rate decision before revising guidance.,neutral,Macroeconomic
+news_0024,2026-09-17,news,Amazon.com Inc.,AMZN,Amazon.com Inc. shares climb as cooling inflation data raises hopes of interest rate cuts.,positive,Macroeconomic
+news_0082,2026-09-17,news,Alphabet Inc.,GOOGL,Alphabet Inc. credit outlook upgraded after a strong track record of debt repayment.,positive,Credit Event
+news_0088,2026-09-17,news,Alphabet Inc.,GOOGL,"Alphabet Inc. beats quarterly earnings expectations, shares tick higher on the print.",positive,Other
+news_0134,2026-09-17,news,Caterpillar Inc.,CAT,Caterpillar Inc. delays its flagship product launch amid ongoing supply chain issues.,negative,Product Launch
+news_0215,2026-09-17,news,Microsoft Corp.,MSFT,Microsoft Corp. shares pop after its newest product sells out within hours of launch.,positive,Product Launch
+news_0280,2026-09-17,news,Alphabet Inc.,GOOGL,Alphabet Inc. warns of disruption as conflict in a key sourcing region threatens its supply chain.,negative,Geopolitical
+news_0283,2026-09-17,news,Alphabet Inc.,GOOGL,Alphabet Inc. shares drop on fears of a covenant breach following weak quarterly cash flow.,negative,Credit Event
+news_0312,2026-09-17,news,Alphabet Inc.,GOOGL,Alphabet Inc. credit outlook upgraded after a strong track record of debt repayment.,positive,Credit Event
+news_0006,2026-09-18,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. delays its flagship product launch amid ongoing supply chain issues.,negative,Product Launch
+news_0132,2026-09-18,news,Coca-Cola Co.,KO,Coca-Cola Co. confirms it is in early-stage discussions regarding a potential strategic deal.,neutral,Merger/Acquisition
+news_0135,2026-09-18,news,Boeing Co.,BA,Boeing Co. shares fall as regulators block its proposed acquisition on antitrust grounds.,negative,Merger/Acquisition
+news_0202,2026-09-18,news,Johnson & Johnson,JNJ,Johnson & Johnson issues a statement on its exposure to ongoing geopolitical developments.,neutral,Geopolitical
+news_0217,2026-09-18,news,NVIDIA Corp.,NVDA,"NVIDIA Corp. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+news_0218,2026-09-18,news,Pfizer Inc.,PFE,Pfizer Inc. refinances a portion of its debt load at prevailing market rates.,neutral,Credit Event
+news_0229,2026-09-18,news,Coca-Cola Co.,KO,Coca-Cola Co. confirms it is in early-stage discussions regarding a potential strategic deal.,neutral,Merger/Acquisition
+news_0257,2026-09-18,news,Procter & Gamble Co.,PG,Procter & Gamble Co. shares slide as new sanctions target its overseas operations amid escalating tensions.,negative,Geopolitical
+news_0336,2026-09-18,news,Boeing Co.,BA,Boeing Co. delays its flagship product launch amid ongoing supply chain issues.,negative,Product Launch
+news_0087,2026-09-19,news,Amazon.com Inc.,AMZN,Amazon.com Inc. shares gain after a ceasefire agreement reduces regional supply-chain risk.,positive,Geopolitical
+news_0094,2026-09-19,news,NVIDIA Corp.,NVDA,NVIDIA Corp. announces routine changes to its board of directors.,neutral,Other
+news_0161,2026-09-19,news,Johnson & Johnson,JNJ,Johnson & Johnson schedules a product showcase event for investors and press next month.,neutral,Product Launch
+news_0199,2026-09-19,news,Microsoft Corp.,MSFT,Microsoft Corp. delays its flagship product launch amid ongoing supply chain issues.,negative,Product Launch
+news_0226,2026-09-19,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. bonds slump after a rating agency flags default risk amid mounting debt obligations.,negative,Credit Event
+news_0274,2026-09-19,news,Johnson & Johnson,JNJ,"Johnson & Johnson beats quarterly earnings expectations, shares tick higher on the print.",positive,Other
+news_0097,2026-09-20,news,Bank of America Corp.,BAC,Bank of America Corp. shares gain after a ceasefire agreement reduces regional supply-chain risk.,positive,Geopolitical
+news_0165,2026-09-20,news,Procter & Gamble Co.,PG,Procter & Gamble Co. refinances a portion of its debt load at prevailing market rates.,neutral,Credit Event
+news_0281,2026-09-20,news,Bank of America Corp.,BAC,Bank of America Corp. rallies after stronger-than-expected GDP growth boosts consumer spending outlook.,positive,Macroeconomic
+news_0286,2026-09-20,news,Coca-Cola Co.,KO,Coca-Cola Co. delays its flagship product launch amid ongoing supply chain issues.,negative,Product Launch
+news_0304,2026-09-20,news,Pfizer Inc.,PFE,"Pfizer Inc. unveils its next-generation product line, analysts praise the innovation.",positive,Product Launch
+news_0307,2026-09-20,news,Boeing Co.,BA,Boeing Co. warns of margin pressure as inflation and rising interest rates squeeze costs.,negative,Macroeconomic
+news_0020,2026-09-21,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. rallies as easing geopolitical tensions revive trade talks in key export markets.,positive,Geopolitical
+news_0309,2026-09-21,news,Alphabet Inc.,GOOGL,Alphabet Inc. analysts await the next central bank rate decision before revising guidance.,neutral,Macroeconomic
+news_0100,2026-09-22,news,Apple Inc.,AAPL,"Apple Inc. to acquire a smaller rival in a multi-billion dollar deal, shares jump on synergy hopes.",positive,Merger/Acquisition
+news_0101,2026-09-22,news,Caterpillar Inc.,CAT,Caterpillar Inc. shares fall as regulators block its proposed acquisition on antitrust grounds.,negative,Merger/Acquisition
+news_0224,2026-09-22,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. refinances a portion of its debt load at prevailing market rates.,neutral,Credit Event
+news_0306,2026-09-22,news,Boeing Co.,BA,"Boeing Co. unveils its next-generation product line, analysts praise the innovation.",positive,Product Launch
+news_0325,2026-09-22,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. shares fall as weak jobs data stokes recession fears across the sector.,negative,Macroeconomic
+news_0034,2026-09-23,news,Caterpillar Inc.,CAT,Caterpillar Inc. issues a statement on its exposure to ongoing geopolitical developments.,neutral,Geopolitical
+news_0086,2026-09-23,news,Caterpillar Inc.,CAT,Caterpillar Inc. shares gain after a ceasefire agreement reduces regional supply-chain risk.,positive,Geopolitical
+news_0117,2026-09-23,news,Johnson & Johnson,JNJ,Johnson & Johnson declares bankruptcy protection as default on senior debt becomes imminent.,negative,Credit Event
+news_0133,2026-09-23,news,Caterpillar Inc.,CAT,Caterpillar Inc. confirms it is in early-stage discussions regarding a potential strategic deal.,neutral,Merger/Acquisition
+news_0157,2026-09-23,news,Coca-Cola Co.,KO,Coca-Cola Co. rallies as easing geopolitical tensions revive trade talks in key export markets.,positive,Geopolitical
+news_0271,2026-09-23,news,Amazon.com Inc.,AMZN,"Amazon.com Inc. beats quarterly earnings expectations, shares tick higher on the print.",positive,Other
+news_0282,2026-09-23,news,Chevron Corp.,CVX,Chevron Corp. refinances a portion of its debt load at prevailing market rates.,neutral,Credit Event
+news_0009,2026-09-24,news,Microsoft Corp.,MSFT,Microsoft Corp. shares surge on takeover speculation from a larger industry player.,positive,Merger/Acquisition
+news_0143,2026-09-24,news,Boeing Co.,BA,"Boeing Co. merger talks collapse, deal uncertainty weighs heavily on the stock.",negative,Merger/Acquisition
+news_0253,2026-09-24,news,Bank of America Corp.,BAC,Bank of America Corp. announces routine changes to its board of directors.,neutral,Other
+news_0268,2026-09-24,news,Bank of America Corp.,BAC,"Bank of America Corp. beats quarterly earnings expectations, shares tick higher on the print.",positive,Other
+news_0285,2026-09-24,news,Alphabet Inc.,GOOGL,Alphabet Inc. analysts await the next central bank rate decision before revising guidance.,neutral,Macroeconomic
+news_0302,2026-09-24,news,Bank of America Corp.,BAC,Bank of America Corp. credit outlook upgraded after a strong track record of debt repayment.,positive,Credit Event
+news_0308,2026-09-24,news,Caterpillar Inc.,CAT,Caterpillar Inc. shares pop after its newest product sells out within hours of launch.,positive,Product Launch
+news_0317,2026-09-24,news,Pfizer Inc.,PFE,Pfizer Inc. shares gain after a ceasefire agreement reduces regional supply-chain risk.,positive,Geopolitical
+news_0323,2026-09-24,news,Johnson & Johnson,JNJ,"Johnson & Johnson to acquire a smaller rival in a multi-billion dollar deal, shares jump on synergy hopes.",positive,Merger/Acquisition
+news_0337,2026-09-24,news,Amazon.com Inc.,AMZN,Amazon.com Inc. shares pop after its newest product sells out within hours of launch.,positive,Product Launch
+news_0014,2026-09-25,news,NVIDIA Corp.,NVDA,NVIDIA Corp. credit outlook upgraded after a strong track record of debt repayment.,positive,Credit Event
+news_0058,2026-09-25,news,Alphabet Inc.,GOOGL,Alphabet Inc. bonds slump after a rating agency flags default risk amid mounting debt obligations.,negative,Credit Event
+news_0099,2026-09-25,news,Alphabet Inc.,GOOGL,Alphabet Inc. announces routine changes to its board of directors.,neutral,Other
+news_0103,2026-09-25,news,NVIDIA Corp.,NVDA,NVIDIA Corp. shares fall as regulators block its proposed acquisition on antitrust grounds.,negative,Merger/Acquisition
+news_0193,2026-09-25,news,Alphabet Inc.,GOOGL,"Alphabet Inc. beats quarterly earnings expectations, shares tick higher on the print.",positive,Other
+news_0239,2026-09-25,news,Johnson & Johnson,JNJ,Johnson & Johnson schedules a product showcase event for investors and press next month.,neutral,Product Launch
+news_0242,2026-09-25,news,Procter & Gamble Co.,PG,Procter & Gamble Co. refinances a portion of its debt load at prevailing market rates.,neutral,Credit Event
+news_0249,2026-09-25,news,Alphabet Inc.,GOOGL,Alphabet Inc. schedules a product showcase event for investors and press next month.,neutral,Product Launch
+news_0332,2026-09-25,news,Microsoft Corp.,MSFT,Microsoft Corp. shares fall as regulators block its proposed acquisition on antitrust grounds.,negative,Merger/Acquisition
+news_0341,2026-09-25,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. credit outlook upgraded after a strong track record of debt repayment.,positive,Credit Event
+news_0077,2026-09-26,news,Amazon.com Inc.,AMZN,Amazon.com Inc. warns of margin pressure as inflation and rising interest rates squeeze costs.,negative,Macroeconomic
+news_0081,2026-09-26,news,Boeing Co.,BA,Boeing Co. delays its flagship product launch amid ongoing supply chain issues.,negative,Product Launch
+news_0096,2026-09-26,news,Caterpillar Inc.,CAT,Caterpillar Inc. rallies after stronger-than-expected GDP growth boosts consumer spending outlook.,positive,Macroeconomic
+news_0173,2026-09-26,news,Boeing Co.,BA,Boeing Co. shares climb as cooling inflation data raises hopes of interest rate cuts.,positive,Macroeconomic
+news_0346,2026-09-26,news,Procter & Gamble Co.,PG,Procter & Gamble Co. refinances a portion of its debt load at prevailing market rates.,neutral,Credit Event
+news_0092,2026-09-27,news,Alphabet Inc.,GOOGL,Alphabet Inc. warns of disruption as conflict in a key sourcing region threatens its supply chain.,negative,Geopolitical
+news_0113,2026-09-27,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. reiterates full-year guidance at an investor conference.,neutral,Other
+news_0128,2026-09-27,news,Alphabet Inc.,GOOGL,"Alphabet Inc. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+news_0149,2026-09-28,news,Alphabet Inc.,GOOGL,"Alphabet Inc. to acquire a smaller rival in a multi-billion dollar deal, shares jump on synergy hopes.",positive,Merger/Acquisition
+news_0210,2026-09-28,news,Microsoft Corp.,MSFT,"Microsoft Corp. unveils its next-generation product line, analysts praise the innovation.",positive,Product Launch
+news_0219,2026-09-28,news,Coca-Cola Co.,KO,Coca-Cola Co. shares fall as weak jobs data stokes recession fears across the sector.,negative,Macroeconomic
+news_0238,2026-09-28,news,Chevron Corp.,CVX,Chevron Corp. warns of margin pressure as inflation and rising interest rates squeeze costs.,negative,Macroeconomic
+news_0273,2026-09-28,news,Boeing Co.,BA,"Boeing Co. misses quarterly revenue expectations, shares tick lower on the print.",negative,Other
+news_0290,2026-09-28,news,NVIDIA Corp.,NVDA,NVIDIA Corp. shares surge on takeover speculation from a larger industry player.,positive,Merger/Acquisition
+news_0340,2026-09-28,news,Alphabet Inc.,GOOGL,Alphabet Inc. refinances a portion of its debt load at prevailing market rates.,neutral,Credit Event
+news_0037,2026-09-29,news,JPMorgan Chase & Co.,JPM,"JPMorgan Chase & Co. to acquire a smaller rival in a multi-billion dollar deal, shares jump on synergy hopes.",positive,Merger/Acquisition
+news_0042,2026-09-29,news,Chevron Corp.,CVX,Chevron Corp. delays its flagship product launch amid ongoing supply chain issues.,negative,Product Launch
+news_0063,2026-09-29,news,Bank of America Corp.,BAC,Bank of America Corp. warns of disruption as conflict in a key sourcing region threatens its supply chain.,negative,Geopolitical
+news_0072,2026-09-29,news,Microsoft Corp.,MSFT,Microsoft Corp. confirms it is in early-stage discussions regarding a potential strategic deal.,neutral,Merger/Acquisition
+news_0095,2026-09-29,news,Chevron Corp.,CVX,Chevron Corp. confirms it is in early-stage discussions regarding a potential strategic deal.,neutral,Merger/Acquisition
+news_0208,2026-09-29,news,Boeing Co.,BA,"Boeing Co. to acquire a smaller rival in a multi-billion dollar deal, shares jump on synergy hopes.",positive,Merger/Acquisition
+news_0230,2026-09-29,news,Apple Inc.,AAPL,Apple Inc. warns of margin pressure as inflation and rising interest rates squeeze costs.,negative,Macroeconomic
+news_0235,2026-09-29,news,Microsoft Corp.,MSFT,Microsoft Corp. announces routine changes to its board of directors.,neutral,Other
+news_0240,2026-09-29,news,Microsoft Corp.,MSFT,Microsoft Corp. shares drop on fears of a covenant breach following weak quarterly cash flow.,negative,Credit Event

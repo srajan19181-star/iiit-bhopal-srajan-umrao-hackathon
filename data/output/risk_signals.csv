@@ -1,0 +1,856 @@
+signal_id,date,source,company,ticker,text,sentiment_score,event_classification,impact_score,confidence,method,latency_ms
+news_0032,2026-08-01,news,Amazon.com Inc.,AMZN,Amazon.com Inc. shares surge on takeover speculation from a larger industry player.,0.296,Merger/Acquisition,5,0.573,rule_based,9811.204
+tw_0208,2026-08-01,twitter,Alphabet Inc.,GOOGL,"GOOGL deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.222
+tw_0281,2026-08-01,twitter,Exxon Mobil Corp.,XOM,"XOM up on the ceasefire news, tensions finally cooling off #markets",-0.4019,Geopolitical,6,0.7009,rule_based,0.127
+tw_0406,2026-08-01,twitter,Caterpillar Inc.,CAT,inflation data wrecking CAT premarket,0.0,Macroeconomic,4,0.425,rule_based,0.054
+tw_0412,2026-08-01,twitter,Pfizer Inc.,PFE,watching PFE react to the geopolitical headlines this morning,0.0,Geopolitical,5,0.425,rule_based,0.063
+tw_0414,2026-08-01,twitter,NVIDIA Corp.,NVDA,"NVDA teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.114
+tw_0489,2026-08-01,twitter,Exxon Mobil Corp.,XOM,"XOM up on the ceasefire news, tensions finally cooling off #markets",-0.4019,Geopolitical,6,0.7009,rule_based,0.094
+tw_0204,2026-08-01,twitter,Exxon Mobil Corp.,XOM,"XOM crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.057
+tw_0193,2026-08-01,twitter,Procter & Gamble Co.,PG,"PG 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.069
+news_0047,2026-08-01,news,Chevron Corp.,CVX,Chevron Corp. analysts await the next central bank rate decision before revising guidance.,0.1027,Macroeconomic,4,0.4764,rule_based,0.135
+news_0167,2026-08-01,news,Pfizer Inc.,PFE,Pfizer Inc. bonds rally as the firm announces early repayment of outstanding debt.,0.3612,Credit Event,6,0.6056,rule_based,0.129
+news_0250,2026-08-01,news,Microsoft Corp.,MSFT,Microsoft Corp. shares surge on takeover speculation from a larger industry player.,0.296,Merger/Acquisition,5,0.573,rule_based,0.088
+news_0144,2026-08-01,news,Caterpillar Inc.,CAT,Caterpillar Inc. shares dip after its new product launch draws a lukewarm reception.,0.296,Product Launch,5,0.648,rule_based,0.081
+news_0105,2026-08-02,news,Bank of America Corp.,BAC,"Bank of America Corp. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.156
+news_0147,2026-08-02,news,NVIDIA Corp.,NVDA,NVIDIA Corp. shares drop on fears of a covenant breach following weak quarterly cash flow.,-0.6808,Credit Event,7,0.7654,rule_based,0.15
+tw_0008,2026-08-02,twitter,Boeing Co.,BA,"BA earnings next week, setting price alerts",0.0,Other,3,0.3,rule_based,0.045
+tw_0045,2026-08-02,twitter,Pfizer Inc.,PFE,"PFE confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.077
+tw_0065,2026-08-02,twitter,Bank of America Corp.,BAC,"BAC getting hit hard, sanctions headlines are brutal rn",-0.6705,Geopolitical,8,0.7603,rule_based,0.119
+tw_0101,2026-08-02,twitter,Chevron Corp.,CVX,"CVX missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.085
+tw_0117,2026-08-02,twitter,Coca-Cola Co.,KO,"KO ripping on the inflation print, rate cut hopes back on",0.1779,Macroeconomic,5,0.514,rule_based,0.105
+tw_0269,2026-08-02,twitter,Johnson & Johnson,JNJ,JNJ flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.045
+tw_0313,2026-08-02,twitter,Chevron Corp.,CVX,CVX launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.088
+tw_0350,2026-08-02,twitter,Amazon.com Inc.,AMZN,watching AMZN react to the geopolitical headlines this morning,0.0,Geopolitical,5,0.425,rule_based,0.049
+news_0311,2026-08-02,news,Apple Inc.,AAPL,Apple Inc. bonds rally as the firm announces early repayment of outstanding debt.,0.3612,Credit Event,6,0.6056,rule_based,0.109
+news_0339,2026-08-02,news,Caterpillar Inc.,CAT,"Caterpillar Inc. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.124
+tw_0434,2026-08-02,twitter,Pfizer Inc.,PFE,"PFE bleeding, rates up again and nobody wants risk rn",-0.2732,Other,3,0.4366,rule_based,0.076
+tw_0082,2026-08-03,twitter,Johnson & Johnson,JNJ,"JNJ crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.048
+tw_0085,2026-08-03,twitter,Alphabet Inc.,GOOGL,"GOOGL ripping on the inflation print, rate cut hopes back on",0.1779,Macroeconomic,5,0.514,rule_based,0.243
+tw_0098,2026-08-03,twitter,Procter & Gamble Co.,PG,"PG deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.106
+tw_0102,2026-08-03,twitter,Alphabet Inc.,GOOGL,"GOOGL teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.097
+tw_0186,2026-08-03,twitter,Bank of America Corp.,BAC,"BAC up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.082
+tw_0239,2026-08-03,twitter,Amazon.com Inc.,AMZN,AMZN flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.044
+tw_0268,2026-08-03,twitter,NVIDIA Corp.,NVDA,"NVDA bankruptcy talk trending, not good",-0.3412,Credit Event,8,0.5956,rule_based,0.068
+tw_0404,2026-08-03,twitter,Boeing Co.,BA,"BA deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.08
+tw_0026,2026-08-03,twitter,Microsoft Corp.,MSFT,"MSFT bankruptcy talk trending, not good",-0.3412,Credit Event,8,0.5956,rule_based,0.058
+news_0002,2026-08-03,news,Procter & Gamble Co.,PG,Procter & Gamble Co. shares pop after its newest product sells out within hours of launch.,0.296,Product Launch,4,0.648,rule_based,0.09
+news_0156,2026-08-03,news,NVIDIA Corp.,NVDA,NVIDIA Corp. reiterates full-year guidance at an investor conference.,0.0,Other,3,0.3,rule_based,0.047
+news_0206,2026-08-03,news,Procter & Gamble Co.,PG,Procter & Gamble Co. shares dip after its new product launch draws a lukewarm reception.,0.296,Product Launch,5,0.648,rule_based,0.094
+news_0248,2026-08-03,news,Pfizer Inc.,PFE,Pfizer Inc. announces routine changes to its board of directors.,0.0,Other,3,0.3,rule_based,0.047
+news_0293,2026-08-03,news,Bank of America Corp.,BAC,Bank of America Corp. rallies as easing geopolitical tensions revive trade talks in key export markets.,0.1779,Geopolitical,6,0.5889,rule_based,0.121
+news_0124,2026-08-03,news,Coca-Cola Co.,KO,Coca-Cola Co. rallies after stronger-than-expected GDP growth boosts consumer spending outlook.,0.5994,Macroeconomic,6,0.7247,rule_based,0.104
+news_0106,2026-08-03,news,Microsoft Corp.,MSFT,Microsoft Corp. bonds rally as the firm announces early repayment of outstanding debt.,0.3612,Credit Event,6,0.6056,rule_based,0.1
+tw_0211,2026-08-04,twitter,Pfizer Inc.,PFE,"PFE refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.037
+news_0067,2026-08-04,news,Procter & Gamble Co.,PG,Procter & Gamble Co. shares pop after its newest product sells out within hours of launch.,0.296,Product Launch,4,0.648,rule_based,0.082
+news_0068,2026-08-04,news,Apple Inc.,AAPL,Apple Inc. delays its flagship product launch amid ongoing supply chain issues.,0.1027,Product Launch,4,0.5514,rule_based,0.076
+news_0130,2026-08-04,news,Coca-Cola Co.,KO,"Coca-Cola Co. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.172
+news_0301,2026-08-04,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. schedules a product showcase event for investors and press next month.,0.0,Product Launch,3,0.5,rule_based,0.146
+tw_0249,2026-08-04,twitter,Pfizer Inc.,PFE,"PFE confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.079
+tw_0258,2026-08-04,twitter,Exxon Mobil Corp.,XOM,"XOM up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.072
+tw_0290,2026-08-04,twitter,Bank of America Corp.,BAC,"BAC confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.058
+tw_0442,2026-08-04,twitter,Procter & Gamble Co.,PG,"PG confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.054
+tw_0031,2026-08-04,twitter,Johnson & Johnson,JNJ,"JNJ confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.05
+tw_0154,2026-08-04,twitter,Bank of America Corp.,BAC,"BAC up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.064
+tw_0023,2026-08-05,twitter,Pfizer Inc.,PFE,"PFE up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.056
+tw_0073,2026-08-05,twitter,Apple Inc.,AAPL,inflation data wrecking AAPL premarket,0.0,Macroeconomic,4,0.425,rule_based,0.031
+tw_0119,2026-08-05,twitter,Coca-Cola Co.,KO,"KO new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.085
+tw_0219,2026-08-05,twitter,Exxon Mobil Corp.,XOM,"XOM teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.071
+tw_0278,2026-08-05,twitter,Apple Inc.,AAPL,"AAPL 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.053
+tw_0492,2026-08-05,twitter,Johnson & Johnson,JNJ,"JNJ up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.059
+tw_0475,2026-08-05,twitter,Microsoft Corp.,MSFT,"MSFT new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.08
+tw_0462,2026-08-05,twitter,Coca-Cola Co.,KO,"KO new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.075
+tw_0419,2026-08-05,twitter,Coca-Cola Co.,KO,KO flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.033
+tw_0416,2026-08-05,twitter,Bank of America Corp.,BAC,"BAC earnings next week, setting price alerts",0.0,Other,3,0.3,rule_based,0.028
+tw_0336,2026-08-05,twitter,Alphabet Inc.,GOOGL,"GOOGL crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.039
+news_0251,2026-08-05,news,Procter & Gamble Co.,PG,Procter & Gamble Co. warns of margin pressure as inflation and rising interest rates squeeze costs.,0.1027,Macroeconomic,6,0.5514,rule_based,0.109
+news_0266,2026-08-05,news,Apple Inc.,AAPL,"Apple Inc. merger talks collapse, deal uncertainty weighs heavily on the stock.",-0.6808,Merger/Acquisition,7,0.8404,rule_based,0.08
+tw_0349,2026-08-05,twitter,Procter & Gamble Co.,PG,"PG crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.036
+news_0284,2026-08-05,news,Boeing Co.,BA,Boeing Co. bonds rally as the firm announces early repayment of outstanding debt.,0.3612,Credit Event,6,0.6056,rule_based,0.081
+news_0305,2026-08-05,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. rallies after stronger-than-expected GDP growth boosts consumer spending outlook.,0.5994,Macroeconomic,6,0.7247,rule_based,0.084
+news_0342,2026-08-05,news,Alphabet Inc.,GOOGL,Alphabet Inc. schedules a product showcase event for investors and press next month.,0.0,Product Launch,3,0.5,rule_based,0.041
+news_0328,2026-08-06,news,Alphabet Inc.,GOOGL,"Alphabet Inc. beats quarterly earnings expectations, shares tick higher on the print.",0.296,Other,3,0.448,rule_based,0.063
+news_0262,2026-08-06,news,Pfizer Inc.,PFE,Pfizer Inc. rallies after stronger-than-expected GDP growth boosts consumer spending outlook.,0.5994,Macroeconomic,6,0.7247,rule_based,0.116
+news_0225,2026-08-06,news,Coca-Cola Co.,KO,Coca-Cola Co. shares pop after its newest product sells out within hours of launch.,0.296,Product Launch,4,0.648,rule_based,0.058
+news_0216,2026-08-06,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. delays its flagship product launch amid ongoing supply chain issues.,0.1027,Product Launch,4,0.5514,rule_based,0.066
+news_0150,2026-08-06,news,Bank of America Corp.,BAC,Bank of America Corp. schedules a product showcase event for investors and press next month.,0.0,Product Launch,3,0.5,rule_based,0.045
+tw_0012,2026-08-06,twitter,Coca-Cola Co.,KO,KO launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.065
+tw_0133,2026-08-06,twitter,Caterpillar Inc.,CAT,"CAT new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.072
+tw_0148,2026-08-06,twitter,Caterpillar Inc.,CAT,"CAT default risk headlines are scary, bonds cratering",-0.6486,Credit Event,8,0.7493,rule_based,0.054
+tw_0223,2026-08-06,twitter,NVIDIA Corp.,NVDA,"NVDA missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.064
+tw_0291,2026-08-06,twitter,Pfizer Inc.,PFE,watching PFE react to the geopolitical headlines this morning,0.0,Geopolitical,5,0.425,rule_based,0.035
+tw_0472,2026-08-06,twitter,Apple Inc.,AAPL,AAPL flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.03
+tw_0408,2026-08-06,twitter,Pfizer Inc.,PFE,"PFE up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.058
+news_0343,2026-08-06,news,Alphabet Inc.,GOOGL,"Alphabet Inc. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.085
+tw_0483,2026-08-06,twitter,Amazon.com Inc.,AMZN,"AMZN deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.06
+tw_0493,2026-08-06,twitter,NVIDIA Corp.,NVDA,"NVDA crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.034
+news_0122,2026-08-06,news,Amazon.com Inc.,AMZN,Amazon.com Inc. schedules a product showcase event for investors and press next month.,0.0,Product Launch,3,0.5,rule_based,0.039
+news_0121,2026-08-06,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. reiterates full-year guidance at an investor conference.,0.0,Other,3,0.3,rule_based,0.044
+news_0060,2026-08-06,news,Apple Inc.,AAPL,"Apple Inc. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.082
+news_0026,2026-08-06,news,NVIDIA Corp.,NVDA,NVIDIA Corp. analysts await the next central bank rate decision before revising guidance.,0.1027,Macroeconomic,4,0.4764,rule_based,0.065
+news_0011,2026-08-06,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. shares pop after its newest product sells out within hours of launch.,0.296,Product Launch,4,0.648,rule_based,0.062
+tw_0306,2026-08-06,twitter,Bank of America Corp.,BAC,"BAC 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.035
+hi_00,2026-08-06,news,Exxon Mobil Corp.,XOM,"Exxon Mobil Corp. shares plunge as new international sanctions and an escalating regional war threaten to shut down a major overseas production facility, raising fears of a prolonged supply crisis.",-0.9042,Geopolitical,9,0.925,rule_based,0.175
+tw_0480,2026-08-07,twitter,Alphabet Inc.,GOOGL,"GOOGL new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.072
+tw_0339,2026-08-07,twitter,JPMorgan Chase & Co.,JPM,"JPM missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.051
+news_0329,2026-08-07,news,Boeing Co.,BA,Boeing Co. shares gain after a ceasefire agreement reduces regional supply-chain risk.,0.7717,Geopolitical,7,0.85,rule_based,0.1
+news_0269,2026-08-07,news,Amazon.com Inc.,AMZN,Amazon.com Inc. shares fall as weak jobs data stokes recession fears across the sector.,-0.743,Macroeconomic,6,0.85,rule_based,0.095
+news_0222,2026-08-07,news,Bank of America Corp.,BAC,Bank of America Corp. declares bankruptcy protection as default on senior debt becomes imminent.,-0.3612,Credit Event,8,0.7556,rule_based,0.061
+news_0189,2026-08-07,news,Johnson & Johnson,JNJ,Johnson & Johnson schedules a product showcase event for investors and press next month.,0.0,Product Launch,3,0.5,rule_based,0.039
+news_0059,2026-08-07,news,Caterpillar Inc.,CAT,Caterpillar Inc. halts operations in affected region as geopolitical conflict intensifies.,-0.4404,Geopolitical,6,0.7202,rule_based,0.086
+news_0164,2026-08-07,news,Procter & Gamble Co.,PG,Procter & Gamble Co. rallies after stronger-than-expected GDP growth boosts consumer spending outlook.,0.5994,Macroeconomic,6,0.7247,rule_based,0.082
+news_0008,2026-08-07,news,Amazon.com Inc.,AMZN,Amazon.com Inc. shares climb as cooling inflation data raises hopes of interest rate cuts.,0.7003,Macroeconomic,6,0.85,rule_based,0.098
+tw_0488,2026-08-07,twitter,Boeing Co.,BA,"BA confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.047
+tw_0470,2026-08-07,twitter,Apple Inc.,AAPL,"AAPL crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.033
+tw_0417,2026-08-07,twitter,NVIDIA Corp.,NVDA,"NVDA 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.032
+tw_0342,2026-08-07,twitter,JPMorgan Chase & Co.,JPM,"JPM 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.029
+news_0052,2026-08-07,news,Coca-Cola Co.,KO,"Coca-Cola Co. merger talks collapse, deal uncertainty weighs heavily on the stock.",-0.6808,Merger/Acquisition,7,0.8404,rule_based,0.072
+tw_0018,2026-08-07,twitter,Boeing Co.,BA,"BA earnings next week, setting price alerts",0.0,Other,3,0.3,rule_based,0.027
+news_0287,2026-08-08,news,Bank of America Corp.,BAC,Bank of America Corp. halts operations in affected region as geopolitical conflict intensifies.,-0.4404,Geopolitical,6,0.7202,rule_based,0.076
+news_0031,2026-08-08,news,Caterpillar Inc.,CAT,Caterpillar Inc. shares dip after its new product launch draws a lukewarm reception.,0.296,Product Launch,5,0.648,rule_based,0.05
+news_0070,2026-08-08,news,Microsoft Corp.,MSFT,Microsoft Corp. announces routine changes to its board of directors.,0.0,Other,3,0.3,rule_based,0.032
+news_0231,2026-08-08,news,Amazon.com Inc.,AMZN,Amazon.com Inc. confirms it is in early-stage discussions regarding a potential strategic deal.,0.0,Merger/Acquisition,4,0.425,rule_based,0.039
+tw_0111,2026-08-08,twitter,Amazon.com Inc.,AMZN,"AMZN crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.032
+tw_0071,2026-08-08,twitter,Alphabet Inc.,GOOGL,"GOOGL teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.058
+tw_0072,2026-08-08,twitter,Coca-Cola Co.,KO,"KO up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.052
+tw_0107,2026-08-08,twitter,JPMorgan Chase & Co.,JPM,"JPM crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.031
+tw_0405,2026-08-08,twitter,Microsoft Corp.,MSFT,"MSFT crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.028
+tw_0430,2026-08-08,twitter,Caterpillar Inc.,CAT,inflation data wrecking CAT premarket,0.0,Macroeconomic,4,0.425,rule_based,0.03
+tw_0445,2026-08-08,twitter,Procter & Gamble Co.,PG,"PG missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.05
+tw_0460,2026-08-08,twitter,Boeing Co.,BA,watching BA react to the geopolitical headlines this morning,0.0,Geopolitical,5,0.425,rule_based,0.032
+tw_0322,2026-08-09,twitter,Johnson & Johnson,JNJ,"JNJ bleeding, rates up again and nobody wants risk rn",-0.2732,Other,3,0.4366,rule_based,0.05
+tw_0041,2026-08-09,twitter,JPMorgan Chase & Co.,JPM,"JPM refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.028
+tw_0047,2026-08-09,twitter,Coca-Cola Co.,KO,"KO 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.032
+tw_0121,2026-08-09,twitter,Bank of America Corp.,BAC,"BAC confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.046
+tw_0157,2026-08-09,twitter,Chevron Corp.,CVX,"CVX refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.026
+tw_0189,2026-08-09,twitter,NVIDIA Corp.,NVDA,NVDA launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.059
+tw_0432,2026-08-09,twitter,Caterpillar Inc.,CAT,"war fears tanking CAT today, ugly tape",-0.875,Geopolitical,9,0.775,rule_based,0.049
+tw_0390,2026-08-09,twitter,Johnson & Johnson,JNJ,"JNJ refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.025
+tw_0334,2026-08-09,twitter,Boeing Co.,BA,"BA confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.046
+tw_0274,2026-08-09,twitter,Alphabet Inc.,GOOGL,"GOOGL crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.032
+tw_0311,2026-08-09,twitter,Exxon Mobil Corp.,XOM,"XOM default risk headlines are scary, bonds cratering",-0.6486,Credit Event,8,0.7493,rule_based,0.055
+tw_0152,2026-08-09,twitter,Chevron Corp.,CVX,"CVX up on the ceasefire news, tensions finally cooling off #markets",-0.4019,Geopolitical,6,0.7009,rule_based,0.055
+news_0040,2026-08-09,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. issues a statement on its exposure to ongoing geopolitical developments.,0.0,Geopolitical,5,0.425,rule_based,0.039
+news_0310,2026-08-09,news,Alphabet Inc.,GOOGL,Alphabet Inc. issues a statement on its exposure to ongoing geopolitical developments.,0.0,Geopolitical,5,0.425,rule_based,0.036
+news_0158,2026-08-09,news,Apple Inc.,AAPL,"Apple Inc. unveils its next-generation product line, analysts praise the innovation.",0.7351,Product Launch,5,0.85,rule_based,0.072
+news_0131,2026-08-09,news,Chevron Corp.,CVX,Chevron Corp. shares climb as cooling inflation data raises hopes of interest rate cuts.,0.7003,Macroeconomic,6,0.85,rule_based,0.096
+news_0334,2026-08-10,news,Amazon.com Inc.,AMZN,Amazon.com Inc. credit outlook upgraded after a strong track record of debt repayment.,0.5267,Credit Event,7,0.7633,rule_based,0.096
+news_0197,2026-08-10,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. issues a statement on its exposure to ongoing geopolitical developments.,0.0,Geopolitical,5,0.425,rule_based,0.038
+news_0139,2026-08-10,news,Caterpillar Inc.,CAT,"Caterpillar Inc. unveils its next-generation product line, analysts praise the innovation.",0.7351,Product Launch,5,0.85,rule_based,0.071
+news_0065,2026-08-10,news,Procter & Gamble Co.,PG,Procter & Gamble Co. schedules a product showcase event for investors and press next month.,0.0,Product Launch,3,0.5,rule_based,0.04
+news_0035,2026-08-10,news,Pfizer Inc.,PFE,Pfizer Inc. schedules a product showcase event for investors and press next month.,0.0,Product Launch,3,0.5,rule_based,0.036
+news_0023,2026-08-10,news,Pfizer Inc.,PFE,Pfizer Inc. shares fall as regulators block its proposed acquisition on antitrust grounds.,-0.1779,Merger/Acquisition,4,0.514,rule_based,0.069
+tw_0050,2026-08-10,twitter,JPMorgan Chase & Co.,JPM,"JPM new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.067
+tw_0161,2026-08-10,twitter,JPMorgan Chase & Co.,JPM,"JPM confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.046
+tw_0171,2026-08-10,twitter,Pfizer Inc.,PFE,"PFE missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.049
+tw_0215,2026-08-10,twitter,NVIDIA Corp.,NVDA,"NVDA ripping on the inflation print, rate cut hopes back on",0.1779,Macroeconomic,5,0.514,rule_based,0.065
+tw_0238,2026-08-10,twitter,NVIDIA Corp.,NVDA,inflation data wrecking NVDA premarket,0.0,Macroeconomic,4,0.425,rule_based,0.159
+tw_0467,2026-08-10,twitter,Exxon Mobil Corp.,XOM,XOM flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.038
+tw_0394,2026-08-10,twitter,Boeing Co.,BA,"BA crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.06
+tw_0011,2026-08-11,twitter,Microsoft Corp.,MSFT,"MSFT 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.147
+news_0160,2026-08-11,news,Exxon Mobil Corp.,XOM,"Exxon Mobil Corp. beats quarterly earnings expectations, shares tick higher on the print.",0.296,Other,3,0.448,rule_based,0.08
+news_0062,2026-08-11,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. warns of margin pressure as inflation and rising interest rates squeeze costs.,0.1027,Macroeconomic,6,0.5514,rule_based,0.1
+news_0018,2026-08-11,news,Pfizer Inc.,PFE,Pfizer Inc. analysts await the next central bank rate decision before revising guidance.,0.1027,Macroeconomic,4,0.4764,rule_based,0.061
+tw_0453,2026-08-11,twitter,Boeing Co.,BA,"BA new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.073
+tw_0447,2026-08-11,twitter,Exxon Mobil Corp.,XOM,"XOM refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.029
+tw_0446,2026-08-11,twitter,Apple Inc.,AAPL,"AAPL earnings next week, setting price alerts",0.0,Other,3,0.3,rule_based,0.026
+tw_0057,2026-08-11,twitter,Bank of America Corp.,BAC,"BAC teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.059
+tw_0340,2026-08-11,twitter,Coca-Cola Co.,KO,KO flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.03
+tw_0386,2026-08-11,twitter,Procter & Gamble Co.,PG,"PG teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.054
+tw_0221,2026-08-11,twitter,Chevron Corp.,CVX,"CVX new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.068
+tw_0212,2026-08-11,twitter,Pfizer Inc.,PFE,"war fears tanking PFE today, ugly tape",-0.875,Geopolitical,9,0.775,rule_based,0.051
+tw_0138,2026-08-11,twitter,Exxon Mobil Corp.,XOM,watching XOM react to the geopolitical headlines this morning,0.0,Geopolitical,5,0.425,rule_based,0.033
+tw_0131,2026-08-11,twitter,Pfizer Inc.,PFE,PFE flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.027
+tw_0126,2026-08-11,twitter,Microsoft Corp.,MSFT,"MSFT new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.065
+news_0211,2026-08-11,news,Amazon.com Inc.,AMZN,Amazon.com Inc. rallies after stronger-than-expected GDP growth boosts consumer spending outlook.,0.5994,Macroeconomic,6,0.7247,rule_based,0.074
+tw_0097,2026-08-11,twitter,Exxon Mobil Corp.,XOM,"XOM teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.063
+tw_0317,2026-08-11,twitter,Chevron Corp.,CVX,CVX flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.027
+news_0258,2026-08-11,news,Pfizer Inc.,PFE,Pfizer Inc. announces routine changes to its board of directors.,0.0,Other,3,0.3,rule_based,0.03
+tw_0207,2026-08-12,twitter,JPMorgan Chase & Co.,JPM,"JPM getting hit hard, sanctions headlines are brutal rn",-0.6705,Geopolitical,8,0.7603,rule_based,0.068
+tw_0005,2026-08-12,twitter,Microsoft Corp.,MSFT,"war fears tanking MSFT today, ugly tape",-0.875,Geopolitical,9,0.775,rule_based,0.048
+tw_0178,2026-08-12,twitter,Exxon Mobil Corp.,XOM,XOM launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.058
+tw_0296,2026-08-12,twitter,Chevron Corp.,CVX,"CVX teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.055
+tw_0370,2026-08-12,twitter,Alphabet Inc.,GOOGL,"GOOGL deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.057
+news_0151,2026-08-12,news,Pfizer Inc.,PFE,Pfizer Inc. shares surge on takeover speculation from a larger industry player.,0.296,Merger/Acquisition,5,0.573,rule_based,0.058
+news_0129,2026-08-12,news,Coca-Cola Co.,KO,Coca-Cola Co. shares slide as new sanctions target its overseas operations amid escalating tensions.,-0.128,Geopolitical,7,0.564,rule_based,0.075
+tw_0205,2026-08-12,twitter,Procter & Gamble Co.,PG,"PG default risk headlines are scary, bonds cratering",-0.6486,Credit Event,8,0.7493,rule_based,0.05
+news_0187,2026-08-13,news,Microsoft Corp.,MSFT,"Microsoft Corp. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.081
+tw_0202,2026-08-13,twitter,Alphabet Inc.,GOOGL,GOOGL launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.057
+tw_0372,2026-08-13,twitter,JPMorgan Chase & Co.,JPM,"JPM getting hit hard, sanctions headlines are brutal rn",-0.6705,Geopolitical,8,0.7603,rule_based,0.066
+tw_0479,2026-08-13,twitter,Exxon Mobil Corp.,XOM,"XOM up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.053
+news_0115,2026-08-13,news,Bank of America Corp.,BAC,"Bank of America Corp. beats quarterly earnings expectations, shares tick higher on the print.",0.296,Other,3,0.448,rule_based,0.061
+news_0056,2026-08-13,news,Procter & Gamble Co.,PG,Procter & Gamble Co. credit outlook upgraded after a strong track record of debt repayment.,0.5267,Credit Event,7,0.7633,rule_based,0.1
+tw_0146,2026-08-13,twitter,Caterpillar Inc.,CAT,inflation data wrecking CAT premarket,0.0,Macroeconomic,4,0.425,rule_based,0.026
+tw_0116,2026-08-13,twitter,JPMorgan Chase & Co.,JPM,"JPM new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.069
+tw_0128,2026-08-13,twitter,Chevron Corp.,CVX,"CVX up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.052
+hi_01,2026-08-13,news,JPMorgan Chase & Co.,JPM,"JPMorgan Chase & Co. bonds tumble after a major rating agency downgrades the firm, warning of imminent default risk tied to a sharply deteriorating debt position and bankruptcy concerns among key counterparties.",-0.7184,Credit Event,9,1.0,rule_based,0.142
+news_0050,2026-08-14,news,NVIDIA Corp.,NVDA,NVIDIA Corp. refinances a portion of its debt load at prevailing market rates.,-0.3612,Credit Event,6,0.6056,rule_based,0.06
+news_0159,2026-08-14,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. reiterates full-year guidance at an investor conference.,0.0,Other,3,0.3,rule_based,0.035
+tw_0497,2026-08-14,twitter,Pfizer Inc.,PFE,"PFE 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.034
+news_0142,2026-08-14,news,Chevron Corp.,CVX,"Chevron Corp. merger talks collapse, deal uncertainty weighs heavily on the stock.",-0.6808,Merger/Acquisition,7,0.8404,rule_based,0.073
+tw_0435,2026-08-14,twitter,Johnson & Johnson,JNJ,"JNJ up on the ceasefire news, tensions finally cooling off #markets",-0.4019,Geopolitical,6,0.7009,rule_based,0.053
+tw_0427,2026-08-14,twitter,Procter & Gamble Co.,PG,watching PG react to the geopolitical headlines this morning,0.0,Geopolitical,5,0.425,rule_based,0.031
+tw_0484,2026-08-14,twitter,Alphabet Inc.,GOOGL,"GOOGL crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.034
+tw_0188,2026-08-14,twitter,Exxon Mobil Corp.,XOM,"XOM crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.03
+tw_0149,2026-08-14,twitter,Bank of America Corp.,BAC,BAC launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.057
+tw_0139,2026-08-14,twitter,Exxon Mobil Corp.,XOM,"XOM deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.055
+news_0022,2026-08-14,news,Caterpillar Inc.,CAT,Caterpillar Inc. schedules a product showcase event for investors and press next month.,0.0,Product Launch,3,0.5,rule_based,0.038
+news_0021,2026-08-14,news,JPMorgan Chase & Co.,JPM,"JPMorgan Chase & Co. merger talks collapse, deal uncertainty weighs heavily on the stock.",-0.6808,Merger/Acquisition,7,0.8404,rule_based,0.073
+tw_0261,2026-08-14,twitter,NVIDIA Corp.,NVDA,"NVDA default risk headlines are scary, bonds cratering",-0.6486,Credit Event,8,0.7493,rule_based,0.051
+news_0152,2026-08-14,news,Apple Inc.,AAPL,Apple Inc. shares drop on fears of a covenant breach following weak quarterly cash flow.,-0.6808,Credit Event,7,0.7654,rule_based,0.099
+tw_0243,2026-08-15,twitter,Procter & Gamble Co.,PG,"war fears tanking PG today, ugly tape",-0.875,Geopolitical,9,0.775,rule_based,0.049
+tw_0293,2026-08-15,twitter,Boeing Co.,BA,watching BA react to the geopolitical headlines this morning,0.0,Geopolitical,5,0.425,rule_based,0.034
+tw_0454,2026-08-15,twitter,Amazon.com Inc.,AMZN,watching AMZN react to the geopolitical headlines this morning,0.0,Geopolitical,5,0.425,rule_based,0.031
+tw_0458,2026-08-15,twitter,Boeing Co.,BA,watching BA react to the geopolitical headlines this morning,0.0,Geopolitical,5,0.425,rule_based,0.026
+tw_0461,2026-08-15,twitter,Chevron Corp.,CVX,"CVX earnings next week, setting price alerts",0.0,Other,3,0.3,rule_based,0.026
+news_0005,2026-08-15,news,Pfizer Inc.,PFE,"Pfizer Inc. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.095
+news_0048,2026-08-15,news,Microsoft Corp.,MSFT,"Microsoft Corp. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.085
+news_0123,2026-08-15,news,Boeing Co.,BA,Boeing Co. analysts await the next central bank rate decision before revising guidance.,0.1027,Macroeconomic,4,0.4764,rule_based,0.065
+news_0181,2026-08-15,news,Coca-Cola Co.,KO,Coca-Cola Co. shares gain after a ceasefire agreement reduces regional supply-chain risk.,0.7717,Geopolitical,7,0.85,rule_based,0.11
+news_0256,2026-08-15,news,Microsoft Corp.,MSFT,Microsoft Corp. analysts await the next central bank rate decision before revising guidance.,0.1027,Macroeconomic,4,0.4764,rule_based,0.065
+news_0275,2026-08-15,news,Coca-Cola Co.,KO,Coca-Cola Co. analysts await the next central bank rate decision before revising guidance.,0.1027,Macroeconomic,4,0.4764,rule_based,0.06
+news_0294,2026-08-16,news,Amazon.com Inc.,AMZN,"Amazon.com Inc. to acquire a smaller rival in a multi-billion dollar deal, shares jump on synergy hopes.",0.6124,Merger/Acquisition,6,0.8062,rule_based,0.093
+news_0178,2026-08-16,news,Apple Inc.,AAPL,"Apple Inc. unveils its next-generation product line, analysts praise the innovation.",0.7351,Product Launch,5,0.85,rule_based,0.078
+news_0198,2026-08-16,news,Alphabet Inc.,GOOGL,Alphabet Inc. delays its flagship product launch amid ongoing supply chain issues.,0.1027,Product Launch,4,0.5514,rule_based,0.061
+news_0051,2026-08-16,news,Chevron Corp.,CVX,Chevron Corp. analysts await the next central bank rate decision before revising guidance.,0.1027,Macroeconomic,4,0.4764,rule_based,0.064
+news_0045,2026-08-16,news,Caterpillar Inc.,CAT,Caterpillar Inc. delays its flagship product launch amid ongoing supply chain issues.,0.1027,Product Launch,4,0.5514,rule_based,0.063
+news_0038,2026-08-16,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. credit outlook upgraded after a strong track record of debt repayment.,0.5267,Credit Event,7,0.7633,rule_based,0.114
+tw_0064,2026-08-16,twitter,Apple Inc.,AAPL,"AAPL confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.058
+tw_0240,2026-08-16,twitter,Coca-Cola Co.,KO,"KO crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.038
+tw_0190,2026-08-16,twitter,Microsoft Corp.,MSFT,"MSFT teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.069
+news_0127,2026-08-16,news,Procter & Gamble Co.,PG,Procter & Gamble Co. shares fall as regulators block its proposed acquisition on antitrust grounds.,-0.1779,Merger/Acquisition,4,0.514,rule_based,0.097
+tw_0242,2026-08-16,twitter,Johnson & Johnson,JNJ,"JNJ missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.061
+tw_0392,2026-08-16,twitter,Pfizer Inc.,PFE,PFE flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.036
+news_0000,2026-08-16,news,Pfizer Inc.,PFE,Pfizer Inc. shares gain after a ceasefire agreement reduces regional supply-chain risk.,0.7717,Geopolitical,7,0.85,rule_based,0.122
+tw_0076,2026-08-16,twitter,Bank of America Corp.,BAC,watching BAC react to the geopolitical headlines this morning,0.0,Geopolitical,5,0.425,rule_based,0.039
+news_0073,2026-08-16,news,Amazon.com Inc.,AMZN,Amazon.com Inc. analysts await the next central bank rate decision before revising guidance.,0.1027,Macroeconomic,4,0.4764,rule_based,0.07
+tw_0272,2026-08-17,twitter,Johnson & Johnson,JNJ,inflation data wrecking JNJ premarket,0.0,Macroeconomic,4,0.425,rule_based,0.029
+news_0041,2026-08-17,news,Pfizer Inc.,PFE,Pfizer Inc. confirms it is in early-stage discussions regarding a potential strategic deal.,0.0,Merger/Acquisition,4,0.425,rule_based,0.047
+news_0085,2026-08-17,news,Pfizer Inc.,PFE,Pfizer Inc. refinances a portion of its debt load at prevailing market rates.,-0.3612,Credit Event,6,0.6056,rule_based,0.072
+tw_0210,2026-08-17,twitter,Amazon.com Inc.,AMZN,"AMZN default risk headlines are scary, bonds cratering",-0.6486,Credit Event,8,0.7493,rule_based,0.062
+tw_0256,2026-08-17,twitter,Chevron Corp.,CVX,"CVX bleeding, rates up again and nobody wants risk rn",-0.2732,Other,3,0.4366,rule_based,0.075
+news_0109,2026-08-17,news,Microsoft Corp.,MSFT,Microsoft Corp. confirms it is in early-stage discussions regarding a potential strategic deal.,0.0,Merger/Acquisition,4,0.425,rule_based,0.05
+tw_0450,2026-08-17,twitter,Bank of America Corp.,BAC,"BAC refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.034
+news_0185,2026-08-17,news,Procter & Gamble Co.,PG,Procter & Gamble Co. shares fall as regulators block its proposed acquisition on antitrust grounds.,-0.1779,Merger/Acquisition,4,0.514,rule_based,0.104
+news_0195,2026-08-17,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. credit outlook upgraded after a strong track record of debt repayment.,0.5267,Credit Event,7,0.7633,rule_based,0.126
+news_0320,2026-08-18,news,Johnson & Johnson,JNJ,Johnson & Johnson rallies after stronger-than-expected GDP growth boosts consumer spending outlook.,0.5994,Macroeconomic,6,0.7247,rule_based,0.099
+news_0349,2026-08-18,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. shares dip after its new product launch draws a lukewarm reception.,0.296,Product Launch,5,0.648,rule_based,0.08
+news_0298,2026-08-18,news,Microsoft Corp.,MSFT,Microsoft Corp. confirms it is in early-stage discussions regarding a potential strategic deal.,0.0,Merger/Acquisition,4,0.425,rule_based,0.053
+news_0153,2026-08-18,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. shares drop on fears of a covenant breach following weak quarterly cash flow.,-0.6808,Credit Event,7,0.7654,rule_based,0.138
+news_0098,2026-08-18,news,Caterpillar Inc.,CAT,Caterpillar Inc. confirms it is in early-stage discussions regarding a potential strategic deal.,0.0,Merger/Acquisition,4,0.425,rule_based,0.053
+news_0176,2026-08-18,news,NVIDIA Corp.,NVDA,NVIDIA Corp. shares drop on fears of a covenant breach following weak quarterly cash flow.,-0.6808,Credit Event,7,0.7654,rule_based,0.186
+news_0191,2026-08-18,news,Alphabet Inc.,GOOGL,Alphabet Inc. credit outlook upgraded after a strong track record of debt repayment.,0.5267,Credit Event,7,0.7633,rule_based,0.304
+tw_0090,2026-08-18,twitter,Coca-Cola Co.,KO,watching KO react to the geopolitical headlines this morning,0.0,Geopolitical,5,0.425,rule_based,0.136
+tw_0099,2026-08-18,twitter,Procter & Gamble Co.,PG,"PG refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.045
+tw_0294,2026-08-18,twitter,NVIDIA Corp.,NVDA,"NVDA missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.082
+tw_0319,2026-08-18,twitter,Alphabet Inc.,GOOGL,"GOOGL up on the ceasefire news, tensions finally cooling off #markets",-0.4019,Geopolitical,6,0.7009,rule_based,0.082
+tw_0329,2026-08-18,twitter,Coca-Cola Co.,KO,inflation data wrecking KO premarket,0.0,Macroeconomic,4,0.425,rule_based,0.037
+tw_0376,2026-08-18,twitter,Coca-Cola Co.,KO,"KO bleeding, rates up again and nobody wants risk rn",-0.2732,Other,3,0.4366,rule_based,0.089
+tw_0379,2026-08-18,twitter,Chevron Corp.,CVX,watching CVX react to the geopolitical headlines this morning,0.0,Geopolitical,5,0.425,rule_based,0.053
+tw_0425,2026-08-18,twitter,Bank of America Corp.,BAC,"BAC up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.077
+tw_0438,2026-08-18,twitter,Bank of America Corp.,BAC,watching BAC react to the geopolitical headlines this morning,0.0,Geopolitical,5,0.425,rule_based,0.04
+tw_0459,2026-08-18,twitter,JPMorgan Chase & Co.,JPM,inflation data wrecking JPM premarket,0.0,Macroeconomic,4,0.425,rule_based,0.03
+tw_0389,2026-08-19,twitter,Chevron Corp.,CVX,inflation data wrecking CVX premarket,0.0,Macroeconomic,4,0.425,rule_based,0.026
+tw_0327,2026-08-19,twitter,JPMorgan Chase & Co.,JPM,inflation data wrecking JPM premarket,0.0,Macroeconomic,4,0.425,rule_based,0.024
+news_0241,2026-08-19,news,Coca-Cola Co.,KO,Coca-Cola Co. delays its flagship product launch amid ongoing supply chain issues.,0.1027,Product Launch,4,0.5514,rule_based,0.097
+tw_0270,2026-08-19,twitter,Amazon.com Inc.,AMZN,"AMZN teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.094
+tw_0230,2026-08-19,twitter,Caterpillar Inc.,CAT,"CAT getting hit hard, sanctions headlines are brutal rn",-0.6705,Geopolitical,8,0.7603,rule_based,0.102
+tw_0195,2026-08-19,twitter,Pfizer Inc.,PFE,inflation data wrecking PFE premarket,0.0,Macroeconomic,4,0.425,rule_based,0.032
+tw_0184,2026-08-19,twitter,Exxon Mobil Corp.,XOM,"XOM refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.043
+tw_0315,2026-08-19,twitter,Johnson & Johnson,JNJ,"JNJ default risk headlines are scary, bonds cratering",-0.6486,Credit Event,8,0.7493,rule_based,0.099
+tw_0150,2026-08-19,twitter,Johnson & Johnson,JNJ,"JNJ up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.079
+tw_0144,2026-08-19,twitter,NVIDIA Corp.,NVDA,"NVDA ripping on the inflation print, rate cut hopes back on",0.1779,Macroeconomic,5,0.514,rule_based,0.086
+tw_0075,2026-08-19,twitter,Chevron Corp.,CVX,"CVX new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.088
+tw_0060,2026-08-19,twitter,JPMorgan Chase & Co.,JPM,"JPM new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.079
+tw_0038,2026-08-19,twitter,Microsoft Corp.,MSFT,"MSFT teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.072
+tw_0010,2026-08-19,twitter,Bank of America Corp.,BAC,"BAC missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.063
+tw_0151,2026-08-19,twitter,Exxon Mobil Corp.,XOM,"XOM teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.072
+news_0200,2026-08-20,news,Chevron Corp.,CVX,Chevron Corp. shares fall as regulators block its proposed acquisition on antitrust grounds.,-0.1779,Merger/Acquisition,4,0.514,rule_based,0.093
+news_0278,2026-08-20,news,Microsoft Corp.,MSFT,"Microsoft Corp. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.111
+news_0345,2026-08-20,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. bonds rally as the firm announces early repayment of outstanding debt.,0.3612,Credit Event,6,0.6056,rule_based,0.105
+tw_0441,2026-08-20,twitter,Pfizer Inc.,PFE,"PFE missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.075
+tw_0382,2026-08-20,twitter,Microsoft Corp.,MSFT,"MSFT missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.069
+tw_0365,2026-08-20,twitter,Alphabet Inc.,GOOGL,"GOOGL up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.071
+tw_0325,2026-08-20,twitter,Bank of America Corp.,BAC,"BAC missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.064
+tw_0310,2026-08-20,twitter,JPMorgan Chase & Co.,JPM,"JPM up on the ceasefire news, tensions finally cooling off #markets",-0.4019,Geopolitical,6,0.7009,rule_based,0.072
+tw_0253,2026-08-20,twitter,Chevron Corp.,CVX,"CVX 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.048
+tw_0265,2026-08-20,twitter,Amazon.com Inc.,AMZN,"AMZN deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.079
+tw_0246,2026-08-20,twitter,Johnson & Johnson,JNJ,"JNJ crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.042
+tw_0137,2026-08-20,twitter,Amazon.com Inc.,AMZN,"AMZN 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.042
+tw_0096,2026-08-20,twitter,Microsoft Corp.,MSFT,"war fears tanking MSFT today, ugly tape",-0.875,Geopolitical,9,0.775,rule_based,0.069
+tw_0054,2026-08-20,twitter,Procter & Gamble Co.,PG,"PG 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.044
+tw_0003,2026-08-20,twitter,Johnson & Johnson,JNJ,"JNJ up on the ceasefire news, tensions finally cooling off #markets",-0.4019,Geopolitical,6,0.7009,rule_based,0.072
+tw_0298,2026-08-20,twitter,Alphabet Inc.,GOOGL,"GOOGL crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.045
+news_0259,2026-08-21,news,Procter & Gamble Co.,PG,Procter & Gamble Co. credit outlook upgraded after a strong track record of debt repayment.,0.5267,Credit Event,7,0.7633,rule_based,0.152
+news_0319,2026-08-21,news,Procter & Gamble Co.,PG,"Procter & Gamble Co. to acquire a smaller rival in a multi-billion dollar deal, shares jump on synergy hopes.",0.6124,Merger/Acquisition,6,0.8062,rule_based,0.131
+news_0246,2026-08-21,news,Bank of America Corp.,BAC,Bank of America Corp. warns of margin pressure as inflation and rising interest rates squeeze costs.,0.1027,Macroeconomic,6,0.5514,rule_based,0.136
+tw_0183,2026-08-21,twitter,NVIDIA Corp.,NVDA,"NVDA missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.072
+news_0114,2026-08-21,news,Amazon.com Inc.,AMZN,Amazon.com Inc. shares dip after its new product launch draws a lukewarm reception.,0.296,Product Launch,5,0.648,rule_based,0.073
+news_0326,2026-08-21,news,Exxon Mobil Corp.,XOM,"Exxon Mobil Corp. merger talks collapse, deal uncertainty weighs heavily on the stock.",-0.6808,Merger/Acquisition,7,0.8404,rule_based,0.105
+news_0186,2026-08-21,news,NVIDIA Corp.,NVDA,NVIDIA Corp. issues a statement on its exposure to ongoing geopolitical developments.,0.0,Geopolitical,5,0.425,rule_based,0.054
+hi_02,2026-08-21,news,Caterpillar Inc.,CAT,"Caterpillar Inc. halts all operations in a conflict zone as war and new sanctions cut off its supply chain entirely, with analysts warning of a severe and prolonged earnings hit.",-0.9112,Geopolitical,9,0.925,rule_based,0.244
+news_0172,2026-08-21,news,Boeing Co.,BA,"Boeing Co. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.124
+tw_0004,2026-08-21,twitter,NVIDIA Corp.,NVDA,inflation data wrecking NVDA premarket,0.0,Macroeconomic,4,0.425,rule_based,0.039
+tw_0030,2026-08-21,twitter,Caterpillar Inc.,CAT,"CAT teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.088
+tw_0095,2026-08-21,twitter,Johnson & Johnson,JNJ,JNJ flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.045
+tw_0142,2026-08-21,twitter,Alphabet Inc.,GOOGL,"GOOGL refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.041
+news_0138,2026-08-21,news,Amazon.com Inc.,AMZN,Amazon.com Inc. shares fall as weak jobs data stokes recession fears across the sector.,-0.743,Macroeconomic,6,0.85,rule_based,0.15
+tw_0309,2026-08-21,twitter,Procter & Gamble Co.,PG,"PG earnings next week, setting price alerts",0.0,Other,3,0.3,rule_based,0.042
+tw_0359,2026-08-21,twitter,Microsoft Corp.,MSFT,"MSFT new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.107
+tw_0463,2026-08-21,twitter,Caterpillar Inc.,CAT,"CAT deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.09
+tw_0478,2026-08-21,twitter,JPMorgan Chase & Co.,JPM,"JPM confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.076
+tw_0046,2026-08-22,twitter,JPMorgan Chase & Co.,JPM,"JPM up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.102
+tw_0015,2026-08-22,twitter,Amazon.com Inc.,AMZN,"AMZN crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.054
+tw_0037,2026-08-22,twitter,Pfizer Inc.,PFE,"PFE crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.048
+news_0007,2026-08-22,news,Coca-Cola Co.,KO,Coca-Cola Co. analysts await the next central bank rate decision before revising guidance.,0.1027,Macroeconomic,4,0.4764,rule_based,0.099
+news_0141,2026-08-22,news,NVIDIA Corp.,NVDA,NVIDIA Corp. warns of disruption as conflict in a key sourcing region threatens its supply chain.,-0.7783,Geopolitical,8,0.85,rule_based,0.174
+news_0174,2026-08-22,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. shares fall as weak jobs data stokes recession fears across the sector.,-0.743,Macroeconomic,6,0.85,rule_based,0.185
+tw_0039,2026-08-22,twitter,Amazon.com Inc.,AMZN,"AMZN missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.091
+tw_0324,2026-08-22,twitter,Johnson & Johnson,JNJ,"JNJ deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.1
+tw_0192,2026-08-22,twitter,NVIDIA Corp.,NVDA,"NVDA up on the ceasefire news, tensions finally cooling off #markets",-0.4019,Geopolitical,6,0.7009,rule_based,0.097
+tw_0469,2026-08-22,twitter,JPMorgan Chase & Co.,JPM,"JPM missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.088
+news_0016,2026-08-23,news,Boeing Co.,BA,Boeing Co. bonds rally as the firm announces early repayment of outstanding debt.,0.3612,Credit Event,6,0.6056,rule_based,0.136
+tw_0127,2026-08-23,twitter,Alphabet Inc.,GOOGL,"GOOGL refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.058
+tw_0344,2026-08-23,twitter,JPMorgan Chase & Co.,JPM,"JPM deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.179
+tw_0346,2026-08-23,twitter,Caterpillar Inc.,CAT,"CAT up on the ceasefire news, tensions finally cooling off #markets",-0.4019,Geopolitical,6,0.7009,rule_based,0.191
+news_0184,2026-08-23,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. confirms it is in early-stage discussions regarding a potential strategic deal.,0.0,Merger/Acquisition,4,0.425,rule_based,0.095
+tw_0362,2026-08-23,twitter,Bank of America Corp.,BAC,BAC launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.119
+tw_0424,2026-08-23,twitter,Microsoft Corp.,MSFT,"MSFT teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.108
+news_0335,2026-08-23,news,Pfizer Inc.,PFE,"Pfizer Inc. to acquire a smaller rival in a multi-billion dollar deal, shares jump on synergy hopes.",0.6124,Merger/Acquisition,6,0.8062,rule_based,0.157
+news_0243,2026-08-23,news,Alphabet Inc.,GOOGL,Alphabet Inc. confirms it is in early-stage discussions regarding a potential strategic deal.,0.0,Merger/Acquisition,4,0.425,rule_based,0.073
+news_0221,2026-08-23,news,Boeing Co.,BA,Boeing Co. shares surge on takeover speculation from a larger industry player.,0.296,Merger/Acquisition,5,0.573,rule_based,0.088
+tw_0383,2026-08-23,twitter,Boeing Co.,BA,"war fears tanking BA today, ugly tape",-0.875,Geopolitical,9,0.775,rule_based,0.089
+news_0155,2026-08-23,news,Apple Inc.,AAPL,"Apple Inc. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.146
+news_0111,2026-08-24,news,Caterpillar Inc.,CAT,Caterpillar Inc. schedules a product showcase event for investors and press next month.,0.0,Product Launch,3,0.5,rule_based,0.069
+news_0025,2026-08-24,news,Johnson & Johnson,JNJ,Johnson & Johnson confirms it is in early-stage discussions regarding a potential strategic deal.,0.0,Merger/Acquisition,4,0.425,rule_based,0.067
+news_0190,2026-08-24,news,Boeing Co.,BA,Boeing Co. warns of margin pressure as inflation and rising interest rates squeeze costs.,0.1027,Macroeconomic,6,0.5514,rule_based,0.164
+news_0327,2026-08-24,news,Bank of America Corp.,BAC,Bank of America Corp. refinances a portion of its debt load at prevailing market rates.,-0.3612,Credit Event,6,0.6056,rule_based,0.111
+tw_0286,2026-08-24,twitter,JPMorgan Chase & Co.,JPM,"JPM default risk headlines are scary, bonds cratering",-0.6486,Credit Event,8,0.7493,rule_based,0.089
+news_0260,2026-08-24,news,Coca-Cola Co.,KO,Coca-Cola Co. warns of disruption as conflict in a key sourcing region threatens its supply chain.,-0.7783,Geopolitical,8,0.85,rule_based,0.179
+tw_0034,2026-08-24,twitter,Exxon Mobil Corp.,XOM,"XOM confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.083
+tw_0079,2026-08-24,twitter,Boeing Co.,BA,"BA 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.063
+tw_0100,2026-08-24,twitter,Pfizer Inc.,PFE,"PFE up on the ceasefire news, tensions finally cooling off #markets",-0.4019,Geopolitical,6,0.7009,rule_based,0.094
+tw_0103,2026-08-24,twitter,Alphabet Inc.,GOOGL,"GOOGL up on the ceasefire news, tensions finally cooling off #markets",-0.4019,Geopolitical,6,0.7009,rule_based,0.092
+tw_0464,2026-08-24,twitter,Microsoft Corp.,MSFT,MSFT launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.103
+tw_0409,2026-08-24,twitter,Pfizer Inc.,PFE,"PFE default risk headlines are scary, bonds cratering",-0.6486,Credit Event,8,0.7493,rule_based,0.085
+tw_0320,2026-08-24,twitter,Bank of America Corp.,BAC,"BAC default risk headlines are scary, bonds cratering",-0.6486,Credit Event,8,0.7493,rule_based,0.077
+tw_0166,2026-08-24,twitter,Johnson & Johnson,JNJ,"JNJ default risk headlines are scary, bonds cratering",-0.6486,Credit Event,8,0.7493,rule_based,0.072
+tw_0231,2026-08-24,twitter,Bank of America Corp.,BAC,"BAC ripping on the inflation print, rate cut hopes back on",0.1779,Macroeconomic,5,0.514,rule_based,0.117
+tw_0418,2026-08-25,twitter,JPMorgan Chase & Co.,JPM,"JPM default risk headlines are scary, bonds cratering",-0.6486,Credit Event,8,0.7493,rule_based,0.079
+tw_0078,2026-08-25,twitter,JPMorgan Chase & Co.,JPM,watching JPM react to the geopolitical headlines this morning,0.0,Geopolitical,5,0.425,rule_based,0.055
+tw_0232,2026-08-25,twitter,Caterpillar Inc.,CAT,"CAT deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.1
+tw_0271,2026-08-25,twitter,Alphabet Inc.,GOOGL,"GOOGL bleeding, rates up again and nobody wants risk rn",-0.2732,Other,3,0.4366,rule_based,0.088
+tw_0308,2026-08-25,twitter,Microsoft Corp.,MSFT,"MSFT getting hit hard, sanctions headlines are brutal rn",-0.6705,Geopolitical,8,0.7603,rule_based,0.116
+tw_0395,2026-08-25,twitter,Johnson & Johnson,JNJ,"JNJ crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.059
+tw_0496,2026-08-25,twitter,Procter & Gamble Co.,PG,"PG deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.112
+news_0028,2026-08-25,news,Alphabet Inc.,GOOGL,"Alphabet Inc. beats quarterly earnings expectations, shares tick higher on the print.",0.296,Other,3,0.448,rule_based,0.107
+news_0247,2026-08-25,news,Procter & Gamble Co.,PG,Procter & Gamble Co. confirms it is in early-stage discussions regarding a potential strategic deal.,0.0,Merger/Acquisition,4,0.425,rule_based,0.074
+news_0321,2026-08-25,news,Johnson & Johnson,JNJ,"Johnson & Johnson misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.16
+tw_0141,2026-08-26,twitter,Procter & Gamble Co.,PG,"PG refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.049
+news_0196,2026-08-26,news,Boeing Co.,BA,"Boeing Co. to acquire a smaller rival in a multi-billion dollar deal, shares jump on synergy hopes.",0.6124,Merger/Acquisition,6,0.8062,rule_based,0.148
+news_0163,2026-08-26,news,Apple Inc.,AAPL,Apple Inc. refinances a portion of its debt load at prevailing market rates.,-0.3612,Credit Event,6,0.6056,rule_based,0.104
+news_0055,2026-08-26,news,Pfizer Inc.,PFE,"Pfizer Inc. is set to report quarterly earnings next week, in line with analyst expectations.",0.0,Other,3,0.3,rule_based,0.071
+tw_0002,2026-08-26,twitter,Pfizer Inc.,PFE,"PFE up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.094
+tw_0007,2026-08-26,twitter,Chevron Corp.,CVX,"CVX crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.055
+tw_0106,2026-08-26,twitter,Microsoft Corp.,MSFT,"MSFT new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.12
+tw_0263,2026-08-26,twitter,Coca-Cola Co.,KO,"KO 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.058
+tw_0289,2026-08-26,twitter,Boeing Co.,BA,"BA earnings next week, setting price alerts",0.0,Other,3,0.3,rule_based,0.046
+tw_0355,2026-08-26,twitter,Alphabet Inc.,GOOGL,GOOGL flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.048
+tw_0396,2026-08-26,twitter,Exxon Mobil Corp.,XOM,watching XOM react to the geopolitical headlines this morning,0.0,Geopolitical,5,0.425,rule_based,0.051
+tw_0410,2026-08-26,twitter,Pfizer Inc.,PFE,"PFE earnings next week, setting price alerts",0.0,Other,3,0.3,rule_based,0.042
+tw_0487,2026-08-26,twitter,Amazon.com Inc.,AMZN,"AMZN up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.092
+tw_0063,2026-08-27,twitter,NVIDIA Corp.,NVDA,"NVDA deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.098
+news_0344,2026-08-27,news,Procter & Gamble Co.,PG,Procter & Gamble Co. shares pop after its newest product sells out within hours of launch.,0.296,Product Launch,4,0.648,rule_based,0.112
+news_0236,2026-08-27,news,Procter & Gamble Co.,PG,Procter & Gamble Co. refinances a portion of its debt load at prevailing market rates.,-0.3612,Credit Event,6,0.6056,rule_based,0.106
+tw_0197,2026-08-27,twitter,Procter & Gamble Co.,PG,"PG earnings next week, setting price alerts",0.0,Other,3,0.3,rule_based,0.045
+tw_0216,2026-08-27,twitter,Exxon Mobil Corp.,XOM,"XOM missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.092
+news_0227,2026-08-27,news,Bank of America Corp.,BAC,Bank of America Corp. shares pop after its newest product sells out within hours of launch.,0.296,Product Launch,4,0.648,rule_based,0.107
+tw_0251,2026-08-27,twitter,Chevron Corp.,CVX,"CVX refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.047
+tw_0345,2026-08-27,twitter,Apple Inc.,AAPL,"AAPL 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.054
+tw_0373,2026-08-27,twitter,Boeing Co.,BA,"BA confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.082
+tw_0481,2026-08-27,twitter,Alphabet Inc.,GOOGL,"GOOGL deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.096
+tw_0247,2026-08-27,twitter,Caterpillar Inc.,CAT,CAT flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.049
+news_0168,2026-08-28,news,Boeing Co.,BA,"Boeing Co. merger talks collapse, deal uncertainty weighs heavily on the stock.",-0.6808,Merger/Acquisition,7,0.8404,rule_based,0.12
+news_0166,2026-08-28,news,Johnson & Johnson,JNJ,Johnson & Johnson halts operations in affected region as geopolitical conflict intensifies.,-0.4404,Geopolitical,6,0.7202,rule_based,0.13
+news_0118,2026-08-28,news,Apple Inc.,AAPL,Apple Inc. bonds slump after a rating agency flags default risk amid mounting debt obligations.,-0.5574,Credit Event,8,0.8537,rule_based,0.122
+news_0091,2026-08-28,news,Apple Inc.,AAPL,Apple Inc. refinances a portion of its debt load at prevailing market rates.,-0.3612,Credit Event,6,0.6056,rule_based,0.097
+news_0057,2026-08-28,news,NVIDIA Corp.,NVDA,NVIDIA Corp. delays its flagship product launch amid ongoing supply chain issues.,0.1027,Product Launch,4,0.5514,rule_based,0.232
+news_0053,2026-08-28,news,Microsoft Corp.,MSFT,"Microsoft Corp. beats quarterly earnings expectations, shares tick higher on the print.",0.296,Other,3,0.448,rule_based,0.109
+tw_0000,2026-08-28,twitter,NVIDIA Corp.,NVDA,"NVDA new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.113
+news_0348,2026-08-28,news,Microsoft Corp.,MSFT,Microsoft Corp. declares bankruptcy protection as default on senior debt becomes imminent.,-0.3612,Credit Event,8,0.7556,rule_based,0.097
+tw_0094,2026-08-28,twitter,Microsoft Corp.,MSFT,"MSFT crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.052
+news_0209,2026-08-28,news,Amazon.com Inc.,AMZN,"Amazon.com Inc. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.131
+news_0324,2026-08-28,news,Pfizer Inc.,PFE,"Pfizer Inc. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.12
+tw_0411,2026-08-28,twitter,Pfizer Inc.,PFE,"PFE refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.042
+tw_0381,2026-08-28,twitter,Procter & Gamble Co.,PG,"PG confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.071
+tw_0302,2026-08-28,twitter,Procter & Gamble Co.,PG,"PG up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.079
+tw_0228,2026-08-28,twitter,NVIDIA Corp.,NVDA,"NVDA new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.106
+news_0169,2026-08-28,news,JPMorgan Chase & Co.,JPM,"JPMorgan Chase & Co. beats quarterly earnings expectations, shares tick higher on the print.",0.296,Other,3,0.448,rule_based,0.091
+news_0171,2026-08-28,news,Coca-Cola Co.,KO,Coca-Cola Co. shares dip after its new product launch draws a lukewarm reception.,0.296,Product Launch,5,0.648,rule_based,0.075
+news_0180,2026-08-29,news,Exxon Mobil Corp.,XOM,"Exxon Mobil Corp. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.134
+news_0205,2026-08-29,news,Microsoft Corp.,MSFT,Microsoft Corp. shares climb as cooling inflation data raises hopes of interest rate cuts.,0.7003,Macroeconomic,6,0.85,rule_based,0.235
+news_0212,2026-08-29,news,Coca-Cola Co.,KO,Coca-Cola Co. refinances a portion of its debt load at prevailing market rates.,-0.3612,Credit Event,6,0.6056,rule_based,0.143
+news_0214,2026-08-29,news,Bank of America Corp.,BAC,Bank of America Corp. refinances a portion of its debt load at prevailing market rates.,-0.3612,Credit Event,6,0.6056,rule_based,0.196
+news_0044,2026-08-29,news,Amazon.com Inc.,AMZN,Amazon.com Inc. confirms it is in early-stage discussions regarding a potential strategic deal.,0.0,Merger/Acquisition,4,0.425,rule_based,0.088
+news_0078,2026-08-29,news,NVIDIA Corp.,NVDA,NVIDIA Corp. bonds slump after a rating agency flags default risk amid mounting debt obligations.,-0.5574,Credit Event,8,0.8537,rule_based,0.12
+tw_0482,2026-08-29,twitter,Microsoft Corp.,MSFT,MSFT launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.091
+tw_0029,2026-08-29,twitter,Johnson & Johnson,JNJ,"JNJ teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.084
+tw_0143,2026-08-29,twitter,NVIDIA Corp.,NVDA,"NVDA 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.084
+tw_0241,2026-08-29,twitter,NVIDIA Corp.,NVDA,"NVDA up on the ceasefire news, tensions finally cooling off #markets",-0.4019,Geopolitical,6,0.7009,rule_based,0.107
+tw_0343,2026-08-29,twitter,Amazon.com Inc.,AMZN,AMZN flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.047
+tw_0348,2026-08-29,twitter,Exxon Mobil Corp.,XOM,"XOM default risk headlines are scary, bonds cratering",-0.6486,Credit Event,8,0.7493,rule_based,0.075
+tw_0356,2026-08-29,twitter,Apple Inc.,AAPL,"AAPL missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.184
+tw_0420,2026-08-29,twitter,Chevron Corp.,CVX,"CVX new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.105
+tw_0498,2026-08-29,twitter,Caterpillar Inc.,CAT,inflation data wrecking CAT premarket,0.0,Macroeconomic,4,0.425,rule_based,0.038
+news_0299,2026-08-29,news,Apple Inc.,AAPL,"Apple Inc. beats quarterly earnings expectations, shares tick higher on the print.",0.296,Other,3,0.448,rule_based,0.081
+news_0314,2026-08-29,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. refinances a portion of its debt load at prevailing market rates.,-0.3612,Credit Event,6,0.6056,rule_based,0.085
+tw_0173,2026-08-29,twitter,Procter & Gamble Co.,PG,"PG up on the ceasefire news, tensions finally cooling off #markets",-0.4019,Geopolitical,6,0.7009,rule_based,0.076
+tw_0443,2026-08-30,twitter,NVIDIA Corp.,NVDA,"NVDA getting hit hard, sanctions headlines are brutal rn",-0.6705,Geopolitical,8,0.7603,rule_based,0.093
+news_0316,2026-08-30,news,Coca-Cola Co.,KO,"Coca-Cola Co. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.113
+news_0295,2026-08-30,news,Caterpillar Inc.,CAT,Caterpillar Inc. shares pop after its newest product sells out within hours of launch.,0.296,Product Launch,4,0.648,rule_based,0.068
+news_0264,2026-08-30,news,Caterpillar Inc.,CAT,"Caterpillar Inc. unveils its next-generation product line, analysts praise the innovation.",0.7351,Product Launch,5,0.85,rule_based,0.1
+news_0244,2026-08-30,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. schedules a product showcase event for investors and press next month.,0.0,Product Launch,3,0.5,rule_based,0.057
+news_0237,2026-08-30,news,Boeing Co.,BA,"Boeing Co. merger talks collapse, deal uncertainty weighs heavily on the stock.",-0.6808,Merger/Acquisition,7,0.8404,rule_based,0.118
+news_0234,2026-08-30,news,Bank of America Corp.,BAC,Bank of America Corp. rallies as easing geopolitical tensions revive trade talks in key export markets.,0.1779,Geopolitical,6,0.5889,rule_based,0.125
+news_0125,2026-08-30,news,NVIDIA Corp.,NVDA,NVIDIA Corp. confirms it is in early-stage discussions regarding a potential strategic deal.,0.0,Merger/Acquisition,4,0.425,rule_based,0.058
+news_0119,2026-08-30,news,Coca-Cola Co.,KO,Coca-Cola Co. schedules a product showcase event for investors and press next month.,0.0,Product Launch,3,0.5,rule_based,0.055
+news_0074,2026-08-30,news,Amazon.com Inc.,AMZN,Amazon.com Inc. shares surge on takeover speculation from a larger industry player.,0.296,Merger/Acquisition,5,0.573,rule_based,0.074
+tw_0397,2026-08-30,twitter,Chevron Corp.,CVX,"CVX crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.047
+tw_0494,2026-08-30,twitter,Caterpillar Inc.,CAT,"CAT up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.08
+tw_0273,2026-08-30,twitter,Coca-Cola Co.,KO,"KO confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.069
+tw_0266,2026-08-30,twitter,Amazon.com Inc.,AMZN,"AMZN refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.042
+tw_0224,2026-08-30,twitter,Caterpillar Inc.,CAT,CAT launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.094
+tw_0122,2026-08-30,twitter,JPMorgan Chase & Co.,JPM,"JPM earnings next week, setting price alerts",0.0,Other,3,0.3,rule_based,0.042
+tw_0118,2026-08-30,twitter,JPMorgan Chase & Co.,JPM,"JPM teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.089
+tw_0028,2026-08-30,twitter,Boeing Co.,BA,watching BA react to the geopolitical headlines this morning,0.0,Geopolitical,5,0.425,rule_based,0.049
+news_0313,2026-08-31,news,Bank of America Corp.,BAC,"Bank of America Corp. unveils its next-generation product line, analysts praise the innovation.",0.7351,Product Launch,5,0.85,rule_based,0.116
+news_0194,2026-08-31,news,Apple Inc.,AAPL,Apple Inc. shares dip after its new product launch draws a lukewarm reception.,0.296,Product Launch,5,0.648,rule_based,0.076
+news_0154,2026-08-31,news,Coca-Cola Co.,KO,"Coca-Cola Co. merger talks collapse, deal uncertainty weighs heavily on the stock.",-0.6808,Merger/Acquisition,7,0.8404,rule_based,0.111
+tw_0326,2026-08-31,twitter,JPMorgan Chase & Co.,JPM,"JPM teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.09
+tw_0194,2026-08-31,twitter,Chevron Corp.,CVX,inflation data wrecking CVX premarket,0.0,Macroeconomic,4,0.425,rule_based,0.042
+tw_0260,2026-08-31,twitter,Microsoft Corp.,MSFT,MSFT flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.046
+tw_0456,2026-08-31,twitter,Boeing Co.,BA,"BA up on the ceasefire news, tensions finally cooling off #markets",-0.4019,Geopolitical,6,0.7009,rule_based,0.089
+hi_03,2026-08-31,twitter,Bank of America Corp.,BAC,"BAC in freefall, bankruptcy and default headlines everywhere, this is a crisis not a dip",-0.6249,Credit Event,8,0.8125,rule_based,0.104
+tw_0135,2026-09-01,twitter,NVIDIA Corp.,NVDA,NVDA launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.095
+tw_0092,2026-09-01,twitter,Exxon Mobil Corp.,XOM,"XOM deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.104
+news_0175,2026-09-01,news,Apple Inc.,AAPL,"Apple Inc. merger talks collapse, deal uncertainty weighs heavily on the stock.",-0.6808,Merger/Acquisition,7,0.8404,rule_based,0.121
+tw_0147,2026-09-01,twitter,Coca-Cola Co.,KO,inflation data wrecking KO premarket,0.0,Macroeconomic,4,0.425,rule_based,0.042
+tw_0318,2026-09-01,twitter,Alphabet Inc.,GOOGL,"GOOGL bankruptcy talk trending, not good",-0.3412,Credit Event,8,0.5956,rule_based,0.074
+tw_0374,2026-09-01,twitter,Pfizer Inc.,PFE,"PFE deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.097
+tw_0451,2026-09-01,twitter,Procter & Gamble Co.,PG,"PG teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.101
+tw_0452,2026-09-01,twitter,Exxon Mobil Corp.,XOM,XOM launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.1
+news_0061,2026-09-01,news,Caterpillar Inc.,CAT,Caterpillar Inc. shares climb as cooling inflation data raises hopes of interest rate cuts.,0.7003,Macroeconomic,6,0.85,rule_based,0.259
+tw_0471,2026-09-01,twitter,NVIDIA Corp.,NVDA,"NVDA new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.152
+news_0318,2026-09-01,news,Bank of America Corp.,BAC,Bank of America Corp. confirms it is in early-stage discussions regarding a potential strategic deal.,0.0,Merger/Acquisition,4,0.425,rule_based,0.08
+news_0263,2026-09-01,news,Johnson & Johnson,JNJ,Johnson & Johnson confirms it is in early-stage discussions regarding a potential strategic deal.,0.0,Merger/Acquisition,4,0.425,rule_based,0.086
+news_0146,2026-09-01,news,Procter & Gamble Co.,PG,"Procter & Gamble Co. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.173
+news_0003,2026-09-02,news,Apple Inc.,AAPL,Apple Inc. rallies as easing geopolitical tensions revive trade talks in key export markets.,0.1779,Geopolitical,6,0.5889,rule_based,0.148
+news_0033,2026-09-02,news,Procter & Gamble Co.,PG,"Procter & Gamble Co. beats quarterly earnings expectations, shares tick higher on the print.",0.296,Other,3,0.448,rule_based,0.106
+news_0049,2026-09-02,news,Microsoft Corp.,MSFT,Microsoft Corp. shares slide as new sanctions target its overseas operations amid escalating tensions.,-0.128,Geopolitical,7,0.564,rule_based,0.128
+news_0076,2026-09-02,news,Johnson & Johnson,JNJ,Johnson & Johnson rallies as easing geopolitical tensions revive trade talks in key export markets.,0.1779,Geopolitical,6,0.5889,rule_based,0.144
+news_0104,2026-09-02,news,Microsoft Corp.,MSFT,Microsoft Corp. declares bankruptcy protection as default on senior debt becomes imminent.,-0.3612,Credit Event,8,0.7556,rule_based,0.11
+news_0108,2026-09-02,news,Coca-Cola Co.,KO,Coca-Cola Co. declares bankruptcy protection as default on senior debt becomes imminent.,-0.3612,Credit Event,8,0.7556,rule_based,0.108
+news_0120,2026-09-02,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. confirms it is in early-stage discussions regarding a potential strategic deal.,0.0,Merger/Acquisition,4,0.425,rule_based,0.072
+tw_0159,2026-09-02,twitter,JPMorgan Chase & Co.,JPM,"JPM ripping on the inflation print, rate cut hopes back on",0.1779,Macroeconomic,5,0.514,rule_based,0.122
+tw_0025,2026-09-02,twitter,Amazon.com Inc.,AMZN,"AMZN new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.121
+tw_0032,2026-09-02,twitter,Exxon Mobil Corp.,XOM,"XOM getting hit hard, sanctions headlines are brutal rn",-0.6705,Geopolitical,8,0.7603,rule_based,0.121
+tw_0048,2026-09-02,twitter,Alphabet Inc.,GOOGL,"GOOGL getting hit hard, sanctions headlines are brutal rn",-0.6705,Geopolitical,8,0.7603,rule_based,0.117
+tw_0366,2026-09-02,twitter,Microsoft Corp.,MSFT,"MSFT bleeding, rates up again and nobody wants risk rn",-0.2732,Other,3,0.4366,rule_based,0.091
+tw_0301,2026-09-02,twitter,Procter & Gamble Co.,PG,PG flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.053
+tw_0279,2026-09-02,twitter,Procter & Gamble Co.,PG,"PG ripping on the inflation print, rate cut hopes back on",0.1779,Macroeconomic,5,0.514,rule_based,0.116
+news_0322,2026-09-02,news,Johnson & Johnson,JNJ,Johnson & Johnson shares dip after its new product launch draws a lukewarm reception.,0.296,Product Launch,5,0.648,rule_based,0.225
+tw_0206,2026-09-02,twitter,Johnson & Johnson,JNJ,"JNJ crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.06
+tw_0164,2026-09-02,twitter,Procter & Gamble Co.,PG,"PG refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.048
+tw_0130,2026-09-02,twitter,Amazon.com Inc.,AMZN,"AMZN teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.101
+tw_0244,2026-09-02,twitter,Chevron Corp.,CVX,"CVX ripping on the inflation print, rate cut hopes back on",0.1779,Macroeconomic,5,0.514,rule_based,0.113
+tw_0006,2026-09-02,twitter,Alphabet Inc.,GOOGL,"GOOGL confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.082
+tw_0347,2026-09-03,twitter,Amazon.com Inc.,AMZN,"AMZN default risk headlines are scary, bonds cratering",-0.6486,Credit Event,8,0.7493,rule_based,0.086
+tw_0001,2026-09-03,twitter,Microsoft Corp.,MSFT,"MSFT refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.047
+tw_0016,2026-09-03,twitter,Coca-Cola Co.,KO,"KO ripping on the inflation print, rate cut hopes back on",0.1779,Macroeconomic,5,0.514,rule_based,0.109
+tw_0077,2026-09-03,twitter,Johnson & Johnson,JNJ,"JNJ 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.07
+tw_0108,2026-09-03,twitter,Apple Inc.,AAPL,"AAPL earnings next week, setting price alerts",0.0,Other,3,0.3,rule_based,0.048
+tw_0120,2026-09-03,twitter,Amazon.com Inc.,AMZN,"AMZN confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.083
+tw_0170,2026-09-03,twitter,Apple Inc.,AAPL,AAPL launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.102
+tw_0218,2026-09-03,twitter,NVIDIA Corp.,NVDA,"NVDA missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.088
+tw_0276,2026-09-03,twitter,Caterpillar Inc.,CAT,"CAT teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.098
+tw_0284,2026-09-03,twitter,Caterpillar Inc.,CAT,"CAT ripping on the inflation print, rate cut hopes back on",0.1779,Macroeconomic,5,0.514,rule_based,0.108
+news_0183,2026-09-03,news,Johnson & Johnson,JNJ,Johnson & Johnson declares bankruptcy protection as default on senior debt becomes imminent.,-0.3612,Credit Event,8,0.7556,rule_based,0.106
+tw_0352,2026-09-03,twitter,Coca-Cola Co.,KO,KO flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.05
+tw_0431,2026-09-03,twitter,NVIDIA Corp.,NVDA,"NVDA confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.078
+news_0110,2026-09-03,news,Apple Inc.,AAPL,"Apple Inc. beats quarterly earnings expectations, shares tick higher on the print.",0.296,Other,3,0.448,rule_based,0.116
+tw_0468,2026-09-04,twitter,Apple Inc.,AAPL,"AAPL 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.059
+tw_0433,2026-09-04,twitter,Bank of America Corp.,BAC,BAC launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.104
+tw_0234,2026-09-04,twitter,Boeing Co.,BA,"BA up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.095
+tw_0282,2026-09-04,twitter,Apple Inc.,AAPL,"AAPL teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.102
+tw_0196,2026-09-04,twitter,Pfizer Inc.,PFE,"PFE up on the ceasefire news, tensions finally cooling off #markets",-0.4019,Geopolitical,6,0.7009,rule_based,0.095
+news_0090,2026-09-04,news,Apple Inc.,AAPL,Apple Inc. rallies as easing geopolitical tensions revive trade talks in key export markets.,0.1779,Geopolitical,6,0.5889,rule_based,0.142
+tw_0337,2026-09-04,twitter,Exxon Mobil Corp.,XOM,XOM launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.103
+news_0145,2026-09-04,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. shares drop on fears of a covenant breach following weak quarterly cash flow.,-0.6808,Credit Event,7,0.7654,rule_based,0.197
+news_0330,2026-09-05,news,Procter & Gamble Co.,PG,"Procter & Gamble Co. beats quarterly earnings expectations, shares tick higher on the print.",0.296,Other,3,0.448,rule_based,0.109
+news_0089,2026-09-05,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. schedules a product showcase event for investors and press next month.,0.0,Product Launch,3,0.5,rule_based,0.07
+tw_0312,2026-09-05,twitter,Microsoft Corp.,MSFT,inflation data wrecking MSFT premarket,0.0,Macroeconomic,4,0.425,rule_based,0.042
+news_0233,2026-09-05,news,Alphabet Inc.,GOOGL,Alphabet Inc. refinances a portion of its debt load at prevailing market rates.,-0.3612,Credit Event,6,0.6056,rule_based,0.101
+tw_0353,2026-09-05,twitter,Alphabet Inc.,GOOGL,"GOOGL new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.121
+news_0029,2026-09-05,news,Bank of America Corp.,BAC,Bank of America Corp. shares dip after its new product launch draws a lukewarm reception.,0.296,Product Launch,5,0.648,rule_based,0.107
+tw_0369,2026-09-05,twitter,Chevron Corp.,CVX,"CVX missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.088
+tw_0181,2026-09-05,twitter,Exxon Mobil Corp.,XOM,"XOM ripping on the inflation print, rate cut hopes back on",0.1779,Macroeconomic,5,0.514,rule_based,0.112
+tw_0305,2026-09-05,twitter,Exxon Mobil Corp.,XOM,"XOM 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.057
+tw_0255,2026-09-05,twitter,Apple Inc.,AAPL,AAPL launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.297
+news_0204,2026-09-05,news,Microsoft Corp.,MSFT,Microsoft Corp. rallies after stronger-than-expected GDP growth boosts consumer spending outlook.,0.5994,Macroeconomic,6,0.7247,rule_based,0.205
+tw_0158,2026-09-05,twitter,Microsoft Corp.,MSFT,"MSFT deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.109
+tw_0155,2026-09-05,twitter,Johnson & Johnson,JNJ,"JNJ new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.21
+tw_0042,2026-09-05,twitter,Johnson & Johnson,JNJ,"JNJ earnings next week, setting price alerts",0.0,Other,3,0.3,rule_based,0.126
+tw_0378,2026-09-05,twitter,Exxon Mobil Corp.,XOM,"XOM teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.137
+news_0177,2026-09-05,news,Caterpillar Inc.,CAT,Caterpillar Inc. schedules a product showcase event for investors and press next month.,0.0,Product Launch,3,0.5,rule_based,0.078
+tw_0009,2026-09-06,twitter,Exxon Mobil Corp.,XOM,"war fears tanking XOM today, ugly tape",-0.875,Geopolitical,9,0.775,rule_based,0.094
+tw_0172,2026-09-06,twitter,Boeing Co.,BA,"BA earnings next week, setting price alerts",0.0,Other,3,0.3,rule_based,0.224
+tw_0403,2026-09-06,twitter,Amazon.com Inc.,AMZN,"AMZN refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.096
+tw_0367,2026-09-06,twitter,Bank of America Corp.,BAC,"BAC confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.171
+tw_0358,2026-09-06,twitter,NVIDIA Corp.,NVDA,"NVDA bleeding, rates up again and nobody wants risk rn",-0.2732,Other,3,0.4366,rule_based,0.112
+tw_0328,2026-09-06,twitter,Procter & Gamble Co.,PG,"PG missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.098
+tw_0225,2026-09-06,twitter,Alphabet Inc.,GOOGL,GOOGL launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.112
+tw_0245,2026-09-06,twitter,Amazon.com Inc.,AMZN,AMZN flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.057
+news_0245,2026-09-06,news,Caterpillar Inc.,CAT,Caterpillar Inc. credit outlook upgraded after a strong track record of debt repayment.,0.5267,Credit Event,7,0.7633,rule_based,0.162
+news_0201,2026-09-06,news,Boeing Co.,BA,Boeing Co. shares dip after its new product launch draws a lukewarm reception.,0.296,Product Launch,5,0.648,rule_based,0.146
+news_0012,2026-09-06,news,Chevron Corp.,CVX,Chevron Corp. refinances a portion of its debt load at prevailing market rates.,-0.3612,Credit Event,6,0.6056,rule_based,0.143
+news_0272,2026-09-06,news,Pfizer Inc.,PFE,"Pfizer Inc. merger talks collapse, deal uncertainty weighs heavily on the stock.",-0.6808,Merger/Acquisition,7,0.8404,rule_based,0.13
+tw_0292,2026-09-06,twitter,Exxon Mobil Corp.,XOM,"XOM confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.085
+news_0261,2026-09-06,news,Bank of America Corp.,BAC,Bank of America Corp. shares climb as cooling inflation data raises hopes of interest rate cuts.,0.7003,Macroeconomic,6,0.85,rule_based,0.199
+news_0270,2026-09-06,news,NVIDIA Corp.,NVDA,NVIDIA Corp. confirms it is in early-stage discussions regarding a potential strategic deal.,0.0,Merger/Acquisition,4,0.425,rule_based,0.071
+tw_0316,2026-09-06,twitter,Bank of America Corp.,BAC,"BAC 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.056
+news_0296,2026-09-07,news,JPMorgan Chase & Co.,JPM,"JPMorgan Chase & Co. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.17
+tw_0491,2026-09-07,twitter,Bank of America Corp.,BAC,"BAC refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.05
+tw_0466,2026-09-07,twitter,Johnson & Johnson,JNJ,inflation data wrecking JNJ premarket,0.0,Macroeconomic,4,0.425,rule_based,0.345
+tw_0440,2026-09-07,twitter,Alphabet Inc.,GOOGL,GOOGL launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.155
+tw_0413,2026-09-07,twitter,NVIDIA Corp.,NVDA,"NVDA 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.071
+tw_0474,2026-09-07,twitter,Caterpillar Inc.,CAT,"CAT default risk headlines are scary, bonds cratering",-0.6486,Credit Event,8,0.7493,rule_based,0.102
+tw_0167,2026-09-07,twitter,JPMorgan Chase & Co.,JPM,"JPM earnings next week, setting price alerts",0.0,Other,3,0.3,rule_based,0.05
+tw_0013,2026-09-07,twitter,Bank of America Corp.,BAC,"BAC up on the ceasefire news, tensions finally cooling off #markets",-0.4019,Geopolitical,6,0.7009,rule_based,0.103
+news_0288,2026-09-07,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. refinances a portion of its debt load at prevailing market rates.,-0.3612,Credit Event,6,0.6056,rule_based,0.114
+news_0162,2026-09-07,news,Boeing Co.,BA,Boeing Co. warns of margin pressure as inflation and rising interest rates squeeze costs.,0.1027,Macroeconomic,6,0.5514,rule_based,0.154
+news_0066,2026-09-07,news,NVIDIA Corp.,NVDA,NVIDIA Corp. credit outlook upgraded after a strong track record of debt repayment.,0.5267,Credit Event,7,0.7633,rule_based,0.164
+tw_0297,2026-09-07,twitter,Caterpillar Inc.,CAT,"CAT up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.103
+news_0046,2026-09-07,news,NVIDIA Corp.,NVDA,NVIDIA Corp. shares slide as new sanctions target its overseas operations amid escalating tensions.,-0.128,Geopolitical,7,0.564,rule_based,0.133
+news_0338,2026-09-08,news,Chevron Corp.,CVX,Chevron Corp. schedules a product showcase event for investors and press next month.,0.0,Product Launch,3,0.5,rule_based,0.071
+news_0333,2026-09-08,news,Caterpillar Inc.,CAT,Caterpillar Inc. announces routine changes to its board of directors.,0.0,Other,3,0.3,rule_based,0.059
+news_0083,2026-09-08,news,Chevron Corp.,CVX,Chevron Corp. shares fall as weak jobs data stokes recession fears across the sector.,-0.743,Macroeconomic,6,0.85,rule_based,0.196
+news_0069,2026-09-08,news,Chevron Corp.,CVX,Chevron Corp. rallies as easing geopolitical tensions revive trade talks in key export markets.,0.1779,Geopolitical,6,0.5889,rule_based,0.158
+news_0036,2026-09-08,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. analysts await the next central bank rate decision before revising guidance.,0.1027,Macroeconomic,4,0.4764,rule_based,0.116
+tw_0388,2026-09-08,twitter,Apple Inc.,AAPL,AAPL launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.108
+tw_0361,2026-09-08,twitter,Boeing Co.,BA,"BA confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.086
+tw_0321,2026-09-08,twitter,Amazon.com Inc.,AMZN,AMZN flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.055
+tw_0314,2026-09-08,twitter,Microsoft Corp.,MSFT,"MSFT refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.05
+tw_0168,2026-09-08,twitter,Amazon.com Inc.,AMZN,"AMZN missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.097
+news_0017,2026-09-08,news,NVIDIA Corp.,NVDA,"NVIDIA Corp. beats quarterly earnings expectations, shares tick higher on the print.",0.296,Other,3,0.448,rule_based,0.107
+tw_0019,2026-09-08,twitter,Alphabet Inc.,GOOGL,"GOOGL up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.096
+tw_0180,2026-09-09,twitter,Coca-Cola Co.,KO,"KO missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.094
+news_0112,2026-09-09,news,Bank of America Corp.,BAC,Bank of America Corp. issues a statement on its exposure to ongoing geopolitical developments.,0.0,Geopolitical,5,0.425,rule_based,0.074
+tw_0214,2026-09-09,twitter,Microsoft Corp.,MSFT,"MSFT crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.234
+tw_0163,2026-09-09,twitter,Johnson & Johnson,JNJ,"JNJ up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.133
+tw_0110,2026-09-09,twitter,Amazon.com Inc.,AMZN,"AMZN crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.065
+news_0071,2026-09-09,news,Caterpillar Inc.,CAT,"Caterpillar Inc. unveils its next-generation product line, analysts praise the innovation.",0.7351,Product Launch,5,0.85,rule_based,0.14
+news_0075,2026-09-09,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. shares gain after a ceasefire agreement reduces regional supply-chain risk.,0.7717,Geopolitical,7,0.85,rule_based,0.217
+news_0079,2026-09-09,news,Boeing Co.,BA,Boeing Co. schedules a product showcase event for investors and press next month.,0.0,Product Launch,3,0.5,rule_based,0.067
+news_0116,2026-09-09,news,Bank of America Corp.,BAC,"Bank of America Corp. beats quarterly earnings expectations, shares tick higher on the print.",0.296,Other,3,0.448,rule_based,0.105
+news_0170,2026-09-09,news,Alphabet Inc.,GOOGL,"Alphabet Inc. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.143
+news_0228,2026-09-09,news,Apple Inc.,AAPL,Apple Inc. analysts await the next central bank rate decision before revising guidance.,0.1027,Macroeconomic,4,0.4764,rule_based,0.104
+news_0255,2026-09-09,news,Procter & Gamble Co.,PG,Procter & Gamble Co. confirms it is in early-stage discussions regarding a potential strategic deal.,0.0,Merger/Acquisition,4,0.425,rule_based,0.073
+hi_04,2026-09-10,news,Chevron Corp.,CVX,"Chevron Corp. declares a state of emergency as sanctions and open war in a core operating region force a full shutdown, with the company warning of default risk on regional debt obligations.",-0.91,Geopolitical,9,0.925,rule_based,0.285
+tw_0191,2026-09-10,twitter,Apple Inc.,AAPL,"AAPL missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.092
+tw_0129,2026-09-10,twitter,Pfizer Inc.,PFE,PFE launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.103
+tw_0354,2026-09-10,twitter,Bank of America Corp.,BAC,"BAC 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.075
+tw_0084,2026-09-10,twitter,Coca-Cola Co.,KO,"KO crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.058
+tw_0368,2026-09-10,twitter,Bank of America Corp.,BAC,"BAC 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.052
+tw_0399,2026-09-10,twitter,Coca-Cola Co.,KO,"KO earnings next week, setting price alerts",0.0,Other,3,0.3,rule_based,0.043
+tw_0436,2026-09-10,twitter,Apple Inc.,AAPL,"war fears tanking AAPL today, ugly tape",-0.875,Geopolitical,9,0.775,rule_based,0.085
+news_0291,2026-09-10,news,Johnson & Johnson,JNJ,Johnson & Johnson analysts await the next central bank rate decision before revising guidance.,0.1027,Macroeconomic,4,0.4764,rule_based,0.107
+news_0277,2026-09-10,news,Coca-Cola Co.,KO,"Coca-Cola Co. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.14
+tw_0248,2026-09-10,twitter,Amazon.com Inc.,AMZN,"AMZN up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.094
+news_0254,2026-09-10,news,Pfizer Inc.,PFE,Pfizer Inc. shares dip after its new product launch draws a lukewarm reception.,0.296,Product Launch,5,0.648,rule_based,0.088
+news_0220,2026-09-10,news,Amazon.com Inc.,AMZN,Amazon.com Inc. analysts await the next central bank rate decision before revising guidance.,0.1027,Macroeconomic,4,0.4764,rule_based,0.102
+news_0267,2026-09-10,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. refinances a portion of its debt load at prevailing market rates.,-0.3612,Credit Event,6,0.6056,rule_based,0.104
+news_0136,2026-09-10,news,NVIDIA Corp.,NVDA,"NVIDIA Corp. beats quarterly earnings expectations, shares tick higher on the print.",0.296,Other,3,0.448,rule_based,0.097
+news_0027,2026-09-10,news,Coca-Cola Co.,KO,Coca-Cola Co. rallies as easing geopolitical tensions revive trade talks in key export markets.,0.1779,Geopolitical,6,0.5889,rule_based,0.144
+news_0015,2026-09-10,news,Microsoft Corp.,MSFT,Microsoft Corp. shares fall as regulators block its proposed acquisition on antitrust grounds.,-0.1779,Merger/Acquisition,4,0.514,rule_based,0.123
+tw_0074,2026-09-10,twitter,Microsoft Corp.,MSFT,"MSFT confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.086
+tw_0499,2026-09-11,twitter,Caterpillar Inc.,CAT,"CAT ripping on the inflation print, rate cut hopes back on",0.1779,Macroeconomic,5,0.514,rule_based,0.117
+tw_0233,2026-09-11,twitter,Microsoft Corp.,MSFT,"MSFT missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.088
+tw_0136,2026-09-11,twitter,Caterpillar Inc.,CAT,"CAT missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.083
+tw_0134,2026-09-11,twitter,Apple Inc.,AAPL,"AAPL missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.081
+tw_0044,2026-09-11,twitter,Procter & Gamble Co.,PG,"PG missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.082
+tw_0027,2026-09-11,twitter,Apple Inc.,AAPL,"AAPL default risk headlines are scary, bonds cratering",-0.6486,Credit Event,8,0.7493,rule_based,0.084
+tw_0288,2026-09-11,twitter,NVIDIA Corp.,NVDA,"NVDA refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.046
+news_0303,2026-09-11,news,Boeing Co.,BA,"Boeing Co. to acquire a smaller rival in a multi-billion dollar deal, shares jump on synergy hopes.",0.6124,Merger/Acquisition,6,0.8062,rule_based,0.14
+news_0297,2026-09-11,news,Procter & Gamble Co.,PG,Procter & Gamble Co. announces routine changes to its board of directors.,0.0,Other,3,0.3,rule_based,0.059
+news_0292,2026-09-11,news,Boeing Co.,BA,Boeing Co. confirms it is in early-stage discussions regarding a potential strategic deal.,0.0,Merger/Acquisition,4,0.425,rule_based,0.063
+news_0331,2026-09-12,news,Apple Inc.,AAPL,Apple Inc. schedules a product showcase event for investors and press next month.,0.0,Product Launch,3,0.5,rule_based,0.057
+tw_0476,2026-09-12,twitter,Johnson & Johnson,JNJ,"JNJ new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.113
+tw_0444,2026-09-12,twitter,Johnson & Johnson,JNJ,"JNJ new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.099
+tw_0360,2026-09-12,twitter,NVIDIA Corp.,NVDA,"NVDA 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.053
+news_0265,2026-09-12,news,Pfizer Inc.,PFE,Pfizer Inc. shares drop on fears of a covenant breach following weak quarterly cash flow.,-0.6808,Credit Event,7,0.7654,rule_based,0.148
+tw_0280,2026-09-12,twitter,Exxon Mobil Corp.,XOM,"XOM up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.086
+tw_0177,2026-09-12,twitter,Alphabet Inc.,GOOGL,"GOOGL new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.105
+tw_0113,2026-09-12,twitter,Procter & Gamble Co.,PG,"PG 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.053
+tw_0335,2026-09-12,twitter,Pfizer Inc.,PFE,"PFE up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.08
+tw_0043,2026-09-12,twitter,Bank of America Corp.,BAC,"BAC crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.05
+tw_0049,2026-09-12,twitter,Coca-Cola Co.,KO,"KO teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.091
+news_0182,2026-09-12,news,Bank of America Corp.,BAC,Bank of America Corp. announces routine changes to its board of directors.,0.0,Other,3,0.3,rule_based,0.054
+news_0102,2026-09-12,news,Coca-Cola Co.,KO,Coca-Cola Co. rallies after stronger-than-expected GDP growth boosts consumer spending outlook.,0.5994,Macroeconomic,6,0.7247,rule_based,0.113
+news_0203,2026-09-12,news,NVIDIA Corp.,NVDA,NVIDIA Corp. announces routine changes to its board of directors.,0.0,Other,3,0.3,rule_based,0.048
+news_0013,2026-09-12,news,NVIDIA Corp.,NVDA,"NVIDIA Corp. is set to report quarterly earnings next week, in line with analyst expectations.",0.0,Other,3,0.3,rule_based,0.063
+news_0080,2026-09-12,news,Coca-Cola Co.,KO,"Coca-Cola Co. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.131
+tw_0021,2026-09-13,twitter,Pfizer Inc.,PFE,"PFE deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.089
+tw_0052,2026-09-13,twitter,Exxon Mobil Corp.,XOM,"war fears tanking XOM today, ugly tape",-0.875,Geopolitical,9,0.775,rule_based,0.072
+tw_0486,2026-09-13,twitter,NVIDIA Corp.,NVDA,"NVDA default risk headlines are scary, bonds cratering",-0.6486,Credit Event,8,0.7493,rule_based,0.074
+tw_0104,2026-09-13,twitter,Bank of America Corp.,BAC,"BAC new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.101
+tw_0179,2026-09-13,twitter,Exxon Mobil Corp.,XOM,XOM launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.088
+tw_0222,2026-09-13,twitter,JPMorgan Chase & Co.,JPM,JPM launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.077
+tw_0236,2026-09-13,twitter,Apple Inc.,AAPL,"war fears tanking AAPL today, ugly tape",-0.875,Geopolitical,9,0.775,rule_based,0.069
+tw_0299,2026-09-13,twitter,Alphabet Inc.,GOOGL,"GOOGL new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.096
+tw_0331,2026-09-13,twitter,Johnson & Johnson,JNJ,JNJ flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.058
+tw_0055,2026-09-13,twitter,Coca-Cola Co.,KO,"KO 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.107
+tw_0364,2026-09-13,twitter,Pfizer Inc.,PFE,"PFE crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.054
+news_0054,2026-09-13,news,Bank of America Corp.,BAC,Bank of America Corp. confirms it is in early-stage discussions regarding a potential strategic deal.,0.0,Merger/Acquisition,4,0.425,rule_based,0.058
+news_0001,2026-09-13,news,NVIDIA Corp.,NVDA,NVIDIA Corp. analysts await the next central bank rate decision before revising guidance.,0.1027,Macroeconomic,4,0.4764,rule_based,0.085
+news_0019,2026-09-13,news,Exxon Mobil Corp.,XOM,"Exxon Mobil Corp. merger talks collapse, deal uncertainty weighs heavily on the stock.",-0.6808,Merger/Acquisition,7,0.8404,rule_based,0.103
+news_0030,2026-09-13,news,Boeing Co.,BA,Boeing Co. issues a statement on its exposure to ongoing geopolitical developments.,0.0,Geopolitical,5,0.425,rule_based,0.054
+news_0084,2026-09-13,news,NVIDIA Corp.,NVDA,"NVIDIA Corp. beats quarterly earnings expectations, shares tick higher on the print.",0.296,Other,3,0.448,rule_based,0.078
+news_0093,2026-09-13,news,Caterpillar Inc.,CAT,Caterpillar Inc. shares slide as new sanctions target its overseas operations amid escalating tensions.,-0.128,Geopolitical,7,0.564,rule_based,0.1
+tw_0351,2026-09-13,twitter,Boeing Co.,BA,"BA refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.038
+news_0289,2026-09-13,news,Bank of America Corp.,BAC,"Bank of America Corp. beats quarterly earnings expectations, shares tick higher on the print.",0.296,Other,3,0.448,rule_based,0.077
+news_0300,2026-09-13,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. warns of margin pressure as inflation and rising interest rates squeeze costs.,0.1027,Macroeconomic,6,0.5514,rule_based,0.123
+news_0347,2026-09-13,news,Apple Inc.,AAPL,Apple Inc. rallies after stronger-than-expected GDP growth boosts consumer spending outlook.,0.5994,Macroeconomic,6,0.7247,rule_based,0.104
+news_0276,2026-09-13,news,Pfizer Inc.,PFE,Pfizer Inc. analysts await the next central bank rate decision before revising guidance.,0.1027,Macroeconomic,4,0.4764,rule_based,0.08
+news_0192,2026-09-14,news,Apple Inc.,AAPL,Apple Inc. issues a statement on its exposure to ongoing geopolitical developments.,0.0,Geopolitical,5,0.425,rule_based,0.048
+news_0064,2026-09-14,news,Coca-Cola Co.,KO,Coca-Cola Co. shares fall as regulators block its proposed acquisition on antitrust grounds.,-0.1779,Merger/Acquisition,4,0.514,rule_based,0.089
+news_0179,2026-09-14,news,Procter & Gamble Co.,PG,"Procter & Gamble Co. merger talks collapse, deal uncertainty weighs heavily on the stock.",-0.6808,Merger/Acquisition,7,0.8404,rule_based,0.096
+tw_0174,2026-09-14,twitter,JPMorgan Chase & Co.,JPM,"JPM 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.043
+news_0213,2026-09-14,news,Microsoft Corp.,MSFT,Microsoft Corp. confirms it is in early-stage discussions regarding a potential strategic deal.,0.0,Merger/Acquisition,4,0.425,rule_based,0.048
+news_0223,2026-09-14,news,Boeing Co.,BA,Boeing Co. shares fall as weak jobs data stokes recession fears across the sector.,-0.743,Macroeconomic,6,0.85,rule_based,0.119
+news_0252,2026-09-14,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. declares bankruptcy protection as default on senior debt becomes imminent.,-0.3612,Credit Event,8,0.7556,rule_based,0.074
+tw_0213,2026-09-14,twitter,Bank of America Corp.,BAC,"BAC missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.069
+news_0207,2026-09-14,news,NVIDIA Corp.,NVDA,NVIDIA Corp. refinances a portion of its debt load at prevailing market rates.,-0.3612,Credit Event,6,0.6056,rule_based,0.071
+tw_0287,2026-09-14,twitter,Bank of America Corp.,BAC,"BAC confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.056
+tw_0437,2026-09-14,twitter,Procter & Gamble Co.,PG,PG launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.071
+tw_0473,2026-09-14,twitter,Apple Inc.,AAPL,AAPL flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.036
+news_0140,2026-09-15,news,NVIDIA Corp.,NVDA,NVIDIA Corp. confirms it is in early-stage discussions regarding a potential strategic deal.,0.0,Merger/Acquisition,4,0.425,rule_based,0.045
+news_0043,2026-09-15,news,Chevron Corp.,CVX,"Chevron Corp. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.093
+news_0004,2026-09-15,news,Johnson & Johnson,JNJ,Johnson & Johnson issues a statement on its exposure to ongoing geopolitical developments.,0.0,Geopolitical,5,0.425,rule_based,0.045
+news_0137,2026-09-15,news,NVIDIA Corp.,NVDA,NVIDIA Corp. bonds slump after a rating agency flags default risk amid mounting debt obligations.,-0.5574,Credit Event,8,0.8537,rule_based,0.087
+news_0232,2026-09-15,news,Apple Inc.,AAPL,"Apple Inc. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.093
+tw_0485,2026-09-15,twitter,Boeing Co.,BA,"BA up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.063
+news_0126,2026-09-15,news,Bank of America Corp.,BAC,"Bank of America Corp. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.107
+tw_0357,2026-09-15,twitter,Johnson & Johnson,JNJ,"JNJ deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.064
+tw_0307,2026-09-15,twitter,Coca-Cola Co.,KO,KO launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.123
+tw_0182,2026-09-15,twitter,Amazon.com Inc.,AMZN,inflation data wrecking AMZN premarket,0.0,Macroeconomic,4,0.425,rule_based,0.032
+tw_0176,2026-09-15,twitter,Boeing Co.,BA,"BA missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.068
+tw_0165,2026-09-15,twitter,Boeing Co.,BA,"BA teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.066
+tw_0160,2026-09-15,twitter,Apple Inc.,AAPL,"AAPL up on the ceasefire news, tensions finally cooling off #markets",-0.4019,Geopolitical,6,0.7009,rule_based,0.062
+tw_0033,2026-09-15,twitter,Pfizer Inc.,PFE,"PFE ripping on the inflation print, rate cut hopes back on",0.1779,Macroeconomic,5,0.514,rule_based,0.071
+tw_0332,2026-09-15,twitter,Coca-Cola Co.,KO,"KO new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.074
+news_0010,2026-09-16,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. delays its flagship product launch amid ongoing supply chain issues.,0.1027,Product Launch,4,0.5514,rule_based,0.066
+news_0039,2026-09-16,news,Caterpillar Inc.,CAT,"Caterpillar Inc. unveils its next-generation product line, analysts praise the innovation.",0.7351,Product Launch,5,0.85,rule_based,0.08
+news_0148,2026-09-16,news,Bank of America Corp.,BAC,Bank of America Corp. refinances a portion of its debt load at prevailing market rates.,-0.3612,Credit Event,6,0.6056,rule_based,0.067
+news_0188,2026-09-16,news,NVIDIA Corp.,NVDA,"NVIDIA Corp. beats quarterly earnings expectations, shares tick higher on the print.",0.296,Other,3,0.448,rule_based,0.062
+news_0279,2026-09-16,news,Coca-Cola Co.,KO,Coca-Cola Co. shares surge on takeover speculation from a larger industry player.,0.296,Merger/Acquisition,5,0.573,rule_based,0.053
+news_0107,2026-09-16,news,Microsoft Corp.,MSFT,Microsoft Corp. shares dip after its new product launch draws a lukewarm reception.,0.296,Product Launch,5,0.648,rule_based,0.055
+tw_0203,2026-09-16,twitter,Coca-Cola Co.,KO,"KO getting hit hard, sanctions headlines are brutal rn",-0.6705,Geopolitical,8,0.7603,rule_based,0.071
+tw_0169,2026-09-16,twitter,Exxon Mobil Corp.,XOM,"XOM refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.029
+tw_0226,2026-09-16,twitter,Apple Inc.,AAPL,AAPL launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.061
+tw_0448,2026-09-16,twitter,JPMorgan Chase & Co.,JPM,JPM flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.03
+tw_0017,2026-09-16,twitter,Chevron Corp.,CVX,inflation data wrecking CVX premarket,0.0,Macroeconomic,4,0.425,rule_based,0.025
+news_0315,2026-09-16,news,Chevron Corp.,CVX,Chevron Corp. analysts await the next central bank rate decision before revising guidance.,0.1027,Macroeconomic,4,0.4764,rule_based,0.059
+tw_0051,2026-09-16,twitter,Alphabet Inc.,GOOGL,GOOGL flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.028
+tw_0227,2026-09-17,twitter,Apple Inc.,AAPL,"AAPL deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.057
+news_0024,2026-09-17,news,Amazon.com Inc.,AMZN,Amazon.com Inc. shares climb as cooling inflation data raises hopes of interest rate cuts.,0.7003,Macroeconomic,6,0.85,rule_based,0.101
+tw_0262,2026-09-17,twitter,Caterpillar Inc.,CAT,CAT flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.03
+tw_0428,2026-09-17,twitter,Chevron Corp.,CVX,"CVX teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.058
+tw_0465,2026-09-17,twitter,NVIDIA Corp.,NVDA,"NVDA refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.028
+tw_0091,2026-09-17,twitter,Microsoft Corp.,MSFT,"MSFT bankruptcy talk trending, not good",-0.3412,Credit Event,8,0.5956,rule_based,0.045
+news_0312,2026-09-17,news,Alphabet Inc.,GOOGL,Alphabet Inc. credit outlook upgraded after a strong track record of debt repayment.,0.5267,Credit Event,7,0.7633,rule_based,0.09
+news_0280,2026-09-17,news,Alphabet Inc.,GOOGL,Alphabet Inc. warns of disruption as conflict in a key sourcing region threatens its supply chain.,-0.7783,Geopolitical,8,0.85,rule_based,0.104
+news_0215,2026-09-17,news,Microsoft Corp.,MSFT,Microsoft Corp. shares pop after its newest product sells out within hours of launch.,0.296,Product Launch,4,0.648,rule_based,0.05
+news_0134,2026-09-17,news,Caterpillar Inc.,CAT,Caterpillar Inc. delays its flagship product launch amid ongoing supply chain issues.,0.1027,Product Launch,4,0.5514,rule_based,0.117
+news_0088,2026-09-17,news,Alphabet Inc.,GOOGL,"Alphabet Inc. beats quarterly earnings expectations, shares tick higher on the print.",0.296,Other,3,0.448,rule_based,0.096
+news_0082,2026-09-17,news,Alphabet Inc.,GOOGL,Alphabet Inc. credit outlook upgraded after a strong track record of debt repayment.,0.5267,Credit Event,7,0.7633,rule_based,0.101
+news_0283,2026-09-17,news,Alphabet Inc.,GOOGL,Alphabet Inc. shares drop on fears of a covenant breach following weak quarterly cash flow.,-0.6808,Credit Event,7,0.7654,rule_based,0.103
+news_0006,2026-09-18,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. delays its flagship product launch amid ongoing supply chain issues.,0.1027,Product Launch,4,0.5514,rule_based,0.066
+news_0132,2026-09-18,news,Coca-Cola Co.,KO,Coca-Cola Co. confirms it is in early-stage discussions regarding a potential strategic deal.,0.0,Merger/Acquisition,4,0.425,rule_based,0.043
+news_0135,2026-09-18,news,Boeing Co.,BA,Boeing Co. shares fall as regulators block its proposed acquisition on antitrust grounds.,-0.1779,Merger/Acquisition,4,0.514,rule_based,0.075
+news_0217,2026-09-18,news,NVIDIA Corp.,NVDA,"NVIDIA Corp. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.089
+news_0218,2026-09-18,news,Pfizer Inc.,PFE,Pfizer Inc. refinances a portion of its debt load at prevailing market rates.,-0.3612,Credit Event,6,0.6056,rule_based,0.062
+news_0229,2026-09-18,news,Coca-Cola Co.,KO,Coca-Cola Co. confirms it is in early-stage discussions regarding a potential strategic deal.,0.0,Merger/Acquisition,4,0.425,rule_based,0.042
+news_0257,2026-09-18,news,Procter & Gamble Co.,PG,Procter & Gamble Co. shares slide as new sanctions target its overseas operations amid escalating tensions.,-0.128,Geopolitical,7,0.564,rule_based,0.088
+news_0336,2026-09-18,news,Boeing Co.,BA,Boeing Co. delays its flagship product launch amid ongoing supply chain issues.,0.1027,Product Launch,4,0.5514,rule_based,0.059
+news_0202,2026-09-18,news,Johnson & Johnson,JNJ,Johnson & Johnson issues a statement on its exposure to ongoing geopolitical developments.,0.0,Geopolitical,5,0.425,rule_based,0.041
+tw_0300,2026-09-18,twitter,Caterpillar Inc.,CAT,CAT launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.061
+tw_0380,2026-09-18,twitter,Coca-Cola Co.,KO,KO launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.057
+tw_0088,2026-09-18,twitter,Chevron Corp.,CVX,"CVX deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.061
+tw_0105,2026-09-18,twitter,Exxon Mobil Corp.,XOM,"XOM bankruptcy talk trending, not good",-0.3412,Credit Event,8,0.5956,rule_based,0.045
+tw_0153,2026-09-18,twitter,Caterpillar Inc.,CAT,"CAT refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.028
+tw_0156,2026-09-18,twitter,Amazon.com Inc.,AMZN,"war fears tanking AMZN today, ugly tape",-0.875,Geopolitical,9,0.775,rule_based,0.05
+tw_0209,2026-09-18,twitter,Amazon.com Inc.,AMZN,"AMZN 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.036
+tw_0217,2026-09-18,twitter,Procter & Gamble Co.,PG,PG launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.057
+tw_0252,2026-09-18,twitter,Alphabet Inc.,GOOGL,"GOOGL default risk headlines are scary, bonds cratering",-0.6486,Credit Event,8,0.7493,rule_based,0.051
+tw_0277,2026-09-18,twitter,Apple Inc.,AAPL,watching AAPL react to the geopolitical headlines this morning,0.0,Geopolitical,5,0.425,rule_based,0.032
+tw_0341,2026-09-18,twitter,Pfizer Inc.,PFE,"PFE new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.071
+tw_0393,2026-09-18,twitter,Alphabet Inc.,GOOGL,"GOOGL crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.035
+tw_0423,2026-09-18,twitter,NVIDIA Corp.,NVDA,"NVDA up on the ceasefire news, tensions finally cooling off #markets",-0.4019,Geopolitical,6,0.7009,rule_based,0.242
+tw_0068,2026-09-18,twitter,Boeing Co.,BA,"BA confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.109
+tw_0053,2026-09-18,twitter,Procter & Gamble Co.,PG,inflation data wrecking PG premarket,0.0,Macroeconomic,4,0.425,rule_based,0.048
+tw_0081,2026-09-19,twitter,Microsoft Corp.,MSFT,"MSFT up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.073
+news_0274,2026-09-19,news,Johnson & Johnson,JNJ,"Johnson & Johnson beats quarterly earnings expectations, shares tick higher on the print.",0.296,Other,3,0.448,rule_based,0.072
+news_0226,2026-09-19,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. bonds slump after a rating agency flags default risk amid mounting debt obligations.,-0.5574,Credit Event,8,0.8537,rule_based,0.092
+news_0199,2026-09-19,news,Microsoft Corp.,MSFT,Microsoft Corp. delays its flagship product launch amid ongoing supply chain issues.,0.1027,Product Launch,4,0.5514,rule_based,0.066
+news_0161,2026-09-19,news,Johnson & Johnson,JNJ,Johnson & Johnson schedules a product showcase event for investors and press next month.,0.0,Product Launch,3,0.5,rule_based,0.043
+tw_0426,2026-09-19,twitter,Pfizer Inc.,PFE,"PFE up on the ceasefire news, tensions finally cooling off #markets",-0.4019,Geopolitical,6,0.7009,rule_based,0.068
+tw_0109,2026-09-19,twitter,Bank of America Corp.,BAC,"BAC new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.077
+tw_0377,2026-09-19,twitter,NVIDIA Corp.,NVDA,NVDA launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.065
+tw_0384,2026-09-19,twitter,Boeing Co.,BA,"BA getting hit hard, sanctions headlines are brutal rn",-0.6705,Geopolitical,8,0.7603,rule_based,0.079
+news_0094,2026-09-19,news,NVIDIA Corp.,NVDA,NVIDIA Corp. announces routine changes to its board of directors.,0.0,Other,3,0.3,rule_based,0.039
+tw_0303,2026-09-19,twitter,NVIDIA Corp.,NVDA,"war fears tanking NVDA today, ugly tape",-0.875,Geopolitical,9,0.775,rule_based,0.058
+tw_0264,2026-09-19,twitter,Caterpillar Inc.,CAT,CAT flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.034
+tw_0020,2026-09-19,twitter,Alphabet Inc.,GOOGL,"GOOGL earnings next week, setting price alerts",0.0,Other,3,0.3,rule_based,0.03
+tw_0124,2026-09-19,twitter,Boeing Co.,BA,"BA teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.067
+tw_0056,2026-09-19,twitter,Johnson & Johnson,JNJ,"JNJ deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.066
+news_0087,2026-09-19,news,Amazon.com Inc.,AMZN,Amazon.com Inc. shares gain after a ceasefire agreement reduces regional supply-chain risk.,0.7717,Geopolitical,7,0.85,rule_based,0.122
+tw_0035,2026-09-19,twitter,JPMorgan Chase & Co.,JPM,"JPM bankruptcy talk trending, not good",-0.3412,Credit Event,8,0.5956,rule_based,0.055
+tw_0400,2026-09-20,twitter,Pfizer Inc.,PFE,"PFE crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.038
+tw_0429,2026-09-20,twitter,Bank of America Corp.,BAC,"BAC refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.032
+tw_0250,2026-09-20,twitter,JPMorgan Chase & Co.,JPM,"JPM missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.061
+tw_0375,2026-09-20,twitter,Alphabet Inc.,GOOGL,watching GOOGL react to the geopolitical headlines this morning,0.0,Geopolitical,5,0.425,rule_based,0.05
+tw_0024,2026-09-20,twitter,Exxon Mobil Corp.,XOM,"XOM confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.058
+tw_0036,2026-09-20,twitter,JPMorgan Chase & Co.,JPM,"JPM missed big, puts are free money rn",0.2732,Other,3,0.4366,rule_based,0.063
+tw_0066,2026-09-20,twitter,JPMorgan Chase & Co.,JPM,watching JPM react to the geopolitical headlines this morning,0.0,Geopolitical,5,0.425,rule_based,0.041
+tw_0080,2026-09-20,twitter,Amazon.com Inc.,AMZN,"AMZN earnings next week, setting price alerts",0.0,Other,3,0.3,rule_based,0.033
+tw_0115,2026-09-20,twitter,Amazon.com Inc.,AMZN,AMZN flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.035
+tw_0198,2026-09-20,twitter,Caterpillar Inc.,CAT,"CAT ripping on the inflation print, rate cut hopes back on",0.1779,Macroeconomic,5,0.514,rule_based,0.087
+tw_0304,2026-09-20,twitter,JPMorgan Chase & Co.,JPM,watching JPM react to the geopolitical headlines this morning,0.0,Geopolitical,5,0.425,rule_based,0.041
+tw_0338,2026-09-20,twitter,Chevron Corp.,CVX,"CVX crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.042
+news_0281,2026-09-20,news,Bank of America Corp.,BAC,Bank of America Corp. rallies after stronger-than-expected GDP growth boosts consumer spending outlook.,0.5994,Macroeconomic,6,0.7247,rule_based,0.1
+news_0286,2026-09-20,news,Coca-Cola Co.,KO,Coca-Cola Co. delays its flagship product launch amid ongoing supply chain issues.,0.1027,Product Launch,4,0.5514,rule_based,0.075
+news_0307,2026-09-20,news,Boeing Co.,BA,Boeing Co. warns of margin pressure as inflation and rising interest rates squeeze costs.,0.1027,Macroeconomic,6,0.5514,rule_based,0.106
+news_0304,2026-09-20,news,Pfizer Inc.,PFE,"Pfizer Inc. unveils its next-generation product line, analysts praise the innovation.",0.7351,Product Launch,5,0.85,rule_based,0.095
+news_0097,2026-09-20,news,Bank of America Corp.,BAC,Bank of America Corp. shares gain after a ceasefire agreement reduces regional supply-chain risk.,0.7717,Geopolitical,7,0.85,rule_based,0.151
+news_0165,2026-09-20,news,Procter & Gamble Co.,PG,Procter & Gamble Co. refinances a portion of its debt load at prevailing market rates.,-0.3612,Credit Event,6,0.6056,rule_based,0.086
+news_0020,2026-09-21,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. rallies as easing geopolitical tensions revive trade talks in key export markets.,0.1779,Geopolitical,6,0.5889,rule_based,0.119
+news_0309,2026-09-21,news,Alphabet Inc.,GOOGL,Alphabet Inc. analysts await the next central bank rate decision before revising guidance.,0.1027,Macroeconomic,4,0.4764,rule_based,0.086
+tw_0093,2026-09-21,twitter,Procter & Gamble Co.,PG,"PG deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.081
+tw_0283,2026-09-21,twitter,Amazon.com Inc.,AMZN,watching AMZN react to the geopolitical headlines this morning,0.0,Geopolitical,5,0.425,rule_based,0.045
+tw_0439,2026-09-21,twitter,Microsoft Corp.,MSFT,"MSFT up after the ratings upgrade, debt load looking manageable now",-0.3612,Credit Event,6,0.6056,rule_based,0.075
+tw_0449,2026-09-21,twitter,Caterpillar Inc.,CAT,"CAT up on the ceasefire news, tensions finally cooling off #markets",-0.4019,Geopolitical,6,0.7009,rule_based,0.077
+tw_0387,2026-09-21,twitter,Johnson & Johnson,JNJ,"JNJ ripping on the inflation print, rate cut hopes back on",0.1779,Macroeconomic,5,0.514,rule_based,0.095
+tw_0363,2026-09-22,twitter,JPMorgan Chase & Co.,JPM,"JPM confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.066
+news_0224,2026-09-22,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. refinances a portion of its debt load at prevailing market rates.,-0.3612,Credit Event,6,0.6056,rule_based,0.084
+tw_0401,2026-09-22,twitter,Chevron Corp.,CVX,"CVX 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.053
+news_0306,2026-09-22,news,Boeing Co.,BA,"Boeing Co. unveils its next-generation product line, analysts praise the innovation.",0.7351,Product Launch,5,0.85,rule_based,0.101
+news_0325,2026-09-22,news,Exxon Mobil Corp.,XOM,Exxon Mobil Corp. shares fall as weak jobs data stokes recession fears across the sector.,-0.743,Macroeconomic,6,0.85,rule_based,0.159
+news_0101,2026-09-22,news,Caterpillar Inc.,CAT,Caterpillar Inc. shares fall as regulators block its proposed acquisition on antitrust grounds.,-0.1779,Merger/Acquisition,4,0.514,rule_based,0.106
+news_0100,2026-09-22,news,Apple Inc.,AAPL,"Apple Inc. to acquire a smaller rival in a multi-billion dollar deal, shares jump on synergy hopes.",0.6124,Merger/Acquisition,6,0.8062,rule_based,0.133
+tw_0490,2026-09-22,twitter,Apple Inc.,AAPL,"AAPL ripping on the inflation print, rate cut hopes back on",0.1779,Macroeconomic,5,0.514,rule_based,0.106
+tw_0087,2026-09-22,twitter,Apple Inc.,AAPL,"AAPL bankruptcy talk trending, not good",-0.3412,Credit Event,8,0.5956,rule_based,0.072
+tw_0237,2026-09-22,twitter,Procter & Gamble Co.,PG,PG launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.092
+tw_0285,2026-09-22,twitter,Alphabet Inc.,GOOGL,"GOOGL ripping on the inflation print, rate cut hopes back on",0.1779,Macroeconomic,5,0.514,rule_based,0.101
+tw_0333,2026-09-22,twitter,NVIDIA Corp.,NVDA,"NVDA deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.091
+tw_0495,2026-09-22,twitter,Apple Inc.,AAPL,AAPL flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.048
+news_0157,2026-09-23,news,Coca-Cola Co.,KO,Coca-Cola Co. rallies as easing geopolitical tensions revive trade talks in key export markets.,0.1779,Geopolitical,6,0.5889,rule_based,0.138
+news_0086,2026-09-23,news,Caterpillar Inc.,CAT,Caterpillar Inc. shares gain after a ceasefire agreement reduces regional supply-chain risk.,0.7717,Geopolitical,7,0.85,rule_based,0.237
+news_0034,2026-09-23,news,Caterpillar Inc.,CAT,Caterpillar Inc. issues a statement on its exposure to ongoing geopolitical developments.,0.0,Geopolitical,5,0.425,rule_based,0.075
+news_0133,2026-09-23,news,Caterpillar Inc.,CAT,Caterpillar Inc. confirms it is in early-stage discussions regarding a potential strategic deal.,0.0,Merger/Acquisition,4,0.425,rule_based,0.069
+tw_0235,2026-09-23,twitter,Bank of America Corp.,BAC,"BAC new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.132
+tw_0323,2026-09-23,twitter,Amazon.com Inc.,AMZN,"war fears tanking AMZN today, ugly tape",-0.875,Geopolitical,9,0.775,rule_based,0.085
+tw_0220,2026-09-23,twitter,Caterpillar Inc.,CAT,"CAT new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.111
+tw_0132,2026-09-23,twitter,Pfizer Inc.,PFE,"PFE teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.099
+tw_0125,2026-09-23,twitter,Alphabet Inc.,GOOGL,"GOOGL confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.077
+tw_0083,2026-09-23,twitter,JPMorgan Chase & Co.,JPM,JPM launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.096
+tw_0070,2026-09-23,twitter,Microsoft Corp.,MSFT,"MSFT getting hit hard, sanctions headlines are brutal rn",-0.6705,Geopolitical,8,0.7603,rule_based,0.109
+news_0271,2026-09-23,news,Amazon.com Inc.,AMZN,"Amazon.com Inc. beats quarterly earnings expectations, shares tick higher on the print.",0.296,Other,3,0.448,rule_based,0.097
+tw_0402,2026-09-23,twitter,NVIDIA Corp.,NVDA,"NVDA deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.091
+news_0282,2026-09-23,news,Chevron Corp.,CVX,Chevron Corp. refinances a portion of its debt load at prevailing market rates.,-0.3612,Credit Event,6,0.6056,rule_based,0.094
+news_0117,2026-09-23,news,Johnson & Johnson,JNJ,Johnson & Johnson declares bankruptcy protection as default on senior debt becomes imminent.,-0.3612,Credit Event,8,0.7556,rule_based,0.096
+news_0268,2026-09-24,news,Bank of America Corp.,BAC,"Bank of America Corp. beats quarterly earnings expectations, shares tick higher on the print.",0.296,Other,3,0.448,rule_based,0.226
+tw_0455,2026-09-24,twitter,Procter & Gamble Co.,PG,"PG new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.159
+tw_0477,2026-09-24,twitter,Alphabet Inc.,GOOGL,inflation data wrecking GOOGL premarket,0.0,Macroeconomic,4,0.425,rule_based,0.048
+news_0337,2026-09-24,news,Amazon.com Inc.,AMZN,Amazon.com Inc. shares pop after its newest product sells out within hours of launch.,0.296,Product Launch,4,0.648,rule_based,0.085
+news_0323,2026-09-24,news,Johnson & Johnson,JNJ,"Johnson & Johnson to acquire a smaller rival in a multi-billion dollar deal, shares jump on synergy hopes.",0.6124,Merger/Acquisition,6,0.8062,rule_based,0.137
+news_0317,2026-09-24,news,Pfizer Inc.,PFE,Pfizer Inc. shares gain after a ceasefire agreement reduces regional supply-chain risk.,0.7717,Geopolitical,7,0.85,rule_based,0.172
+news_0285,2026-09-24,news,Alphabet Inc.,GOOGL,Alphabet Inc. analysts await the next central bank rate decision before revising guidance.,0.1027,Macroeconomic,4,0.4764,rule_based,0.112
+news_0302,2026-09-24,news,Bank of America Corp.,BAC,Bank of America Corp. credit outlook upgraded after a strong track record of debt repayment.,0.5267,Credit Event,7,0.7633,rule_based,0.164
+news_0009,2026-09-24,news,Microsoft Corp.,MSFT,Microsoft Corp. shares surge on takeover speculation from a larger industry player.,0.296,Merger/Acquisition,5,0.573,rule_based,0.079
+news_0253,2026-09-24,news,Bank of America Corp.,BAC,Bank of America Corp. announces routine changes to its board of directors.,0.0,Other,3,0.3,rule_based,0.056
+news_0143,2026-09-24,news,Boeing Co.,BA,"Boeing Co. merger talks collapse, deal uncertainty weighs heavily on the stock.",-0.6808,Merger/Acquisition,7,0.8404,rule_based,0.123
+news_0308,2026-09-24,news,Caterpillar Inc.,CAT,Caterpillar Inc. shares pop after its newest product sells out within hours of launch.,0.296,Product Launch,4,0.648,rule_based,0.082
+tw_0415,2026-09-25,twitter,Apple Inc.,AAPL,"AAPL crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.054
+tw_0422,2026-09-25,twitter,Bank of America Corp.,BAC,"BAC teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.097
+tw_0014,2026-09-25,twitter,Bank of America Corp.,BAC,"BAC new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.131
+tw_0022,2026-09-25,twitter,Caterpillar Inc.,CAT,"CAT teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.094
+tw_0058,2026-09-25,twitter,Boeing Co.,BA,BA flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.053
+tw_0089,2026-09-25,twitter,Pfizer Inc.,PFE,inflation data wrecking PFE premarket,0.0,Macroeconomic,4,0.425,rule_based,0.044
+tw_0140,2026-09-25,twitter,JPMorgan Chase & Co.,JPM,"JPM new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.118
+tw_0398,2026-09-25,twitter,Exxon Mobil Corp.,XOM,"XOM refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.05
+tw_0175,2026-09-25,twitter,NVIDIA Corp.,NVDA,"NVDA confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.084
+tw_0259,2026-09-25,twitter,Amazon.com Inc.,AMZN,"AMZN confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.075
+tw_0059,2026-09-25,twitter,Amazon.com Inc.,AMZN,watching AMZN react to the geopolitical headlines this morning,0.0,Geopolitical,5,0.425,rule_based,0.056
+tw_0145,2026-09-25,twitter,Bank of America Corp.,BAC,BAC launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.103
+tw_0385,2026-09-25,twitter,Coca-Cola Co.,KO,"KO ripping on the inflation print, rate cut hopes back on",0.1779,Macroeconomic,5,0.514,rule_based,0.117
+news_0249,2026-09-25,news,Alphabet Inc.,GOOGL,Alphabet Inc. schedules a product showcase event for investors and press next month.,0.0,Product Launch,3,0.5,rule_based,0.079
+tw_0371,2026-09-25,twitter,JPMorgan Chase & Co.,JPM,"JPM confirms talks, no deal terms yet",-0.296,Merger/Acquisition,5,0.573,rule_based,0.082
+news_0014,2026-09-25,news,NVIDIA Corp.,NVDA,NVIDIA Corp. credit outlook upgraded after a strong track record of debt repayment.,0.5267,Credit Event,7,0.7633,rule_based,0.154
+news_0341,2026-09-25,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. credit outlook upgraded after a strong track record of debt repayment.,0.5267,Credit Event,7,0.7633,rule_based,0.174
+news_0242,2026-09-25,news,Procter & Gamble Co.,PG,Procter & Gamble Co. refinances a portion of its debt load at prevailing market rates.,-0.3612,Credit Event,6,0.6056,rule_based,0.109
+news_0239,2026-09-25,news,Johnson & Johnson,JNJ,Johnson & Johnson schedules a product showcase event for investors and press next month.,0.0,Product Launch,3,0.5,rule_based,0.068
+tw_0391,2026-09-25,twitter,Coca-Cola Co.,KO,"KO 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.061
+news_0193,2026-09-25,news,Alphabet Inc.,GOOGL,"Alphabet Inc. beats quarterly earnings expectations, shares tick higher on the print.",0.296,Other,3,0.448,rule_based,0.104
+news_0103,2026-09-25,news,NVIDIA Corp.,NVDA,NVIDIA Corp. shares fall as regulators block its proposed acquisition on antitrust grounds.,-0.1779,Merger/Acquisition,4,0.514,rule_based,0.136
+news_0332,2026-09-25,news,Microsoft Corp.,MSFT,Microsoft Corp. shares fall as regulators block its proposed acquisition on antitrust grounds.,-0.1779,Merger/Acquisition,4,0.514,rule_based,0.122
+news_0099,2026-09-25,news,Alphabet Inc.,GOOGL,Alphabet Inc. announces routine changes to its board of directors.,0.0,Other,3,0.3,rule_based,0.058
+news_0058,2026-09-25,news,Alphabet Inc.,GOOGL,Alphabet Inc. bonds slump after a rating agency flags default risk amid mounting debt obligations.,-0.5574,Credit Event,8,0.8537,rule_based,0.129
+news_0173,2026-09-26,news,Boeing Co.,BA,Boeing Co. shares climb as cooling inflation data raises hopes of interest rate cuts.,0.7003,Macroeconomic,6,0.85,rule_based,0.17
+news_0346,2026-09-26,news,Procter & Gamble Co.,PG,Procter & Gamble Co. refinances a portion of its debt load at prevailing market rates.,-0.3612,Credit Event,6,0.6056,rule_based,0.107
+tw_0199,2026-09-26,twitter,Exxon Mobil Corp.,XOM,XOM flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.053
+tw_0123,2026-09-26,twitter,Pfizer Inc.,PFE,PFE launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.106
+tw_0086,2026-09-26,twitter,Amazon.com Inc.,AMZN,"AMZN ripping on the inflation print, rate cut hopes back on",0.1779,Macroeconomic,5,0.514,rule_based,0.131
+news_0077,2026-09-26,news,Amazon.com Inc.,AMZN,Amazon.com Inc. warns of margin pressure as inflation and rising interest rates squeeze costs.,0.1027,Macroeconomic,6,0.5514,rule_based,0.142
+news_0081,2026-09-26,news,Boeing Co.,BA,Boeing Co. delays its flagship product launch amid ongoing supply chain issues.,0.1027,Product Launch,4,0.5514,rule_based,0.1
+news_0096,2026-09-26,news,Caterpillar Inc.,CAT,Caterpillar Inc. rallies after stronger-than-expected GDP growth boosts consumer spending outlook.,0.5994,Macroeconomic,6,0.7247,rule_based,0.129
+tw_0407,2026-09-26,twitter,Bank of America Corp.,BAC,BAC flat ahead of the Fed decision later today,0.0,Macroeconomic,4,0.425,rule_based,0.05
+tw_0201,2026-09-26,twitter,JPMorgan Chase & Co.,JPM,"JPM bankruptcy talk trending, not good",-0.3412,Credit Event,8,0.5956,rule_based,0.079
+tw_0114,2026-09-27,twitter,JPMorgan Chase & Co.,JPM,"JPM earnings next week, setting price alerts",0.0,Other,3,0.3,rule_based,0.047
+tw_0295,2026-09-27,twitter,Apple Inc.,AAPL,watching AAPL react to the geopolitical headlines this morning,0.0,Geopolitical,5,0.425,rule_based,0.053
+tw_0185,2026-09-27,twitter,Microsoft Corp.,MSFT,"MSFT teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.102
+tw_0112,2026-09-27,twitter,Alphabet Inc.,GOOGL,"GOOGL getting hit hard, sanctions headlines are brutal rn",-0.6705,Geopolitical,8,0.7603,rule_based,0.122
+tw_0069,2026-09-27,twitter,Procter & Gamble Co.,PG,"PG deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.098
+tw_0061,2026-09-27,twitter,Microsoft Corp.,MSFT,inflation data wrecking MSFT premarket,0.0,Macroeconomic,4,0.425,rule_based,0.044
+news_0113,2026-09-27,news,JPMorgan Chase & Co.,JPM,JPMorgan Chase & Co. reiterates full-year guidance at an investor conference.,0.0,Other,3,0.3,rule_based,0.06
+news_0092,2026-09-27,news,Alphabet Inc.,GOOGL,Alphabet Inc. warns of disruption as conflict in a key sourcing region threatens its supply chain.,-0.7783,Geopolitical,8,0.85,rule_based,0.181
+news_0128,2026-09-27,news,Alphabet Inc.,GOOGL,"Alphabet Inc. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.897
+tw_0040,2026-09-28,twitter,Microsoft Corp.,MSFT,"MSFT teasing a launch event next month, curious what it is",0.25,Product Launch,4,0.55,rule_based,0.128
+tw_0067,2026-09-28,twitter,Alphabet Inc.,GOOGL,"GOOGL ripping on the inflation print, rate cut hopes back on",0.1779,Macroeconomic,5,0.514,rule_based,0.122
+news_0149,2026-09-28,news,Alphabet Inc.,GOOGL,"Alphabet Inc. to acquire a smaller rival in a multi-billion dollar deal, shares jump on synergy hopes.",0.6124,Merger/Acquisition,6,0.8062,rule_based,0.152
+tw_0254,2026-09-28,twitter,Boeing Co.,BA,"BA earnings next week, setting price alerts",0.0,Other,3,0.3,rule_based,0.049
+tw_0421,2026-09-28,twitter,JPMorgan Chase & Co.,JPM,"JPM earnings next week, setting price alerts",0.0,Other,3,0.3,rule_based,0.048
+tw_0267,2026-09-28,twitter,Microsoft Corp.,MSFT,"MSFT crushed earnings, calls printing today",-0.4215,Other,4,0.5108,rule_based,0.058
+tw_0275,2026-09-28,twitter,Procter & Gamble Co.,PG,PG launch delayed again... supply chain still a mess,-0.5267,Product Launch,4,0.6884,rule_based,0.105
+news_0340,2026-09-28,news,Alphabet Inc.,GOOGL,Alphabet Inc. refinances a portion of its debt load at prevailing market rates.,-0.3612,Credit Event,6,0.6056,rule_based,0.103
+tw_0062,2026-09-28,twitter,Chevron Corp.,CVX,"CVX bleeding, rates up again and nobody wants risk rn",-0.2732,Other,3,0.4366,rule_based,0.1
+news_0273,2026-09-28,news,Boeing Co.,BA,"Boeing Co. misses quarterly revenue expectations, shares tick lower on the print.",-0.2263,Other,3,0.4132,rule_based,0.194
+news_0238,2026-09-28,news,Chevron Corp.,CVX,Chevron Corp. warns of margin pressure as inflation and rising interest rates squeeze costs.,0.1027,Macroeconomic,6,0.5514,rule_based,0.173
+news_0219,2026-09-28,news,Coca-Cola Co.,KO,Coca-Cola Co. shares fall as weak jobs data stokes recession fears across the sector.,-0.743,Macroeconomic,6,0.85,rule_based,0.169
+news_0210,2026-09-28,news,Microsoft Corp.,MSFT,"Microsoft Corp. unveils its next-generation product line, analysts praise the innovation.",0.7351,Product Launch,5,0.85,rule_based,0.359
+news_0290,2026-09-28,news,NVIDIA Corp.,NVDA,NVIDIA Corp. shares surge on takeover speculation from a larger industry player.,0.296,Merger/Acquisition,5,0.573,rule_based,0.091
+tw_0162,2026-09-29,twitter,Johnson & Johnson,JNJ,"JNJ new product looks insane, sold out in an hour lol",0.0258,Product Launch,3,0.4379,rule_based,0.125
+tw_0187,2026-09-29,twitter,Amazon.com Inc.,AMZN,"AMZN earnings next week, setting price alerts",0.0,Other,3,0.3,rule_based,0.059
+tw_0200,2026-09-29,twitter,Apple Inc.,AAPL,"AAPL getting hit hard, sanctions headlines are brutal rn",-0.6705,Geopolitical,8,0.7603,rule_based,0.412
+tw_0229,2026-09-29,twitter,JPMorgan Chase & Co.,JPM,"JPM earnings next week, setting price alerts",0.0,Other,3,0.3,rule_based,0.695
+tw_0257,2026-09-29,twitter,NVIDIA Corp.,NVDA,"NVDA refinancing news out, digesting the details",0.0,Other,3,0.3,rule_based,0.076
+news_0042,2026-09-29,news,Chevron Corp.,CVX,Chevron Corp. delays its flagship product launch amid ongoing supply chain issues.,0.1027,Product Launch,4,0.5514,rule_based,0.124
+tw_0330,2026-09-29,twitter,Boeing Co.,BA,"BA deal falling apart, merger arb traders not happy",-0.5571,Merger/Acquisition,5,0.7785,rule_based,0.155
+news_0240,2026-09-29,news,Microsoft Corp.,MSFT,Microsoft Corp. shares drop on fears of a covenant breach following weak quarterly cash flow.,-0.6808,Credit Event,7,0.7654,rule_based,0.296
+news_0235,2026-09-29,news,Microsoft Corp.,MSFT,Microsoft Corp. announces routine changes to its board of directors.,0.0,Other,3,0.3,rule_based,0.07
+news_0230,2026-09-29,news,Apple Inc.,AAPL,Apple Inc. warns of margin pressure as inflation and rising interest rates squeeze costs.,0.1027,Macroeconomic,6,0.5514,rule_based,0.2
+news_0208,2026-09-29,news,Boeing Co.,BA,"Boeing Co. to acquire a smaller rival in a multi-billion dollar deal, shares jump on synergy hopes.",0.6124,Merger/Acquisition,6,0.8062,rule_based,0.15
+news_0095,2026-09-29,news,Chevron Corp.,CVX,Chevron Corp. confirms it is in early-stage discussions regarding a potential strategic deal.,0.0,Merger/Acquisition,4,0.425,rule_based,0.067
+news_0072,2026-09-29,news,Microsoft Corp.,MSFT,Microsoft Corp. confirms it is in early-stage discussions regarding a potential strategic deal.,0.0,Merger/Acquisition,4,0.425,rule_based,0.059
+news_0063,2026-09-29,news,Bank of America Corp.,BAC,Bank of America Corp. warns of disruption as conflict in a key sourcing region threatens its supply chain.,-0.7783,Geopolitical,8,0.85,rule_based,0.523
+news_0037,2026-09-29,news,JPMorgan Chase & Co.,JPM,"JPMorgan Chase & Co. to acquire a smaller rival in a multi-billion dollar deal, shares jump on synergy hopes.",0.6124,Merger/Acquisition,6,0.8062,rule_based,0.158
+tw_0457,2026-09-29,twitter,JPMorgan Chase & Co.,JPM,"JPM 🚀 on the buyout rumor, deal premium incoming?",0.0,Merger/Acquisition,4,0.5,rule_based,0.06

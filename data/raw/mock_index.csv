@@ -1,0 +1,16 @@
+ticker,company,sector,start_weight
+AAPL,Apple Inc.,Technology,0.066667
+MSFT,Microsoft Corp.,Technology,0.066667
+GOOGL,Alphabet Inc.,Technology,0.066667
+NVDA,NVIDIA Corp.,Technology,0.066667
+AMZN,Amazon.com Inc.,Consumer Discretionary,0.066667
+JPM,JPMorgan Chase & Co.,Financials,0.066667
+BAC,Bank of America Corp.,Financials,0.066667
+XOM,Exxon Mobil Corp.,Energy,0.066667
+CVX,Chevron Corp.,Energy,0.066667
+JNJ,Johnson & Johnson,Healthcare,0.066667
+PFE,Pfizer Inc.,Healthcare,0.066667
+PG,Procter & Gamble Co.,Consumer Staples,0.066667
+KO,Coca-Cola Co.,Consumer Staples,0.066667
+BA,Boeing Co.,Industrials,0.066667
+CAT,Caterpillar Inc.,Industrials,0.066667
