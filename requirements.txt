@@ -1,0 +1,27 @@
+# Core
+pandas>=2.2
+numpy>=1.26
+pydantic>=2.6
+
+# Rule-based NLP (always used, zero heavy deps)
+vaderSentiment>=3.3.2
+
+# Dashboard
+streamlit>=1.38
+matplotlib>=3.9
+
+# Docs generation
+fpdf2>=2.7
+
+# --- Optional: hybrid transformer backend (CP4) ---
+# The engine runs fully on the rule-based path without these.
+# On Windows, plain `pip install torch` already resolves to the small
+# CPU-only wheel (PyPI hosts CPU-only builds for Windows); no special
+# --index-url needed.
+torch>=2.5
+transformers>=4.57
+sentencepiece>=0.2.1
+
+# --- Optional: FastAPI interface (CP6, bonus) ---
+fastapi>=0.115
+uvicorn[standard]>=0.30
