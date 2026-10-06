@@ -249,6 +249,7 @@ def generate_news_and_tweets():
     write_csv(DATA_RAW / "tweets.csv", tweet_rows, fieldnames)
     print(f"Wrote {len(news_rows)} news rows, {len(tweet_rows)} tweet rows "
           f"(including {len(GUARANTEED_HIGH_IMPACT)} guaranteed high-impact rows).")
+    return news_rows, tweet_rows
 
 
 def generate_mock_index():
@@ -261,14 +262,39 @@ def generate_mock_index():
     print(f"Wrote mock_index.csv with {n} tickers.")
 
 
-def generate_mock_index_prices():
+def _build_sentiment_map(news_rows: list, tweet_rows: list) -> dict:
+    """(ticker, date_iso) -> mean numeric intended_sentiment for that ticker/day."""
+    buckets: dict = {}
+    for row in news_rows + tweet_rows:
+        key = (row["ticker"], row["date"])
+        buckets.setdefault(key, []).append(SENTIMENT_VALUE[row["intended_sentiment"]])
+    return {k: sum(v) / len(v) for k, v in buckets.items()}
+
+
+def generate_mock_index_prices(sentiment_map: dict):
+    """Synthetic daily price walk per ticker.
+
+    NOTE on a deliberate stylized assumption: each day's drift is nudged by a
+    decayed running average of that ticker's *intended* sentiment (the label
+    baked into the text generator, not the engine's measured output). This
+    gives Module A's sentiment-tilt mechanism something real to demonstrate
+    against the equal-weight baseline. Real-world sentiment/forward-return
+    correlation is far weaker and noisier than modeled here -- this is a
+    hackathon demo convenience, not a claim about real markets, and is
+    called out explicitly in the README's dataset-assumptions section.
+    """
     rng = random.Random(RNG_SEED + 1)
     dates = _daterange(N_DAYS)
+    effect_strength = 0.006
+    decay = 0.85
     rows = []
     for ticker, _company, _sector, start_price in MOCK_INDEX:
         price = start_price
+        running_sentiment = 0.0
         for d in dates:
-            daily_return = rng.gauss(0.0003, 0.018)  # slight upward drift, ~1.8% daily vol
+            day_value = sentiment_map.get((ticker, d.isoformat()))
+            running_sentiment = decay * running_sentiment + (day_value if day_value is not None else 0.0)
+            daily_return = rng.gauss(0.0003, 0.018) + effect_strength * running_sentiment
             price = max(1.0, price * (1 + daily_return))
             rows.append({"ticker": ticker, "date": d.isoformat(), "price": round(price, 2)})
     write_csv(DATA_RAW / "mock_index_prices.csv", rows, ["ticker", "date", "price"])
@@ -319,9 +345,10 @@ def generate_shock_config():
 
 
 if __name__ == "__main__":
-    generate_news_and_tweets()
+    news_rows, tweet_rows = generate_news_and_tweets()
     generate_mock_index()
-    generate_mock_index_prices()
+    sentiment_map = _build_sentiment_map(news_rows, tweet_rows)
+    generate_mock_index_prices(sentiment_map)
     generate_synthetic_portfolio()
     generate_shock_config()
     print("Done. All synthetic data written to", DATA_RAW)
