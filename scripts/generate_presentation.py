@@ -83,7 +83,7 @@ def load_summary() -> dict:
 
 def main():
     summary = load_summary()
-    pdf = Slide(orientation="L", unit="mm", format=(PAGE_W, PAGE_H))
+    pdf = Slide(unit="mm", format=(PAGE_W, PAGE_H))
     pdf.set_auto_page_break(False)
 
     # Slide 1: Title
