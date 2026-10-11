@@ -1,19 +1,19 @@
 {
   "note": "Self-consistency compares the engine's output against the intended sentiment/event label baked into our own synthetic data generator (scripts/generate_synthetic_data.py). This is a reproducibility/sanity check, NOT a real-world benchmark against human-labeled ground truth.",
   "n_total_signals": 855,
-  "overall_sentiment_self_consistency": 0.6234,
-  "overall_event_self_consistency": 0.9591,
-  "n_high_impact_signals_gt7": 73,
+  "overall_sentiment_self_consistency": 0.7322,
+  "overall_event_self_consistency": 0.5532,
+  "n_high_impact_signals_gt7": 85,
   "method_distribution": {
-    "rule_based": 855
+    "transformer": 855
   },
   "by_method": {
-    "rule_based": {
+    "transformer": {
       "n_signals": 855,
-      "mean_latency_ms": 9.908,
-      "sentiment_self_consistency": 0.6234,
-      "event_self_consistency": 0.9591
+      "mean_latency_ms": 4321.759,
+      "sentiment_self_consistency": 0.7322,
+      "event_self_consistency": 0.5532
     }
   },
-  "total_batch_runtime_seconds": 8.48
+  "total_batch_runtime_seconds": 3695.237
 }

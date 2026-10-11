@@ -57,7 +57,7 @@ def load_shock_config() -> dict:
 
 
 st.title("AI/NLP Financial Risk Engine")
-st.caption("S&P Global & Crisil Campus Hackathon 2026 — Srajan Umrao, IIIT Bhopal")
+st.caption("S&P Global & Crisil Campus Hackathon 2026 — Srajan Umrao, IIIT Bhopal | [📺 Watch 10-Min Demo Video](https://youtu.be/LO--3ZRDJFo)")
 
 if not (DATA_OUTPUT / "risk_signals.csv").exists():
     st.error(

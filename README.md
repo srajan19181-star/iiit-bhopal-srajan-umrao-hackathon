@@ -3,7 +3,7 @@
 **Candidate Name:** Srajan Umrao  
 **College Email ID:** srajan19181@gmail.com  
 **College / Campus:** IIIT Bhopal  
-**Demo Video Link:** TODO — add unlisted YouTube link after recording  
+**Demo Video Link:** https://youtu.be/LO--3ZRDJFo  
 **Slide Deck Link:** [docs/presentation.pdf](docs/presentation.pdf)
 
 ---
@@ -129,6 +129,10 @@ py main.py test
 # 6. Launch the Streamlit dashboard
 py main.py dashboard
 # or: streamlit run src/app.py
+
+# 7. Launch the api
+py main.py api
+# or: uvicorn src.risk_engine.api:app --reload
 ```
 
 The dashboard opens at **http://localhost:8501** and requires no further setup.

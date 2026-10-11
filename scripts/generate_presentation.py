@@ -106,6 +106,10 @@ def main():
     pdf.set_font("Helvetica", "", 11)
     pdf.set_text_color(190, 200, 215)
     pdf.cell(PAGE_W, 7, "IIIT Bhopal  |  S&P Global & Crisil Campus Hackathon 2026", align="C")
+    pdf.set_xy(0, 117)
+    pdf.set_font("Helvetica", "U", 10)
+    pdf.set_text_color(160, 210, 255)
+    pdf.cell(PAGE_W, 6, "Demo Video: https://youtu.be/LO--3ZRDJFo", align="C", link="https://youtu.be/LO--3ZRDJFo")
 
     # Slide 2: Problem & Approach
     new_slide(pdf)
@@ -186,6 +190,7 @@ def main():
         "shock-ordering ambiguity -- a reasonable but simplifying assumption.",
         "Next steps: swap in live sources (GDELT, a news API) behind the same ingestion interface; fine-tune "
         "the event classifier on labeled financial-event data; add duration-based rate-shock modeling to Module B.",
+        "Demo Video Walkthrough (10 mins): https://youtu.be/LO--3ZRDJFo",
     ], MARGIN, 40, PAGE_W - 2 * MARGIN)
     footer_candidate(pdf, 7)
 
